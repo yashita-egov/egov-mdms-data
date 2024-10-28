@@ -19555,6 +19555,24 @@
       "actionid": 1763,
       "actioncode": "",
       "tenantid": "mz"
-    }                                                         
+    },
+    {
+      "rolecode": "MDMS_ADMIN",
+      "actionid": 2006,
+      "actioncode": "",
+      "tenantid": "mz"
+    },
+    {
+      "rolecode": "MDMS_ADMIN",
+      "actionid": 2007,
+      "actioncode": "",
+      "tenantid": "mz"
+    },
+    {
+      "rolecode": "MDMS_ADMIN",
+      "actionid": 2008,
+      "actioncode": "",
+      "tenantid": "mz"
+    }
   ]
 }
