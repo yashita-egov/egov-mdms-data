@@ -14894,6 +14894,25 @@
       "navigationURL": "/workbench-ui/employee/campaign/boundary/home?type=others&hierarchyType=campaign",
       "leftIcon": "ProjectIcon",
       "rightIcon": ""
-    }   
+    },
+    {
+      "id": 2006,
+      "name": "update data for HCM-ADMIN-CONSOLE.HierarchySchem",
+      "url": "/mdms-v2/v2/_update/HCM-ADMIN-CONSOLE.HierarchySchema",
+      "serviceCode": "mdms"
+    },
+    {
+      "id": 2007,
+      "name": "create data for HCM-ADMIN-CONSOLE.ChecklistTemplates",
+      "url": "/mdms-v2/v2/_create/HCM-ADMIN-CONSOLE.ChecklistTemplates",
+      "serviceCode": "mdms"
+    },
+    {
+      "id": 2008,
+      "name": "update data for HCM-ADMIN-CONSOLE.ChecklistTemplates",
+      "url": "/mdms-v2/v2/_update/HCM-ADMIN-CONSOLE.ChecklistTemplates",
+      "serviceCode": "mdms"
+    }
+
   ]
 }
