@@ -19573,6 +19573,48 @@
       "actionid": 2008,
       "actioncode": "",
       "tenantid": "mz"
+    },
+    {
+      "rolecode": "MICROPLAN_ADMIN",
+      "actionid": 2009,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "ROOT_POPULATION_DATA_APPROVER",
+      "actionid": 2009,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "POPULATION_DATA_APPROVER",
+      "actionid": 2009,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "ROOT_POPULATION_DATA_APPROVER",
+      "actionid": 2010,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "POPULATION_DATA_APPROVER",
+      "actionid": 2010,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "ROOT_POPULATION_DATA_APPROVER",
+      "actionid": 2011,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "POPULATION_DATA_APPROVER",
+      "actionid": 2011,
+      "actioncode": "",
+      "tenantId": "mz"
     }
   ]
 }
