@@ -14912,7 +14912,39 @@
       "name": "update data for HCM-ADMIN-CONSOLE.ChecklistTemplates",
       "url": "/mdms-v2/v2/_update/HCM-ADMIN-CONSOLE.ChecklistTemplates",
       "serviceCode": "mdms"
+    },
+    {
+      "id": 2009,
+      "name": "census create API",
+      "url": "/census-service/_create",
+      "displayName": "census create API",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "census-service",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2010,
+      "name": "census search API",
+      "url": "/census-service/_search",
+      "displayName": "census search API",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "census-service",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2011,
+      "name": "census update API",
+      "url": "/census-service/_update",
+      "displayName": "census update API",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "census-service",
+      "code": "null",
+      "path": ""
     }
-
   ]
 }
