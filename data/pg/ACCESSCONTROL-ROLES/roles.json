@@ -701,6 +701,32 @@
       "code": "LOC_ADMIN",
       "name": "LOC Administrator",
       "description": "LOC Administrator"
-    }
+    },
+    {
+        "code": "PQM_ADMIN",
+        "name": "PQM Admin",
+        "description": "Pqm Admin"
+      },
+      
+      {
+        "code": "PQM_TP_OPERATOR",
+        "name": "PQM TP OPERATOR",
+        "description": "Pqm Plant Operator"
+      },
+      {
+        "code": "PQM_CRONJOB_SCHEDULER",
+        "name": "PQM CRONJOB SCHEDULER",
+        "description": "Pqm Cronjob Scheduler"
+      },
+      {
+        "code": "SANITATION_HELPER",
+        "name": "Sanitation Helper",
+        "description": "Sanitation helper worker"
+      },
+      {
+        "code": "SANITATION_WORKER",
+        "name": "Sanitation Worker",
+        "description": "Sanitation worker"
+      }
   ]
 }
