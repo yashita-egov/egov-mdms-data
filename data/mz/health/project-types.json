@@ -29,7 +29,7 @@
       "resources": [
         {
           "productVariantId": "PVAR-2024-05-09-000333",
-          "name": "Bednet",
+          "name": "Bednet - Grade - 1",
           "isBaseUnitVariant": false
         }
       ],
@@ -50,7 +50,7 @@
                   "ProductVariants": [
                     {
                       "productVariantId": "PVAR-2024-05-09-000333",
-                      "name": "Bednet"
+                      "name": "Bednet - Grade - 1"
                     }
                   ]
                 }
@@ -303,32 +303,26 @@
                                     "ProductVariants": [
                                         {
                                             "name": "Sumishield - 1litre",
-                                            "quantity": 1,
                                             "productVariantId": "PVAR-2024-10-09-000427"
                                         },
                                         {
                                             "name": "Fludora - 1litre",
-                                            "quantity": 1,
                                             "productVariantId": "PVAR-2024-10-09-000428"
                                         },
                                         {
                                             "name": "Delt - 1litre",
-                                            "quantity": 1,
                                             "productVariantId": "PVAR-2024-10-09-000429"
                                         },
                                         {
                                             "name": "Acetellic - 1litre",
-                                            "quantity": 1,
                                             "productVariantId": "PVAR-2024-10-09-000430"
                                         },
                                         {
                                             "name": "DOT - 1litre",
-                                            "quantity": 1,
                                             "productVariantId": "PVAR-2024-10-09-000431"
                                         },
                                         {
                                             "name": "Bendiocarb - 1litre",
-                                            "quantity": 1,
                                             "productVariantId": "PVAR-2024-10-09-000432"
                                         }
                                     ]
