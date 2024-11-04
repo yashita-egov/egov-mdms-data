@@ -284,78 +284,109 @@
         }
       ]
     },
-     {
-      "id": "192a20d1-0edd-4108-925a-f37bf544d6c4",
-      "name": "Project type configuration for IRS - Campaigns",
-      "code": "IRS-mz",
-      "group": "IRS Campaign",
-      "beneficiaryType": "HOUSEHOLD",
-      "attrAddDisable": true,
-      "deliveryAddDisable": false,
-      "productCountHide": true,
-      "IsCycleDisable": true,
-      "eligibilityCriteria": ["All households are eligible."],
-      "dashboardUrls": {
-        "NATIONAL_SUPERVISOR": "/digit-ui/employee/dss/landing/national-health-dashboard",
-        "PROVINCIAL_SUPERVISOR": "/digit-ui/employee/dss/dashboard/provincial-health-dashboard",
-        "DISTRICT_SUPERVISOR": "/digit-ui/employee/dss/dashboard/district-health-dashboard"
-      },
-      "taskProcedure": [
-        "1 DDT is to be distributed per house.",
-        "1 Malathion is to be distributed per house.",
-        "1 Pyrethroid is to be distributed per house."
-      ],
-      "resources": [
-        {
-          "productVariantId": "PVAR-2024-07-08-000368",
-          "isBaseUnitVariant": true
-        },
-        {
-          "productVariantId": "PVAR-2024-07-08-000369",
-          "isBaseUnitVariant": true
-        },
-        {
-          "productVariantId": "PVAR-2024-07-08-000370",
-          "isBaseUnitVariant": true
-        },
-        {
-          "productVariantId": "PVAR-2024-07-08-000371",
-          "isBaseUnitVariant": true
-        },
-        {
-          "productVariantId": "PVAR-2024-07-08-000372",
-          "isBaseUnitVariant": true
-        },
-        {
-          "productVariantId": "PVAR-2024-07-08-000373",
-          "isBaseUnitVariant": true
-        }
-      ],
-      "cycles": [
-        {
-          "mandatoryWaitSinceLastCycleInDays": null,
-          "startDate": 1714329000000,
-          "endDate": 1715279400000,
-          "id": 1,
-          "deliveries": [
-            {
-              "id": 1,
-              "deliveryStrategy": "DIRECT",
-              "mandatoryWaitSinceLastDeliveryInDays": null,
-              "doseCriteria": [
+    {
+            "id": "192a20d1-0edd-4108-925a-f37bf544d6c4",
+            "code": "IRS-mz",
+            "name": "Project type configuration for IRS - Campaigns",
+            "group": "IRS Campaign",
+            "cycles": [
                 {
-                  "condition": "TYPE_OF_STRUCTURE=CEMENT",
-                  "ProductVariants": [
-                    {
-                      "productVariantId": "PVAR-2024-07-08-000373"
-                    }
-                  ]
+                    "id": 1,
+                    "endDate": 1715279400000,
+                    "startDate": 1714329000000,
+                    "deliveries": [
+                        {
+                            "id": 1,
+                            "doseCriteria": [
+                                {
+                                    "condition": "TYPE_OF_STRUCTURE=CEMENT",
+                                    "ProductVariants": [
+                                        {
+                                            "name": "Sumishield - 1litre",
+                                            "quantity": 1,
+                                            "productVariantId": "PVAR-2024-10-09-000427"
+                                        },
+                                        {
+                                            "name": "Fludora - 1litre",
+                                            "quantity": 1,
+                                            "productVariantId": "PVAR-2024-10-09-000428"
+                                        },
+                                        {
+                                            "name": "Delt - 1litre",
+                                            "quantity": 1,
+                                            "productVariantId": "PVAR-2024-10-09-000429"
+                                        },
+                                        {
+                                            "name": "Acetellic - 1litre",
+                                            "quantity": 1,
+                                            "productVariantId": "PVAR-2024-10-09-000430"
+                                        },
+                                        {
+                                            "name": "DOT - 1litre",
+                                            "quantity": 1,
+                                            "productVariantId": "PVAR-2024-10-09-000431"
+                                        },
+                                        {
+                                            "name": "Bendiocarb - 1litre",
+                                            "quantity": 1,
+                                            "productVariantId": "PVAR-2024-10-09-000432"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "deliveryStrategy": "DIRECT",
+                            "mandatoryWaitSinceLastDeliveryInDays": null
+                        }
+                    ],
+                    "mandatoryWaitSinceLastCycleInDays": null
                 }
-              ]
-            }
-          ]
+            ],
+            "resources": [
+                {
+                    "name": "Sumishield - 1litre",
+                    "productVariantId": "PVAR-2024-10-09-000427",
+                    "isBaseUnitVariant": true
+                },
+                {
+                    "name": "Fludora - 1litre",
+                    "productVariantId": "PVAR-2024-10-09-000428",
+                    "isBaseUnitVariant": true
+                },
+                {
+                    "name": "Delt - 1litre",
+                    "productVariantId": "PVAR-2024-10-09-000429",
+                    "isBaseUnitVariant": true
+                },
+                {
+                    "name": "Acetellic - 1litre",
+                    "productVariantId": "PVAR-2024-10-09-000430",
+                    "isBaseUnitVariant": true
+                },
+                {
+                    "name": "DOT - 1litre",
+                    "productVariantId": "PVAR-2024-10-09-000431",
+                    "isBaseUnitVariant": true
+                },
+                {
+                    "name": "Bendiocarb - 1litre",
+                    "productVariantId": "PVAR-2024-10-09-000432",
+                    "isBaseUnitVariant": true
+                }
+            ],
+            "dashboardUrls": {
+                "DISTRICT_SUPERVISOR": "/health-ui/employee/dss/dashboard/district-health-dashboard-irs",
+                "NATIONAL_SUPERVISOR": "/health-ui/employee/dss/landing/national-health-dashboard-irs",
+                "PROVINCIAL_SUPERVISOR": "/health-ui/employee/dss/dashboard/provincial-health-dashboard-irs"
+            },
+            "taskProcedure": [
+                "1 DDT is to be distributed per house.",
+                "1 Malathion is to be distributed per house.",
+                "1 Pyrethroid is to be distributed per house."
+            ],
+            "beneficiaryType": "HOUSEHOLD",
+            "eligibilityCriteria": [
+                "All households are eligible."
+            ]
         }
-      ]
-    }
   ]
 }
