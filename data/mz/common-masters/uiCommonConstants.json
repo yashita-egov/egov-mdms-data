@@ -34,7 +34,7 @@
                     },
                     "smc": {
                         "iframe-routes": {
-                          "spray-successful-national": {
+                          "administration-successful-national": {
                                 "title": "DASHBOARD_ADMINISTRATION_SUCCESSFUL",
                                 "isOrigin": true,
                                 "routePath": "/kibana/app/dashboards#/view/580ff9e0-9c30-11ef-b5ae-178f84f1de57?_g=(filters:!(),refreshInterval:(pause:!t,value:60000),time:(from:now-15m,to:now))&_a=()&hide-filter-bar=true",
@@ -42,7 +42,7 @@
                                 "base-kibana-path": "/kibana/",
                                 "overwriteTimeFilter": true
                             },
-                            "spray-unsuccessful-national": {
+                            "administration-unsuccessful-national": {
                                 "title": "DASHBOARD_ADMINISTRATION_UNSUCCESSFUL",
                                 "isOrigin": true,
                                 "routePath": "/kibana/app/dashboards#/view/8cbc4020-9c32-11ef-b5ae-178f84f1de57?_g=(filters:!(),refreshInterval:(pause:!t,value:60000),time:(from:now-15m,to:now))&_a=()&hide-filter-bar=true",
