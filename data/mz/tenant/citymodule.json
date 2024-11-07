@@ -91,17 +91,6 @@
       ]
     },
     {
-      "module": "Microplanning",
-      "code": "Microplanning",
-      "active": true,
-      "order": 14,
-      "tenants": [
-        {
-          "code": "mz"
-        }
-      ]
-    },
-    {
       "module": "Microplan",
       "code": "Microplan",
       "active": true,
