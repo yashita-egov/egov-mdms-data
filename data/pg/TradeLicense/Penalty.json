@@ -1,20 +1,29 @@
 {
-  "tenantId": "pg",
+  "tenantId": "ca",
   "moduleName": "TradeLicense",
   "Penalty": [
     {
       "rate": 10,
       "minAmount": 0.0,
       "flatAmount": 0.0,
-      "fromFY": "2018-19",
-      "startingDay": "1/09/2018"
+      "fromFY": "2015-16",
+      "startingDay": "1/04/2016"
+
     },
     {
       "rate": 10,
       "minAmount": 0.0,
       "flatAmount": 0.0,
-      "fromFY": "2015-16",
-      "startingDay": "1/04/2016"
+      "fromFY": "2016-17",
+      "startingDay": "1/04/2017"
+
+    },
+    {
+      "rate": 10,
+      "minAmount": 0.0,
+      "flatAmount": 0.0,
+      "fromFY": "2017-18",
+      "startingDay": "1/04/2018"
 
     },
     {
@@ -37,7 +46,27 @@
       "flatAmount": 0.0,
       "fromFY": "2020-21",
       "startingDay": "1/09/2020"
+    },
+    {
+      "rate": 10,
+      "minAmount": 0.0,
+      "flatAmount": 0.0,
+      "fromFY": "2021-22",
+      "startingDay": "1/09/2021"
+    },
+    {
+      "rate": 10,
+      "minAmount": 0.0,
+      "flatAmount": 0.0,
+      "fromFY": "2022-23",
+      "startingDay": "1/09/2022"
+    },
+    {
+      "rate": 10,
+      "minAmount": 0.0,
+      "flatAmount": 0.0,
+      "fromFY": "2023-24",
+      "startingDay": "1/09/2023"
     }
-
   ]
 }

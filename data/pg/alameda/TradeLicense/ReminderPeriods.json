@@ -1,0 +1,10 @@
+{
+    "tenantId": "ca.alameda",
+    "moduleName": "TradeLicense",
+    "ReminderPeriods": [
+      {
+        "tenantId": "ca.alameda",
+        "reminderInterval": 12345
+      }
+    ]
+  }

@@ -1,18 +1,306 @@
 {
-    "tenantId": "pg",
-    "moduleName": "TradeLicense",
-    "ReminderPeriods": [
-      {
-        "tenantId": "pg.citya",
-        "reminderInterval": 691200000
-      },
-      {
-        "tenantId": "pg.cityb",
-        "reminderInterval": 12345
-      },
-      {
-        "tenantId": "pg.cityc",
-        "reminderInterval": 12345  
-      }
-    ]
-  }
+  "tenantId": "ca",
+  "moduleName": "TradeLicense",
+  "ReminderPeriods": [
+    {
+      "tenantId": "ca.alameda",
+      "reminderInterval": 12345
+    },
+    {
+      "tenantId": "ca.albany",
+      "reminderInterval": 12345
+    },
+    {
+      "tenantId": "ca.berkeley",
+      "reminderInterval": 12345
+    },
+    {
+      "tenantId": "ca.dublin",
+      "reminderInterval": 12345
+    },
+    {
+      "tenantId": "ca.emeryville",
+      "reminderInterval": 12345
+    },
+    {
+      "tenantId": "ca.fremont",
+      "reminderInterval": 12345
+    },
+    {
+      "tenantId": "ca.hayward",
+      "reminderInterval": 12345
+    },
+    {
+      "tenantId": "ca.livermore",
+      "reminderInterval": 12345
+    },
+    {
+      "tenantId": "ca.newark",
+      "reminderInterval": 12345
+    },
+    {
+      "tenantId": "ca.oakland",
+      "reminderInterval": 12345
+    },
+    {
+      "tenantId": "ca.piedmont",
+      "reminderInterval": 12345
+    },
+    {
+      "tenantId": "ca.pleasanton",
+      "reminderInterval": 12345
+    },
+    {
+      "tenantId": "ca.sanleandro",
+      "reminderInterval": 12345
+    },
+    {
+      "tenantId": "ca.unioncity",
+      "reminderInterval": 12345
+    },
+    {
+      "tenantId": "ca.losangeles",
+      "reminderInterval": 12345
+    },
+    {
+      "tenantId": "ca.longbeach",
+      "reminderInterval": 12345
+    },
+    {
+      "tenantId": "ca.glendale",
+      "reminderInterval": 12345
+    },
+    {
+      "tenantId": "ca.santaclarita",
+      "reminderInterval": 12345
+    },
+    {
+      "tenantId": "ca.lancaster",
+      "reminderInterval": 12345
+    },
+    {
+      "tenantId": "ca.palmdale",
+      "reminderInterval": 12345
+    },
+    {
+      "tenantId": "ca.pomona",
+      "reminderInterval": 12345
+    },
+    {
+      "tenantId": "ca.torrance",
+      "reminderInterval": 12345
+    },
+    {
+      "tenantId": "ca.pasadena",
+      "reminderInterval": 12345
+    },
+    {
+      "tenantId": "ca.elmonte",
+      "reminderInterval": 12345
+    },
+    {
+      "tenantId": "ca.downey",
+      "reminderInterval": 12345
+    },
+    {
+      "tenantId": "ca.inglewood",
+      "reminderInterval": 12345
+    },
+    {
+      "tenantId": "ca.westcovina",
+      "reminderInterval": 12345
+    },
+    {
+      "tenantId": "ca.norwalk",
+      "reminderInterval": 12345
+    },
+    {
+      "tenantId": "ca.anaheim",
+      "reminderInterval": 12345
+    },
+    {
+      "tenantId": "ca.brea",
+      "reminderInterval": 12345
+    },
+    {
+      "tenantId": "ca.buenapark",
+      "reminderInterval": 12345
+    },
+    {
+      "tenantId": "ca.costamesa",
+      "reminderInterval": 12345
+    },
+    {
+      "tenantId": "ca.cypress",
+      "reminderInterval": 12345
+    },
+    {
+      "tenantId": "ca.danapoint",
+      "reminderInterval": 12345
+    },
+    {
+      "tenantId": "ca.fountainvalley",
+      "reminderInterval": 12345
+    },
+    {
+      "tenantId": "ca.fullerton",
+      "reminderInterval": 12345
+    },
+    {
+      "tenantId": "ca.gardengrove",
+      "reminderInterval": 12345
+    },
+    {
+      "tenantId": "ca.huntingtonbeach",
+      "reminderInterval": 12345
+    },
+    {
+      "tenantId": "ca.irvine",
+      "reminderInterval": 12345
+    },
+    {
+      "tenantId": "ca.lagunabeach",
+      "reminderInterval": 12345
+    },
+    {
+      "tenantId": "ca.lagunaniguel",
+      "reminderInterval": 12345
+    },
+    {
+      "tenantId": "ca.sandiego",
+      "reminderInterval": 12345
+    },
+    {
+      "tenantId": "ca.carlsbad",
+      "reminderInterval": 12345
+    },
+    {
+      "tenantId": "ca.chulavista",
+      "reminderInterval": 12345
+    },
+    {
+      "tenantId": "ca.coronado",
+      "reminderInterval": 12345
+    },
+    {
+      "tenantId": "ca.delmar",
+      "reminderInterval": 12345
+    },
+    {
+      "tenantId": "ca.elcajon",
+      "reminderInterval": 12345
+    },
+    {
+      "tenantId": "ca.encinitas",
+      "reminderInterval": 12345
+    },
+    {
+      "tenantId": "ca.escondido",
+      "reminderInterval": 12345
+    },
+    {
+      "tenantId": "ca.imperialbeach",
+      "reminderInterval": 12345
+    },
+    {
+      "tenantId": "ca.lamesa",
+      "reminderInterval": 12345
+    },
+    {
+      "tenantId": "ca.lemongrove",
+      "reminderInterval": 12345
+    },
+    {
+      "tenantId": "ca.nationalcity",
+      "reminderInterval": 12345
+    },
+    {
+      "tenantId": "ca.oceanside",
+      "reminderInterval": 12345
+    },
+    {
+      "tenantId": "ca.poway",
+      "reminderInterval": 12345
+    },
+    {
+      "tenantId": "ca.sanjose",
+      "reminderInterval": 12345
+    },
+    {
+      "tenantId": "ca.cupertino",
+      "reminderInterval": 12345
+    },
+    {
+      "tenantId": "ca.gilroy",
+      "reminderInterval": 12345
+    },
+    {
+      "tenantId": "ca.losaltos",
+      "reminderInterval": 12345
+    },
+    {
+      "tenantId": "ca.losgatos",
+      "reminderInterval": 12345
+    },
+    {
+      "tenantId": "ca.milpitas",
+      "reminderInterval": 12345
+    },
+    {
+      "tenantId": "ca.montesereno",
+      "reminderInterval": 12345
+    },
+    {
+      "tenantId": "ca.morganhill",
+      "reminderInterval": 12345
+    },
+    {
+      "tenantId": "ca.mountainview",
+      "reminderInterval": 12345
+    },
+    {
+      "tenantId": "ca.paloalto",
+      "reminderInterval": 12345
+    },
+    {
+      "tenantId": "ca.santaclara",
+      "reminderInterval": 12345
+    },
+    {
+      "tenantId": "ca.saratoga",
+      "reminderInterval": 12345
+    },
+    {
+      "tenantId": "ca.sunnyvale",
+      "reminderInterval": 12345
+    },
+    {
+      "tenantId": "ca.sacramento",
+      "reminderInterval": 12345
+    },
+    {
+      "tenantId": "ca.citrusheights",
+      "reminderInterval": 12345
+    },
+    {
+      "tenantId": "ca.elkgrove",
+      "reminderInterval": 12345
+    },
+    {
+      "tenantId": "ca.folsom",
+      "reminderInterval": 12345
+    },
+    {
+      "tenantId": "ca.galt",
+      "reminderInterval": 12345
+    },
+    {
+      "tenantId": "ca.isleton",
+      "reminderInterval": 12345
+    },
+    {
+      "tenantId": "ca.ranchocordova",
+      "reminderInterval": 12345
+    }
+  ]
+}

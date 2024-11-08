@@ -1,5 +1,5 @@
 {
-  "tenantId": "pg.cityb",
+  "tenantId": "ca.albany",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -15,7 +15,7 @@
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "pg.cityb",
+        "code": "ca.albany",
         "children":[
           {
             "id": 2,
@@ -621,7 +621,7 @@
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "pg.cityb",
+        "code": "ca.albany",
         "children":[
           {
             "id": 2,
