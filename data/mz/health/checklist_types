@@ -4,39 +4,48 @@
   "CHECKLIST_TYPES": [
     {
       "code": "IEC",
-      "name": "IEC"
+      "name": "IEC",
+      "type": "DEFAULT"
     },
     {
       "code": "WAREHOUSE",
-      "name": "WAREHOUSE"
+      "name": "WAREHOUSE",
+      "type": "DEFAULT"
     },
     {
       "code": "HF_RF_DRUG_SE_CC",
-      "name": "HF_RF_DRUG_SE_CC"
+      "name": "HF_RF_DRUG_SE_CC",
+      "type": "ASSESSMENT"
     },
     {
       "code": "HF_RF_DRUG_SE_PC",
-      "name": "HF_RF_DRUG_SE_PC"
+      "name": "HF_RF_DRUG_SE_PC",
+      "type": "ASSESSMENT"
     },
     {
       "code": "HF_RF_FEVER",
-      "name": "HF_RF_FEVER"
+      "name": "HF_RF_FEVER",
+      "type": "ASSESSMENT"
     },
     {
       "code": "HF_RF_SICK",
-      "name": "HF_RF_SICK"
+      "name": "HF_RF_SICK",
+      "type": "ASSESSMENT"
     },
     {
       "code": "TEAM_FORMATION",
-      "name": "TEAM_FORMATION"
+      "name": "TEAM_FORMATION",
+      "type": "DEFAULT"
     },
     {
       "code": "TRAINING_SUPERVISION",
-      "name": "TRAINING_SUPERVISION"
+      "name": "TRAINING_SUPERVISION",
+      "type": "DEFAULT"
     },
     {
       "code": "ELIGIBILITY",
-      "name": "ELIGIBILITY"
+      "name": "ELIGIBILITY",
+      "type": "ASSESSMENT"
     }
   ]
 }
