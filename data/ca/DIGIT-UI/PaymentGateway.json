@@ -1,0 +1,10 @@
+{
+    "tenantId": "ca",
+    "moduleName": "DIGIT-UI",
+    "PaymentGateway": [
+        {
+            "gateway": "AXIS",
+            "active": true
+        }
+    ]
+}
