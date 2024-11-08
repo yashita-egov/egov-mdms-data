@@ -3,19 +3,8 @@
   "moduleName": "PropertyTax",
   "OwnerType": [
     {
-      "name": "Freedom Fighter",
-      "code": "FREEDOMFIGHTER",
-      "active": true,
-      "fromFY": "2015-16",
-      "exemption": {
-        "rate": 100,
-        "maxAmount": null,
-        "flatAmount": null
-      }
-    },
-    {
-      "name": "Widow",
-      "code": "WIDOW",
+      "name": "Veterans",
+      "code": "VETERANS",
       "active": true,
       "fromFY": "2015-16",
       "exemption": {
@@ -25,8 +14,8 @@
       }
     },
     {
-      "name": "Handicapped Person",
-      "code": "HANDICAPPED",
+      "name": "Disabled Individuals",
+      "code": "DISABLEINDIVIDUALS",
       "active": true,
       "fromFY": "2015-16",
       "exemption": {
@@ -36,43 +25,70 @@
       }
     },
     {
-      "name": "Below Poverty Line",
-      "code": "BPL",
+      "name": "Minority Applicants",
+      "code": "MINORITYAPPLICANTS",
       "active": true,
       "fromFY": "2015-16",
       "exemption": {
-        "rate": 100.0,
+        "rate": null,
         "maxAmount": null,
-        "flatAmount": null
+        "flatAmount": 5000.0
       }
     },
     {
-      "name": "Defense Personnel",
-      "code": "DEFENSE",
+      "name": "LGBTQ+ Individuals",
+      "code": "LGBTQ",
       "active": true,
       "fromFY": "2015-16",
       "exemption": {
-        "rate": 100.0,
+        "rate": null,
         "maxAmount": null,
-        "flatAmount": null
+        "flatAmount": 5000.0
       }
     },
     {
-      "name": "General",
-      "code": "GENERAL",
+      "name": "Economically Disadvantaged",
+      "code": "ECONOMICALLYDISADVANTAGED",
       "active": true,
       "fromFY": "2015-16",
       "exemption": {
-        "rate": 100.0,
+        "rate": null,
         "maxAmount": null,
-        "flatAmount": null
+        "flatAmount": 5000.0
       }
     },
     {
-      "name": "None of the above",
-      "code": "NONE",
+      "name": "Refugees and Asylum Seekers",
+      "code": "REFUGEEANDASYLUMSEEKERS",
       "active": true,
-      "fromFY": "2015-16"
+      "fromFY": "2015-16",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": 5000.0
+      }
+    },
+    {
+      "name": "Returning Citizens (formerly incarcerated)",
+      "code": "RETURNINGCITIZENS",
+      "active": true,
+      "fromFY": "2015-16",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": 5000.0
+      }
+    },
+    {
+      "name": "Native American or Indigenous Peoples",
+      "code": "NATIVEAMRERICANS",
+      "active": true,
+      "fromFY": "2015-16",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": 5000.0
+      }
     }
   ]
 }
