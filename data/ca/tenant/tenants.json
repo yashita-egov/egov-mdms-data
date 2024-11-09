@@ -3,6 +3,42 @@
   "moduleName": "tenant",
   "tenants": [
     {
+      "code": "ca",
+      "name": "State",
+      "description": "State",
+      "pincode": [
+      ],
+      "logoId": "https://www.xyz.com",
+      "imageId": "null",
+      "domainUrl": "https://www.egov.org",
+      "type": "CITY",
+      "twitterUrl": "null",
+      "facebookUrl": "null",
+      "emailId": "California@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM",
+        "Sat": "9.00 AM - 12.00 PM"
+      },
+      "city": {
+        "name": "California",
+        "localName": "California",
+        "districtCode": "0",
+        "districtName": "State",
+        "districtTenantCode": "CA",
+        "regionName": "State",
+        "ulbGrade": "State",
+        "longitude": -122.241638,
+        "latitude": 37.765205,
+        "shapeFileLocation": "null",
+        "captcha": "null",
+        "code": "null",
+        "ddrName": "null"
+      },
+      "address": "State Municipal Corporation",
+      "contactNumber": "9876543210",
+      "helpLineNumber": "9876543210"
+    },
+    {
       "code": "ca.alameda",
       "name": "Alameda",
       "description": null,
