@@ -4,62 +4,62 @@
   "OwnerShipCategory": [
     {
       "name": "Fee Simple Ownership",
-      "code": "FEE_SIMPLE_OWNERSHIP",
+      "code": "INDIVIDUAL.FEE_SIMPLE_OWNERSHIP",
       "active": true
     },
     {
       "name": "Leasehold Ownership",
-      "code": "LEASEHOLD_OWNERSHIP",
+      "code": "INDIVIDUAL.LEASEHOLD_OWNERSHIP",
       "active": true
     },
     {
       "name": "Tenancy in Common (TIC)",
-      "code": "TENANCY_IN_COMMON_(TIC)",
+      "code": "INDIVIDUAL.TENANCY_IN_COMMON",
       "active": true
     },
     {
       "name": "Joint Tenancy",
-      "code": "JOINT_TENANCY",
+      "code": "INSTITUTIONALPRIVATE.JOINT_TENANCY",
       "active": true
     },
     {
       "name": "Community Property",
-      "code": "COMMUNITY_PROPERTY",
+      "code": "INSTITUTIONALPRIVATE.COMMUNITY_PROPERTY",
       "active": true
     },
     {
       "name": "Sole Proprietorship",
-      "code": "SOLE_PROPRIETORSHIP",
+      "code": "INDIVIDUAL.SOLE_PROPRIETORSHIP",
       "active": true
     },
     {
       "name": "Corporation Ownership",
-      "code": "CORPORATION_OWNERSHIP",
+      "code": "INSTITUTIONALPRIVATE.CORPORATION_OWNERSHIP",
       "active": true
     },
     {
       "name": "Limited Liability Company (LLC)",
-      "code": "LIMITED_LIABILITY_COMPANY_(LLC)",
+      "code": "INSTITUTIONALPRIVATE.LIMITED_LIABILITY_COMPANY",
       "active": true
     },
     {
       "name": "Trust Ownership",
-      "code": "TRUST_OWNERSHIP",
+      "code": "INSTITUTIONALPRIVATE.TRUST_OWNERSHIP",
       "active": true
     },
     {
       "name": "Partnership Ownership",
-      "code": "PARTNERSHIP_OWNERSHIP",
+      "code": "INSTITUTIONALPRIVATE.PARTNERSHIP_OWNERSHIP",
       "active": true
     },
     {
       "name": "Cooperative Ownership (Co-op)",
-      "code": "COOPERATIVE_OWNERSHIP_(CO-OP)",
+      "code": "INSTITUTIONALPRIVATE.COOPERATIVE_OWNERSHIP",
       "active": true
     },
     {
       "name": "Timeshare Ownership",
-      "code": "TIMESHARE_OWNERSHIP",
+      "code": "INSTITUTIONALPRIVATE.TIMESHARE_OWNERSHIP",
       "active": true
     }
   ]
