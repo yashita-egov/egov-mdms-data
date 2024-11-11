@@ -13338,7 +13338,7 @@
    {
       "id": 2423,
       "name": "PT_HOW_IT_WORKS",
-      "url": "digit-ui-card",
+      "url": "digit-ui-card-disabled",
       "displayName": "How It Works",
       "orderNumber": 9,
       "parentModule": "PT",
@@ -13356,7 +13356,7 @@
    {
       "id": 2424,
       "name": "PT_FAQ_S",
-      "url": "digit-ui-card",
+      "url": "digit-ui-card-disabled",
       "displayName": "FAQs",
       "orderNumber": 8,
       "parentModule": "PT",
@@ -13374,7 +13374,7 @@
    {
       "id": 2425,
       "name": "FirenocCitizen",
-      "url": "digit-ui-card",
+      "url": "digit-ui-card-disabled",
       "displayName": "FireNoc Search",
       "orderNumber": 1,
       "parentModule": "FireNoc",
@@ -13392,7 +13392,7 @@
    {
       "id": 2426,
       "name": "BirthCitizen",
-      "url": "digit-ui-card",
+      "url": "digit-ui-card-disabled",
       "displayName": "Birth Search",
       "orderNumber": 1,
       "parentModule": "Birth",
@@ -13410,7 +13410,7 @@
    {
       "id": 2427,
       "name": "DeathCitizen",
-      "url": "digit-ui-card",
+      "url": "digit-ui-card-disabled",
       "displayName": "Death Search",
       "orderNumber": 1,
       "parentModule": "Death",
@@ -13545,7 +13545,7 @@
    {
       "id": 2437,
       "name": "PT_MY_PAYMENTS",
-      "url": "digit-ui-card",
+      "url": "digit-ui-card-disabled",
       "displayName": "My Payments",
       "orderNumber": 7,
       "parentModule": "PT",
@@ -13593,7 +13593,7 @@
    {
       "id": 2440,
       "name": "ACTION_TEST_WNS_MY_BILLS",
-      "url": "digit-ui-card",
+      "url": "digit-ui-card-disabled",
       "displayName": "My Bills",
       "orderNumber": 2,
       "parentModule": "WS",
@@ -13611,7 +13611,7 @@
     {
       "id": 2441,
       "name": "ACTION_TEST_MY_PAYMENTS",
-      "url": "digit-ui-card",
+      "url": "digit-ui-card-disabled",
       "displayName": "My Payments",
       "orderNumber": 6,
       "parentModule": "WS",
@@ -13629,7 +13629,7 @@
     {
       "id": 2442,
       "name": "ACTION_TEST_APPLY_NEW_CONNECTION",
-      "url": "digit-ui-card",
+      "url": "digit-ui-card-disabled",
       "displayName": "Apply for New Connection",
       "orderNumber": 4,
       "parentModule": "WS",
@@ -13647,7 +13647,7 @@
     {
       "id": 2443,
       "name": "ACTION_TEXT_WS_SEARCH_AND_PAY",
-      "url": "digit-ui-card",
+      "url": "digit-ui-card-disabled",
       "displayName": "Search & Pay",
       "orderNumber": 1,
       "parentModule": "WS",
@@ -13665,7 +13665,7 @@
     {
       "id": 2444,
       "name": "ACTION_TEXT_WS_MY_APPLICATION",
-      "url": "digit-ui-card",
+      "url": "digit-ui-card-disabled",
       "displayName": "My Applications",
       "orderNumber": 5,
       "parentModule": "WS",
@@ -13683,7 +13683,7 @@
     {
       "id": 2445,
       "name": "ACTION_TEXT_WS_MY_CONNECTION",
-      "url": "digit-ui-card",
+      "url": "digit-ui-card-disabled",
       "displayName": "My Connections",
       "orderNumber": 3,
       "parentModule": "WS",
@@ -13701,7 +13701,7 @@
     {
       "id": 2446,
       "name": "UC_SEARCH_AND_PAY",
-      "url": "digit-ui-card",
+      "url": "digit-ui-card-disabled",
       "displayName": "Search & Pay",
       "orderNumber": 1,
       "parentModule": "MCollect",
@@ -13719,7 +13719,7 @@
     {
       "id": 2447,
       "name": "UC_MY_CHALLANS",
-      "url": "digit-ui-card",
+      "url": "digit-ui-card-disabled",
       "displayName": "My Challans",
       "orderNumber": 2,
       "parentModule": "MCollect",
@@ -13737,7 +13737,7 @@
     {
       "id": 2448,
       "name": "CS_HOME_APPLY_FOR_DESLUDGING",
-      "url": "digit-ui-card",
+      "url": "digit-ui-card-disabled",
       "displayName": "Apply for Emptying of Septic Tank/Pit",
       "orderNumber": 1,
       "parentModule": "FSM",
@@ -13755,7 +13755,7 @@
     {
       "id": 2449,
       "name": "CS_HOME_MY_APPLICATIONS",
-      "url": "digit-ui-card",
+      "url": "digit-ui-card-disabled",
       "displayName": "My Applications",
       "orderNumber": 2,
       "parentModule": "FSM",
@@ -13773,7 +13773,7 @@
     {
       "id": 2450,
       "name": "CS_COMMON_FILE_A_COMPLAINT",
-      "url": "digit-ui-card",
+      "url": "digit-ui-card-disabled",
       "displayName": "File a Complaint",
       "orderNumber": 1,
       "parentModule": "PGR",
@@ -13791,7 +13791,7 @@
     {
       "id": 2451,
       "name": "CS_HOME_MY_COMPLAINTS",
-      "url": "digit-ui-card",
+      "url": "digit-ui-card-disabled",
       "displayName": "My Complaints",
       "orderNumber": 2,
       "parentModule": "PGR",
@@ -13917,7 +13917,7 @@
     {
       "id": 2458,
       "name": "PT_SEARCH_AND_PAY",
-      "url": "digit-ui-card",
+      "url": "digit-ui-card-disabled",
       "displayName": "Search and Pay",
       "orderNumber": 1,
       "parentModule": "CommonPT",
@@ -13935,7 +13935,7 @@
     {
       "id": 2459,
       "name": "PT_CREATE_PROPERTY",
-      "url": "digit-ui-card",
+      "url": "digit-ui-card-disabled",
       "displayName": "Create Property",
       "orderNumber": 3,
       "parentModule": "CommonPT",
@@ -13953,7 +13953,7 @@
     {
       "id": 2460,
       "name": "ABG_SEARCH_BILL_COMMON_HEADER",
-      "url": "digit-ui-card",
+      "url": "digit-ui-card-disabled",
       "displayName": "Search Bills",
       "orderNumber": 1,
       "parentModule": "Bills",
@@ -14034,7 +14034,7 @@
    {
       "id": 2466,
       "name": "PRIVACY_AUDIT_REPORT",
-      "url": "digit-ui-card",
+      "url": "digit-ui-card-disabled",
       "displayName": "Privacy Audit Report",
       "orderNumber": 7,
       "parentModule": "WS",
@@ -14063,7 +14063,7 @@
    {
       "id": 2468,
       "name": "MCOLLECT_FAQ_S",
-      "url": "digit-ui-card",
+      "url": "digit-ui-card-disabled",
       "displayName": "FAQs",
       "orderNumber": 7,
       "parentModule": "MCollect",
@@ -14081,7 +14081,7 @@
    {
       "id": 2469,
       "name": "WS_FAQ_S",
-      "url": "digit-ui-card",
+      "url": "digit-ui-card-disabled",
       "displayName": "FAQs",
       "orderNumber": 8,
       "parentModule": "WS",
@@ -14099,7 +14099,7 @@
    {
       "id": 2470,
       "name": "PT_MY_APPLICATION",
-      "url": "digit-ui-card",
+      "url": "digit-ui-card-disabled",
       "displayName": "My Applications",
       "orderNumber": 5,
       "parentModule": "PT",
@@ -14117,7 +14117,7 @@
    {
       "id": 2471,
       "name": "PT_MY_PROPERTIES",
-      "url": "digit-ui-card",
+      "url": "digit-ui-card-disabled",
       "displayName": "My Properties",
       "orderNumber": 4,
       "parentModule": "PT",
@@ -14135,7 +14135,7 @@
    {
       "id": 2472,
       "name": "PT_PROPERTY_MUTATION",
-      "url": "digit-ui-card",
+      "url": "digit-ui-card-disabled",
       "displayName": "Transfer Property Ownership/Mutation",
       "orderNumber": 6,
       "parentModule": "PT",
@@ -14172,7 +14172,7 @@
    {
       "id": 2474,
       "name": "CS_TITLE_MY_BILLS",
-      "url": "digit-ui-card",
+      "url": "digit-ui-card-disabled",
       "displayName": "My Bills",
       "orderNumber": 2,
       "parentModule": "PT",
@@ -14190,7 +14190,7 @@
    {
       "id": 2350,
       "name": "PT_SEARCH_AND_PAY",
-      "url": "digit-ui-card",
+      "url": "digit-ui-card-disabled",
       "displayName": "Search and Pay",
       "orderNumber": 1,
       "parentModule": "PT",
@@ -14208,7 +14208,7 @@
     {
       "id": 2351,
       "name": "PT_CREATE_PROPERTY",
-      "url": "digit-ui-card",
+      "url": "digit-ui-card-disabled",
       "displayName": "Register Property",
       "orderNumber": 3,
       "parentModule": "PT",
