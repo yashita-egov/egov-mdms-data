@@ -1,0 +1,62 @@
+{
+    "tenantId": "ca.galt",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "GALT",
+                "localname": "GALT",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.galt",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "DOWNTOWN GALT, GALT MARKET PLACE",
+                        "localname": "DOWNTOWN GALT, GALT MARKET PLACE",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "SAR005"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "GALT",
+                "localname": "GALT",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.galt",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "DOWNTOWN GALT, GALT MARKET PLACE",
+                        "localname": "DOWNTOWN GALT, GALT MARKET PLACE",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "SAR005"
+                    }
+                ]
+            }
+        }
+    ]
+}

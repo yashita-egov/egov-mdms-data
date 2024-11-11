@@ -1,0 +1,62 @@
+{
+    "tenantId": "ca.delmar",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "DEL MAR",
+                "localname": "DEL MAR",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.delmar",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "OLDE DEL MAR, DEL MAR HEIGHTS",
+                        "localname": "OLDE DEL MAR, DEL MAR HEIGHTS",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "SAN005"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "DEL MAR",
+                "localname": "DEL MAR",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.delmar",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "OLDE DEL MAR, DEL MAR HEIGHTS",
+                        "localname": "OLDE DEL MAR, DEL MAR HEIGHTS",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "SAN005"
+                    }
+                ]
+            }
+        }
+    ]
+}

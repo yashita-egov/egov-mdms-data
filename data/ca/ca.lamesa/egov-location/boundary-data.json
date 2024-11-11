@@ -1,0 +1,62 @@
+{
+    "tenantId": "ca.lamesa",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "LA MESA",
+                "localname": "LA MESA",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.lamesa",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "DOWNTOWN LA MESA, LA MESA VILLAGE",
+                        "localname": "DOWNTOWN LA MESA, LA MESA VILLAGE",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "SAN010"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "LA MESA",
+                "localname": "LA MESA",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.lamesa",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "DOWNTOWN LA MESA, LA MESA VILLAGE",
+                        "localname": "DOWNTOWN LA MESA, LA MESA VILLAGE",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "SAN010"
+                    }
+                ]
+            }
+        }
+    ]
+}

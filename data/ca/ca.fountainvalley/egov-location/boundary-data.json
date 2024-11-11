@@ -1,0 +1,62 @@
+{
+    "tenantId": "ca.fountainvalley",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "FOUNTAIN VALLEY",
+                "localname": "FOUNTAIN VALLEY",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.fountainvalley",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "FOUNTAIN VALLEY CENTER, HERITAGE PARK",
+                        "localname": "FOUNTAIN VALLEY CENTER, HERITAGE PARK",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "ORN007"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "FOUNTAIN VALLEY",
+                "localname": "FOUNTAIN VALLEY",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.fountainvalley",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "FOUNTAIN VALLEY CENTER, HERITAGE PARK",
+                        "localname": "FOUNTAIN VALLEY CENTER, HERITAGE PARK",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "ORN007"
+                    }
+                ]
+            }
+        }
+    ]
+}

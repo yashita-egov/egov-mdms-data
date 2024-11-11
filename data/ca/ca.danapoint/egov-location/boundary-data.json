@@ -1,0 +1,62 @@
+{
+    "tenantId": "ca.danapoint",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "DANA POINT",
+                "localname": "DANA POINT",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.danapoint",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "LANTERN VILLAGE, CAPISTRANO BEACH",
+                        "localname": "LANTERN VILLAGE, CAPISTRANO BEACH",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "ORN006"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "DANA POINT",
+                "localname": "DANA POINT",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.danapoint",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "LANTERN VILLAGE, CAPISTRANO BEACH",
+                        "localname": "LANTERN VILLAGE, CAPISTRANO BEACH",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "ORN006"
+                    }
+                ]
+            }
+        }
+    ]
+}

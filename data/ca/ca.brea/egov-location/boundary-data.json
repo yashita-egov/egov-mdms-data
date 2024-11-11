@@ -1,0 +1,62 @@
+{
+    "tenantId": "ca.brea",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "BREA",
+                "localname": "BREA",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.brea",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "BREA DOWNTOWN, BIRCH STREET",
+                        "localname": "BREA DOWNTOWN, BIRCH STREET",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "ORN002"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "BREA",
+                "localname": "BREA",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.brea",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "BREA DOWNTOWN, BIRCH STREET",
+                        "localname": "BREA DOWNTOWN, BIRCH STREET",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "ORN002"
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "tenantId": "ca.unioncity",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "UNION CITY",
+                "localname": "UNION CITY",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.unioncity",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "UNION CITY PLAZA, ALVARADO-NILES ROAD",
+                        "localname": "UNION CITY PLAZA, ALVARADO-NILES ROAD",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "ALM014"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "UNION CITY",
+                "localname": "UNION CITY",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.unioncity",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "UNION CITY PLAZA, ALVARADO-NILES ROAD",
+                        "localname": "UNION CITY PLAZA, ALVARADO-NILES ROAD",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "ALM014"
+                    }
+                ]
+            }
+        }
+    ]
+}

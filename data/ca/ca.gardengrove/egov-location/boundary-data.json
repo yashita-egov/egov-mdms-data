@@ -1,0 +1,62 @@
+{
+    "tenantId": "ca.gardengrove",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "GARDEN GROVE",
+                "localname": "GARDEN GROVE",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.gardengrove",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "GARDEN GROVE HISTORIC DISTRICT, EAST GARDEN GROVE",
+                        "localname": "GARDEN GROVE HISTORIC DISTRICT, EAST GARDEN GROVE",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "ORN009"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "GARDEN GROVE",
+                "localname": "GARDEN GROVE",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.gardengrove",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "GARDEN GROVE HISTORIC DISTRICT, EAST GARDEN GROVE",
+                        "localname": "GARDEN GROVE HISTORIC DISTRICT, EAST GARDEN GROVE",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "ORN009"
+                    }
+                ]
+            }
+        }
+    ]
+}

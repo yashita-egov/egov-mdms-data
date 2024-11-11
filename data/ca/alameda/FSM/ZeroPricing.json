@@ -1,9 +1,0 @@
-{
-    "tenantId": "ca.alameda",
-    "moduleName": "FSM",
-    "zeroPricing": [
-        {
-            "zeroPricingStatus": true
-        }
-    ]
-}

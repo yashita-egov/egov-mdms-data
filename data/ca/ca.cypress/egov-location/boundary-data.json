@@ -1,0 +1,62 @@
+{
+    "tenantId": "ca.cypress",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "CYPRESS",
+                "localname": "CYPRESS",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.cypress",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "CYPRESS VILLAGE, CYPRESS GARDENS",
+                        "localname": "CYPRESS VILLAGE, CYPRESS GARDENS",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "ORN005"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "CYPRESS",
+                "localname": "CYPRESS",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.cypress",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "CYPRESS VILLAGE, CYPRESS GARDENS",
+                        "localname": "CYPRESS VILLAGE, CYPRESS GARDENS",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "ORN005"
+                    }
+                ]
+            }
+        }
+    ]
+}

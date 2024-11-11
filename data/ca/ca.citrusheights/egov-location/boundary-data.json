@@ -1,0 +1,62 @@
+{
+    "tenantId": "ca.citrusheights",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "CITRUS HEIGHTS",
+                "localname": "CITRUS HEIGHTS",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.citrusheights",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "SUNRISE MALL, CITRUS TOWER",
+                        "localname": "SUNRISE MALL, CITRUS TOWER",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "SAR002"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "CITRUS HEIGHTS",
+                "localname": "CITRUS HEIGHTS",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.citrusheights",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "SUNRISE MALL, CITRUS TOWER",
+                        "localname": "SUNRISE MALL, CITRUS TOWER",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "SAR002"
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "tenantId": "ca.huntingtonbeach",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "HUNTINGTON BEACH",
+                "localname": "HUNTINGTON BEACH",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.huntingtonbeach",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "DOWNTOWN, BOLSA CHICA",
+                        "localname": "DOWNTOWN, BOLSA CHICA",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "ORN010"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "HUNTINGTON BEACH",
+                "localname": "HUNTINGTON BEACH",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.huntingtonbeach",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "DOWNTOWN, BOLSA CHICA",
+                        "localname": "DOWNTOWN, BOLSA CHICA",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "ORN010"
+                    }
+                ]
+            }
+        }
+    ]
+}

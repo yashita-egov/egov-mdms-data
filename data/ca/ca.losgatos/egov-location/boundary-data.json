@@ -1,0 +1,62 @@
+{
+    "tenantId": "ca.losgatos",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "LOS GATOS",
+                "localname": "LOS GATOS",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.losgatos",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "DOWNTOWN LOS GATOS, GLENRIDGE",
+                        "localname": "DOWNTOWN LOS GATOS, GLENRIDGE",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "SA005"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "LOS GATOS",
+                "localname": "LOS GATOS",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.losgatos",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "DOWNTOWN LOS GATOS, GLENRIDGE",
+                        "localname": "DOWNTOWN LOS GATOS, GLENRIDGE",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "SA005"
+                    }
+                ]
+            }
+        }
+    ]
+}

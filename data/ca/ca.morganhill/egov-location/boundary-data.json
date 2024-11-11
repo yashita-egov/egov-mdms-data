@@ -1,0 +1,62 @@
+{
+    "tenantId": "ca.morganhill",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "MORGAN HILL",
+                "localname": "MORGAN HILL",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.morganhill",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "DOWNTOWN MORGAN HILL, SAN MARTIN",
+                        "localname": "DOWNTOWN MORGAN HILL, SAN MARTIN",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "SA008"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "MORGAN HILL",
+                "localname": "MORGAN HILL",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.morganhill",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "DOWNTOWN MORGAN HILL, SAN MARTIN",
+                        "localname": "DOWNTOWN MORGAN HILL, SAN MARTIN",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "SA008"
+                    }
+                ]
+            }
+        }
+    ]
+}

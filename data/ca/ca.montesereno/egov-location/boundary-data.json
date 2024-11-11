@@ -1,0 +1,62 @@
+{
+    "tenantId": "ca.montesereno",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "MONTE SERENO",
+                "localname": "MONTE SERENO",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.montesereno",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "MONTE SERENO HILLS, BLUE RIDGE",
+                        "localname": "MONTE SERENO HILLS, BLUE RIDGE",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "SA007"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "MONTE SERENO",
+                "localname": "MONTE SERENO",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.montesereno",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "MONTE SERENO HILLS, BLUE RIDGE",
+                        "localname": "MONTE SERENO HILLS, BLUE RIDGE",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "SA007"
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "tenantId": "ca.elkgrove",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "ELK GROVE",
+                "localname": "ELK GROVE",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.elkgrove",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "OLD TOWN ELK GROVE, LAGUNA WEST",
+                        "localname": "OLD TOWN ELK GROVE, LAGUNA WEST",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "SAR003"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "ELK GROVE",
+                "localname": "ELK GROVE",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.elkgrove",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "OLD TOWN ELK GROVE, LAGUNA WEST",
+                        "localname": "OLD TOWN ELK GROVE, LAGUNA WEST",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "SAR003"
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "tenantId": "ca.sunnyvale",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "SUNNYVALE",
+                "localname": "SUNNYVALE",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.sunnyvale",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "DOWNTOWN SUNNYVALE, CHERRY CHASE",
+                        "localname": "DOWNTOWN SUNNYVALE, CHERRY CHASE",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "SA013"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "SUNNYVALE",
+                "localname": "SUNNYVALE",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.sunnyvale",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "DOWNTOWN SUNNYVALE, CHERRY CHASE",
+                        "localname": "DOWNTOWN SUNNYVALE, CHERRY CHASE",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "SA013"
+                    }
+                ]
+            }
+        }
+    ]
+}

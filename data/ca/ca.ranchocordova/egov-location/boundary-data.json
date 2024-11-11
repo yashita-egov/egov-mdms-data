@@ -1,0 +1,62 @@
+{
+    "tenantId": "ca.ranchocordova",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "RANCHO CORDOVA",
+                "localname": "RANCHO CORDOVA",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.ranchocordova",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "RANCHO CORDOVA TOWN CENTER, WHITE ROCK",
+                        "localname": "RANCHO CORDOVA TOWN CENTER, WHITE ROCK",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "SAR007"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "RANCHO CORDOVA",
+                "localname": "RANCHO CORDOVA",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.ranchocordova",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "RANCHO CORDOVA TOWN CENTER, WHITE ROCK",
+                        "localname": "RANCHO CORDOVA TOWN CENTER, WHITE ROCK",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "SAR007"
+                    }
+                ]
+            }
+        }
+    ]
+}

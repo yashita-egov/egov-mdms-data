@@ -1,0 +1,62 @@
+{
+    "tenantId": "ca.cupertino",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "CUPERTINO",
+                "localname": "CUPERTINO",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.cupertino",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "MONTA VISTA, RANCHO RINCONADA",
+                        "localname": "MONTA VISTA, RANCHO RINCONADA",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "SA002"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "CUPERTINO",
+                "localname": "CUPERTINO",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.cupertino",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "MONTA VISTA, RANCHO RINCONADA",
+                        "localname": "MONTA VISTA, RANCHO RINCONADA",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "SA002"
+                    }
+                ]
+            }
+        }
+    ]
+}

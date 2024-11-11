@@ -1,0 +1,62 @@
+{
+    "tenantId": "ca.longbeach",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "LONG BEACH",
+                "localname": "LONG BEACH",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.longbeach",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "BELMONT SHORE, DOWNTOWN LONG BEACH",
+                        "localname": "BELMONT SHORE, DOWNTOWN LONG BEACH",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "LA002"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "LONG BEACH",
+                "localname": "LONG BEACH",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.longbeach",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "BELMONT SHORE, DOWNTOWN LONG BEACH",
+                        "localname": "BELMONT SHORE, DOWNTOWN LONG BEACH",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "LA002"
+                    }
+                ]
+            }
+        }
+    ]
+}

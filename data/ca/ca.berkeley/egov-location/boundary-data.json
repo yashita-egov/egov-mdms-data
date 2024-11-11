@@ -1,0 +1,62 @@
+{
+    "tenantId": "ca.berkeley",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "BERKELEY",
+                "localname": "BERKELEY",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.berkeley",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "NORTH BERKELEY, SOUTH BERKELEY",
+                        "localname": "NORTH BERKELEY, SOUTH BERKELEY",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "ALM003"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "BERKELEY",
+                "localname": "BERKELEY",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.berkeley",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "NORTH BERKELEY, SOUTH BERKELEY",
+                        "localname": "NORTH BERKELEY, SOUTH BERKELEY",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "ALM003"
+                    }
+                ]
+            }
+        }
+    ]
+}

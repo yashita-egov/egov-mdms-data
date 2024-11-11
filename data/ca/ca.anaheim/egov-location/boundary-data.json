@@ -1,0 +1,62 @@
+{
+    "tenantId": "ca.anaheim",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "ANAHEIM",
+                "localname": "ANAHEIM",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.anaheim",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "DISNEYLAND, ANAHEIM HILLS",
+                        "localname": "DISNEYLAND, ANAHEIM HILLS",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "ORN001"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "ANAHEIM",
+                "localname": "ANAHEIM",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.anaheim",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "DISNEYLAND, ANAHEIM HILLS",
+                        "localname": "DISNEYLAND, ANAHEIM HILLS",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "ORN001"
+                    }
+                ]
+            }
+        }
+    ]
+}

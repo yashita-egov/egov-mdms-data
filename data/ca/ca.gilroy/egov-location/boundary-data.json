@@ -1,0 +1,62 @@
+{
+    "tenantId": "ca.gilroy",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "GILROY",
+                "localname": "GILROY",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.gilroy",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "DOWNTOWN GILROY, GLEN LOMA RANCH",
+                        "localname": "DOWNTOWN GILROY, GLEN LOMA RANCH",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "SA003"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "GILROY",
+                "localname": "GILROY",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.gilroy",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "DOWNTOWN GILROY, GLEN LOMA RANCH",
+                        "localname": "DOWNTOWN GILROY, GLEN LOMA RANCH",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "SA003"
+                    }
+                ]
+            }
+        }
+    ]
+}

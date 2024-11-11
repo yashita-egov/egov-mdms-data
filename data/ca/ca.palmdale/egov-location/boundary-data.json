@@ -1,0 +1,62 @@
+{
+    "tenantId": "ca.palmdale",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "PALMDALE",
+                "localname": "PALMDALE",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.palmdale",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "ANAVERDE, DOWNTOWN PALMDALE",
+                        "localname": "ANAVERDE, DOWNTOWN PALMDALE",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "LA006"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "PALMDALE",
+                "localname": "PALMDALE",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.palmdale",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "ANAVERDE, DOWNTOWN PALMDALE",
+                        "localname": "ANAVERDE, DOWNTOWN PALMDALE",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "LA006"
+                    }
+                ]
+            }
+        }
+    ]
+}

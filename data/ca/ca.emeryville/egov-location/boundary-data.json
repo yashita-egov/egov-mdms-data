@@ -1,0 +1,62 @@
+{
+    "tenantId": "ca.emeryville",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "EMERYVILLE",
+                "localname": "EMERYVILLE",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.emeryville",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "BAY STREET DISTRICT, POWELL STREET DISTRICT",
+                        "localname": "BAY STREET DISTRICT, POWELL STREET DISTRICT",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "ALM005"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "EMERYVILLE",
+                "localname": "EMERYVILLE",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.emeryville",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "BAY STREET DISTRICT, POWELL STREET DISTRICT",
+                        "localname": "BAY STREET DISTRICT, POWELL STREET DISTRICT",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "ALM005"
+                    }
+                ]
+            }
+        }
+    ]
+}

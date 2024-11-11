@@ -1,0 +1,62 @@
+{
+    "tenantId": "ca.losaltos",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "LOS ALTOS",
+                "localname": "LOS ALTOS",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.losaltos",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "DOWNTOWN LOS ALTOS, NORTH LOS ALTOS",
+                        "localname": "DOWNTOWN LOS ALTOS, NORTH LOS ALTOS",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "SA004"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "LOS ALTOS",
+                "localname": "LOS ALTOS",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.losaltos",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "DOWNTOWN LOS ALTOS, NORTH LOS ALTOS",
+                        "localname": "DOWNTOWN LOS ALTOS, NORTH LOS ALTOS",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "SA004"
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "tenantId": "ca.carlsbad",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "CARLSBAD",
+                "localname": "CARLSBAD",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.carlsbad",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "CARLSBAD VILLAGE, LA COSTA",
+                        "localname": "CARLSBAD VILLAGE, LA COSTA",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "SAN002"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "CARLSBAD",
+                "localname": "CARLSBAD",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.carlsbad",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "CARLSBAD VILLAGE, LA COSTA",
+                        "localname": "CARLSBAD VILLAGE, LA COSTA",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "SAN002"
+                    }
+                ]
+            }
+        }
+    ]
+}

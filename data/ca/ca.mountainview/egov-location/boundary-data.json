@@ -1,0 +1,62 @@
+{
+    "tenantId": "ca.mountainview",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "MOUNTAIN VIEW",
+                "localname": "MOUNTAIN VIEW",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.mountainview",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "CASTRO CITY, OLD MOUNTAIN VIEW",
+                        "localname": "CASTRO CITY, OLD MOUNTAIN VIEW",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "SA009"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "MOUNTAIN VIEW",
+                "localname": "MOUNTAIN VIEW",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.mountainview",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "CASTRO CITY, OLD MOUNTAIN VIEW",
+                        "localname": "CASTRO CITY, OLD MOUNTAIN VIEW",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "SA009"
+                    }
+                ]
+            }
+        }
+    ]
+}

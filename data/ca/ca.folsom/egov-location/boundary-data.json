@@ -1,0 +1,62 @@
+{
+    "tenantId": "ca.folsom",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "FOLSOM",
+                "localname": "FOLSOM",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.folsom",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "HISTORIC FOLSOM, FOLSOM RANCH",
+                        "localname": "HISTORIC FOLSOM, FOLSOM RANCH",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "SAR004"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "FOLSOM",
+                "localname": "FOLSOM",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.folsom",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "HISTORIC FOLSOM, FOLSOM RANCH",
+                        "localname": "HISTORIC FOLSOM, FOLSOM RANCH",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "SAR004"
+                    }
+                ]
+            }
+        }
+    ]
+}

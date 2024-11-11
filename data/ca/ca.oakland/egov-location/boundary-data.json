@@ -1,0 +1,62 @@
+{
+    "tenantId": "ca.oakland",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "OAKLAND",
+                "localname": "OAKLAND",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.oakland",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "ROCKRIDGE, TEMESCAL, FRUITVALE",
+                        "localname": "ROCKRIDGE, TEMESCAL, FRUITVALE",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "ALM010"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "OAKLAND",
+                "localname": "OAKLAND",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.oakland",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "ROCKRIDGE, TEMESCAL, FRUITVALE",
+                        "localname": "ROCKRIDGE, TEMESCAL, FRUITVALE",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "ALM010"
+                    }
+                ]
+            }
+        }
+    ]
+}
