@@ -11791,7 +11791,8 @@
       "actionid": 1800,
       "actioncode": "",
       "tenantId": "ca"
-    },{
+    },
+    {
       "rolecode": "NOC_DOC_VERIFIER",
       "actionid": 1800,
       "actioncode": "",
@@ -24877,7 +24878,7 @@
       "actioncode": "",
       "tenantId": "ca"
     },
-		{
+    {
       "rolecode": "FSM_ADMIN",
       "actionid": 2410,
       "actioncode": "",
@@ -24913,7 +24914,7 @@
       "actioncode": "",
       "tenantId": "ca"
     },
-		{
+    {
       "rolecode": "FSM_ADMIN",
       "actionid": 2411,
       "actioncode": "",
@@ -24950,14 +24951,14 @@
       "tenantId": "ca"
     },
     {
-        "rolecode": "FSM_EMP_FSTPO",
-        "actionid": 2412,
-        "actioncode": "",
-        "tenantId": "ca"
+      "rolecode": "FSM_EMP_FSTPO",
+      "actionid": 2412,
+      "actioncode": "",
+      "tenantId": "ca"
     },
     {
-       "rolecode": "FSM_ADMIN",
-       "actionid": 2413,
+      "rolecode": "FSM_ADMIN",
+      "actionid": 2413,
       "actioncode": "",
       "tenantId": "ca"
     },
@@ -25679,7 +25680,7 @@
       "rolecode": "PT_FIELD_INSPECTOR",
       "actionid": 1957,
       "actioncode": "",
-      "tenantId": "ca"	  
+      "tenantId": "ca"
     },
     {
       "rolecode": "EMPLOYEE",
@@ -25801,7 +25802,7 @@
       "actioncode": "",
       "tenantId": "ca"
     },
-	{
+    {
       "rolecode": "FSM_CREATOR_EMP",
       "actionid": 2503,
       "actioncode": "",
@@ -25819,9 +25820,231 @@
       "actioncode": "",
       "tenantId": "ca"
     },
-	 {
+    {
       "rolecode": "FSM_CREATOR_EMP",
       "actionid": 2504,
+      "actioncode": "",
+      "tenantId": "ca"
+    },
+    {
+      "rolecode": "TL_CEMP",
+      "actionid": 1551,
+      "actioncode": "",
+      "tenantId": "ca"
+    },
+    {
+      "rolecode": "TL_CEMP",
+      "actionid": 1552,
+      "actioncode": "",
+      "tenantId": "ca"
+    },
+    {
+      "rolecode": "TL_CEMP",
+      "actionid": 1566,
+      "actioncode": "",
+      "tenantId": "ca"
+    },
+    {
+      "rolecode": "TL_CEMP",
+      "actionid": 1568,
+      "actioncode": "",
+      "tenantId": "ca"
+    },
+    {
+      "rolecode": "TL_CEMP",
+      "actionid": 1574,
+      "actioncode": "",
+      "tenantId": "ca"
+    },
+    {
+      "rolecode": "TL_CEMP",
+      "actionid": 1776,
+      "actioncode": "",
+      "tenantId": "ca"
+    },
+    {
+      "rolecode": "TL_CEMP",
+      "actionid": 1895,
+      "actioncode": "",
+      "tenantId": "ca"
+    },
+    {
+      "rolecode": "TL_CEMP",
+      "actionid": 1896,
+      "actioncode": "",
+      "tenantId": "ca"
+    },
+    {
+      "rolecode": "TL_CEMP",
+      "actionid": 1897,
+      "actioncode": "",
+      "tenantId": "ca"
+    },
+    {
+      "rolecode": "TL_CEMP",
+      "actionid": 1898,
+      "actioncode": "",
+      "tenantId": "ca"
+    },
+    {
+      "rolecode": "TL_CEMP",
+      "actionid": 1943,
+      "actioncode": "",
+      "tenantId": "ca"
+    },
+    {
+      "rolecode": "TL_CEMP",
+      "actionid": 1944,
+      "actioncode": "",
+      "tenantId": "ca"
+    },
+    {
+      "rolecode": "TL_CEMP",
+      "actionid": 1945,
+      "actioncode": "",
+      "tenantId": "ca"
+    },
+    {
+      "rolecode": "TL_CEMP",
+      "actionid": 1955,
+      "actioncode": "",
+      "tenantId": "ca"
+    },
+    {
+      "rolecode": "TL_CEMP",
+      "actionid": 1957,
+      "actioncode": "",
+      "tenantId": "ca"
+    },
+    {
+      "rolecode": "TL_CEMP",
+      "actionid": 1962,
+      "actioncode": "",
+      "tenantId": "ca"
+    },
+    {
+      "rolecode": "TL_CEMP",
+      "actionid": 1969,
+      "actioncode": "",
+      "tenantId": "ca"
+    },
+    {
+      "rolecode": "TL_CEMP",
+      "actionid": 1991,
+      "actioncode": "",
+      "tenantId": "ca"
+    },
+    {
+      "rolecode": "TL_CEMP",
+      "actionid": 1992,
+      "actioncode": "",
+      "tenantId": "ca"
+    },
+    {
+      "rolecode": "TL_CEMP",
+      "actionid": 1997,
+      "actioncode": "",
+      "tenantId": "ca"
+    },
+    {
+      "rolecode": "TL_CEMP",
+      "actionid": 1998,
+      "actioncode": "",
+      "tenantId": "ca"
+    },
+    {
+      "rolecode": "TL_CEMP",
+      "actionid": 1999,
+      "actioncode": "",
+      "tenantId": "ca"
+    },
+    {
+      "rolecode": "TL_CEMP",
+      "actionid": 2028,
+      "actioncode": "",
+      "tenantId": "ca"
+    },
+    {
+      "rolecode": "TL_CEMP",
+      "actionid": 2029,
+      "actioncode": "",
+      "tenantId": "ca"
+    },
+    {
+      "rolecode": "TL_CEMP",
+      "actionid": 2030,
+      "actioncode": "",
+      "tenantId": "ca"
+    },
+    {
+      "rolecode": "TL_CEMP",
+      "actionid": 2031,
+      "actioncode": "",
+      "tenantId": "ca"
+    },
+    {
+      "rolecode": "TL_CEMP",
+      "actionid": 2033,
+      "actioncode": "",
+      "tenantId": "ca"
+    },
+    {
+      "rolecode": "TL_CEMP",
+      "actionid": 2127,
+      "actioncode": "",
+      "tenantId": "ca"
+    },
+    {
+      "rolecode": "TL_CEMP",
+      "actionid": 2128,
+      "actioncode": "",
+      "tenantId": "ca"
+    },
+    {
+      "rolecode": "TL_CEMP",
+      "actionid": 2163,
+      "actioncode": "",
+      "tenantId": "ca"
+    },
+    {
+      "rolecode": "TL_CEMP",
+      "actionid": 2164,
+      "actioncode": "",
+      "tenantId": "ca"
+    },
+    {
+      "rolecode": "TL_CEMP",
+      "actionid": 2165,
+      "actioncode": "",
+      "tenantId": "ca"
+    },
+    {
+      "rolecode": "TL_CEMP",
+      "actionid": 2166,
+      "actioncode": "",
+      "tenantId": "ca"
+    },
+    {
+      "rolecode": "TL_CEMP",
+      "actionid": 2167,
+      "actioncode": "",
+      "tenantId": "ca"
+    },
+    {
+      "rolecode": "TL_CEMP",
+      "actionid": 2168,
+      "actioncode": "",
+      "tenantId": "ca"
+    },
+    {
+      "rolecode": "TL_CEMP",
+      "actionid": 2172,
+      "actioncode": "",
+      "tenantId": "ca"
+    },
+    {
+      "rolecode": "TL_CEMP",
+      "actionid": 2315,
       "actioncode": "",
       "tenantId": "ca"
     }
