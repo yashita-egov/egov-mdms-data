@@ -7,8 +7,7 @@
         "code": "REVENUE",
         "name": "REVENUE"
       },
-      "boundary":
-      {
+      "boundary": {
         "id": 1,
         "boundaryNum": 1,
         "name": "Alameda",
@@ -19,35 +18,34 @@
         "code": "ca.alameda",
         "children": [
           {
-            "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
             "boundaryNum": 1,
             "name": "ZONE_WEST",
             "localname": "ZONE_WEST",
             "longitude": null,
             "latitude": null,
             "label": "Zone",
-            "code": "JZN1",
+            "code": "ZN1",
             "children": [
               {
-                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
                 "boundaryNum": 1,
-                "name": "WARD_32",
-                "localname": "WARD_32",
+                "name": "WARD_1",
+                "localname": "WARD_1",
                 "longitude": null,
                 "latitude": null,
                 "label": "Block",
-                "code": "WARD32",
+                "code": "WARD_1",
                 "children": [
                   {
-                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
                     "boundaryNum": 1,
-                    "name": "Main Road Abadpura",
-                    "localname": "Main Road Abadpura",
+                    "name": "East End, West End",
+                    "localname": "East End, West End",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
-                    "code": "JLC476",
-                    "pincode": [143001],
+                    "code": "ALM001",
+                    "pincode": [
+                      143001
+                    ],
                     "area": "Area1",
                     "children": []
                   },
@@ -60,7 +58,9 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "JLC477",
-                    "pincode": [143002],
+                    "pincode": [
+                      143002
+                    ],
                     "area": "Area1",
                     "children": []
                   },
@@ -73,7 +73,9 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "JLC478",
-                    "pincode": [143003],
+                    "pincode": [
+                      143003
+                    ],
                     "area": "Area1",
                     "children": []
                   },
@@ -86,7 +88,9 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "JLC479",
-                    "pincode": [143004],
+                    "pincode": [
+                      143004
+                    ],
                     "area": "Area1",
                     "children": []
                   },
@@ -99,7 +103,9 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "JLC480",
-                    "pincode": [143005],
+                    "pincode": [
+                      143005
+                    ],
                     "area": "Area1",
                     "children": []
                   },
@@ -286,8 +292,8 @@
                   {
                     "id": "724b27d4-0ae3-4acf-b935-fd162122ff83",
                     "boundaryNum": 1,
-                    "name": "New Suraj Ganj \u2013west",
-                    "localname": "New Suraj Ganj \u2013west",
+                    "name": "New Suraj Ganj –west",
+                    "localname": "New Suraj Ganj –west",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -14371,8 +14377,7 @@
         "code": "ADMIN",
         "name": "ADMIN"
       },
-      "boundary":
-      {
+      "boundary": {
         "id": 1,
         "boundaryNum": 1,
         "name": "Alameda",
@@ -14411,7 +14416,9 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "JLC476",
-                    "pincode": [143001],
+                    "pincode": [
+                      143001
+                    ],
                     "area": "",
                     "children": []
                   },
@@ -14424,7 +14431,9 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "JLC477",
-                    "pincode": [143002],
+                    "pincode": [
+                      143002
+                    ],
                     "area": "",
                     "children": []
                   },
@@ -14437,7 +14446,9 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "JLC478",
-                    "pincode": [143003],
+                    "pincode": [
+                      143003
+                    ],
                     "area": "",
                     "children": []
                   },
@@ -14450,7 +14461,9 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "JLC479",
-                    "pincode": [143004],
+                    "pincode": [
+                      143004
+                    ],
                     "area": "",
                     "children": []
                   },
@@ -14463,7 +14476,9 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "JLC480",
-                    "pincode": [143005],
+                    "pincode": [
+                      143005
+                    ],
                     "area": "",
                     "children": []
                   },
@@ -14650,8 +14665,8 @@
                   {
                     "id": "724b27d4-0ae3-4acf-b935-fd162122ff83",
                     "boundaryNum": 1,
-                    "name": "New Suraj Ganj \u2013west",
-                    "localname": "New Suraj Ganj \u2013west",
+                    "name": "New Suraj Ganj –west",
+                    "localname": "New Suraj Ganj –west",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
