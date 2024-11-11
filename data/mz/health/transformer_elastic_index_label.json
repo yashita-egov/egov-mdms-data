@@ -25,6 +25,30 @@
     {
       "label": "Aldeia",
       "indexLabel": "village"
+    },
+    {
+      "label": "COUNTRY",
+      "indexLabel": "country"
+    },
+    {
+      "label": "PROVINCE",
+      "indexLabel": "province"
+    },
+    {
+      "label": "DISTRICT",
+      "indexLabel": "district"
+    },
+    {
+      "label": "LOCALITY",
+      "indexLabel": "locality"
+    },
+    {
+      "label": "ADMINISTRATIVEPOST",
+      "indexLabel": "administrativeProvince"
+    },
+    {
+      "label": "VILLAGE",
+      "indexLabel": "village"
     }
   ]
 }
