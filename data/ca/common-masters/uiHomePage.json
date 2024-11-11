@@ -59,11 +59,11 @@
                     }
                 ]
             },
-            "informationAndUpdatesCard":
+            "informationAndUpdatesCard-disabled":
             {
                 "code": "HOME_CITIZEN_INFO_UPDATE_CARD",
                 "name": "Home Citizen Information and Updates card",
-                "enabled": true,
+                "enabled": false,
                 "headerLabel": "CS_COMMON_DASHBOARD_INFO_UPDATES",
                 "sideOption": {
                     "name": "DASHBOARD_VIEW_ALL_LABEL",
@@ -101,7 +101,7 @@
                     }
                 ]
             },
-            "whatsNewSection":
+            "whatsNewSection-disabled":
             {
                 "code": "WHATSNEW",
                 "name": "What's New",
@@ -113,7 +113,7 @@
                     "navigationUrl": "/digit-ui/citizen/engagement/whats-new"
                   }
             },
-            "whatsAppBannerDesktop":
+            "whatsAppBannerDesktop-disabled":
             {
                 "code": "WHATSAPP_BANNER_DESKTOP",
                 "name": "WhatsApp Banner Desktop View",
@@ -121,7 +121,7 @@
                 "enabled": true,
                 "navigationUrl": "https://api.whatsapp.com/send?phone=918744060444&text=mSeva"
             },
-            "whatsAppBannerMobile":
+            "whatsAppBannerMobile-disabled":
             {
                 "code": "WHATSAPP_BANNER_MOBILE",
                 "name": "WhatsApp Banner Mobile View",
