@@ -19,12 +19,12 @@
     },
     {
       "name": "Joint Tenancy",
-      "code": "INSTITUTIONALPRIVATE.JOINT_TENANCY",
+      "code": "INDIVIDUAL.JOINT_TENANCY",
       "active": true
     },
     {
       "name": "Community Property",
-      "code": "INSTITUTIONALPRIVATE.COMMUNITY_PROPERTY",
+      "code": "INDIVIDUAL.COMMUNITY_PROPERTY",
       "active": true
     },
     {
@@ -34,32 +34,32 @@
     },
     {
       "name": "Corporation Ownership",
-      "code": "INSTITUTIONALPRIVATE.CORPORATION_OWNERSHIP",
+      "code": "INDIVIDUAL.CORPORATION_OWNERSHIP",
       "active": true
     },
     {
       "name": "Limited Liability Company (LLC)",
-      "code": "INSTITUTIONALPRIVATE.LIMITED_LIABILITY_COMPANY",
+      "code": "INDIVIDUAL.LIMITED_LIABILITY_COMPANY",
       "active": true
     },
     {
       "name": "Trust Ownership",
-      "code": "INSTITUTIONALPRIVATE.TRUST_OWNERSHIP",
+      "code": "INDIVIDUAL.TRUST_OWNERSHIP",
       "active": true
     },
     {
       "name": "Partnership Ownership",
-      "code": "INSTITUTIONALPRIVATE.PARTNERSHIP_OWNERSHIP",
+      "code": "INDIVIDUAL.PARTNERSHIP_OWNERSHIP",
       "active": true
     },
     {
       "name": "Cooperative Ownership (Co-op)",
-      "code": "INSTITUTIONALPRIVATE.COOPERATIVE_OWNERSHIP",
+      "code": "INDIVIDUAL.COOPERATIVE_OWNERSHIP",
       "active": true
     },
     {
       "name": "Timeshare Ownership",
-      "code": "INSTITUTIONALPRIVATE.TIMESHARE_OWNERSHIP",
+      "code": "INDIVIDUAL.TIMESHARE_OWNERSHIP",
       "active": true
     }
   ]
