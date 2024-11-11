@@ -4,32 +4,32 @@
   "PropertyType": [
     {
       "name": "Office Building",
-      "code": "OFFICE_BUILDING",
+      "code": "BUILTUP.OFFICE_BUILDING",
       "active": true
     },
     {
       "name": "Retail Space",
-      "code": "RETAIL_SPACE",
+      "code": "BUILTUP.RETAIL_SPACE",
       "active": true
     },
     {
       "name": "Industrial Property",
-      "code": "INDUSTRIAL_PROPERTY",
+      "code": "BUILTUP.INDUSTRIAL_PROPERTY",
       "active": true
     },
     {
       "name": "Mixed-Use Development",
-      "code": "MIXED-USE_DEVELOPMENT",
+      "code": "BUILTUP.MIXED_USE_DEVELOPMENT",
       "active": true
     },
     {
       "name": "Self-Storage",
-      "code": "SELF-STORAGE",
+      "code": "BUILTUP.SELF_STORAGE",
       "active": true
     },
     {
       "name": "Shopping Mall",
-      "code": "SHOPPING_MALL",
+      "code": "BUILTUP.SHOPPING_MALL",
       "active": true
     }
   ]
