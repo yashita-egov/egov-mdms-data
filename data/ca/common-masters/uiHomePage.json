@@ -30,6 +30,20 @@
                   },
                 "props": [
                     {
+                        "code": "CITIZEN_SERVICE_TL",
+                        "name": "Trade Licence",
+                        "label": "MODULE_TL",
+                        "enabled": true,
+                        "navigationUrl": "/digit-ui/citizen/tl-home"
+                    },
+                    {
+                        "code": "CITIZEN_SERVICE_OBPS",
+                        "name": "Online Building Permit System",
+                        "label": "MODULE_OBPS",
+                        "enabled": true,
+                        "navigationUrl": "/digit-ui/citizen/obps-home"
+                    },
+                    {
                         "code": "CITIZEN_SERVICE_PGR",
                         "name": "Complaints",
                         "label": "ES_PGR_HEADER_COMPLAINT",
@@ -42,20 +56,6 @@
                         "label": "MODULE_PT",
                         "enabled": true,
                         "navigationUrl": "/digit-ui/citizen/pt-home"
-                    },
-                    {
-                        "code": "CITIZEN_SERVICE_TL",
-                        "name": "Trade Licence",
-                        "label": "MODULE_TL",
-                        "enabled": true,
-                        "navigationUrl": "/digit-ui/citizen/tl-home"
-                    },
-                    {
-                        "code": "CITIZEN_SERVICE_WS",
-                        "name": "Water & Sewerage",
-                        "label": "ACTION_TEST_WATER_AND_SEWERAGE",
-                        "enabled": true,
-                        "navigationUrl": "/digit-ui/citizen/ws-home"
                     }
                 ]
             },
