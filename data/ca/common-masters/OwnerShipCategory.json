@@ -1,50 +1,65 @@
 {
   "tenantId": "ca",
   "moduleName": "common-masters",
-  "OwnerShipCategory":
-  [
+  "OwnerShipCategory": [
     {
-      "code": "INDIVIDUAL.SINGLEOWNER",
+      "name": "Fee Simple Ownership",
+      "code": "FEE_SIMPLE_OWNERSHIP",
       "active": true
     },
     {
-      "code": "INDIVIDUAL.MULTIPLEOWNERS",
+      "name": "Leasehold Ownership",
+      "code": "LEASEHOLD_OWNERSHIP",
       "active": true
     },
     {
-      "code": "INSTITUTIONALPRIVATE.PRIVATECOMPANY",
+      "name": "Tenancy in Common (TIC)",
+      "code": "TENANCY_IN_COMMON_(TIC)",
       "active": true
     },
     {
-      "code": "INSTITUTIONALPRIVATE.NGO",
+      "name": "Joint Tenancy",
+      "code": "JOINT_TENANCY",
       "active": true
     },
     {
-      "code": "INSTITUTIONALPRIVATE.PRIVATETRUST",
+      "name": "Community Property",
+      "code": "COMMUNITY_PROPERTY",
       "active": true
     },
     {
-      "code": "INSTITUTIONALPRIVATE.PRIVATEBOARD",
+      "name": "Sole Proprietorship",
+      "code": "SOLE_PROPRIETORSHIP",
       "active": true
     },
     {
-      "code": "INSTITUTIONALPRIVATE.OTHERSPRIVATEINSTITUITION",
+      "name": "Corporation Ownership",
+      "code": "CORPORATION_OWNERSHIP",
       "active": true
     },
     {
-      "code": "INSTITUTIONALGOVERNMENT.ULBGOVERNMENT",
+      "name": "Limited Liability Company (LLC)",
+      "code": "LIMITED_LIABILITY_COMPANY_(LLC)",
       "active": true
     },
     {
-      "code": "INSTITUTIONALGOVERNMENT.STATEGOVERNMENT",
+      "name": "Trust Ownership",
+      "code": "TRUST_OWNERSHIP",
       "active": true
     },
     {
-      "code": "INSTITUTIONALGOVERNMENT.CENTRALGOVERNMENT",
+      "name": "Partnership Ownership",
+      "code": "PARTNERSHIP_OWNERSHIP",
       "active": true
     },
     {
-      "code": "INSTITUTIONALGOVERNMENT.OTHERGOVERNMENTINSTITUITION",
+      "name": "Cooperative Ownership (Co-op)",
+      "code": "COOPERATIVE_OWNERSHIP_(CO-OP)",
+      "active": true
+    },
+    {
+      "name": "Timeshare Ownership",
+      "code": "TIMESHARE_OWNERSHIP",
       "active": true
     }
   ]
