@@ -19,11 +19,11 @@
             "TL" : {
                 "helpline": 
                 { 
-                  "contactOne": "7878787878",
-                  "contactTwo": "7979797979"
+                  "contactOne": "+1 916-576-7109",
+                  "contactTwo": "+1 916-576-7108"
                 },
-                "serviceCenter": "#44, Sharath Complex, 2nd Cross, 3rd Main, Rajpur Road, Dehradun, UK",
-                "viewMapLocation": "https://www.google.com/maps/place/eGovernments+Foundation/@12.928746,77.6257499,17z/data=!3m1!4b1!4m5!3m4!1s0x3bae15ded4726555:0xe85af37e345d61bb!8m2!3d12.9287543!4d77.6279401"
+                "serviceCenter": "2389 Gateway Oaks Dr, Sacramento, CA 95833, United States",
+                "viewMapLocation": "https://maps.app.goo.gl/C7sP7552yz6AM1wt7"
             },
 
             "MCOLLECT" : {
@@ -47,12 +47,12 @@
           "OBPS" : {
             "helpline": 
               { 
-                "contactOne": "7878787878",
-                "contactTwo": "7979797979"
+                "contactOne": "+1 916-576-7109",
+                "contactTwo": "+1 916-576-7108"
               },
-              "serviceCenter": "#44, Sharath Complex, 2nd Cross, 3rd Main, Rajpur Road, Dehradun, UK",
-              "validity": "1",
-              "viewMapLocation": "https://www.google.com/maps/place/eGovernments+Foundation/@12.928746,77.6257499,17z/data=!3m1!4b1!4m5!3m4!1s0x3bae15ded4726555:0xe85af37e345d61bb!8m2!3d12.9287543!4d77.6279401"
+              "serviceCenter": "2389 Gateway Oaks Dr, Sacramento, CA 95833, United States",
+              "validity": "10",
+              "viewMapLocation": "https://maps.app.goo.gl/C7sP7552yz6AM1wt7"
         },
         "WS" : {
           "payViaWhatsApp": "https://api.whatsapp.com/send?phone=918744060444&text=mSeva",
