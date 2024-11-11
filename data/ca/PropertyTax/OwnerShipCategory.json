@@ -1,59 +1,66 @@
 {
   "tenantId": "ca",
   "moduleName": "PropertyTax",
-  "OwnerShipCategory":
-  [
+  "OwnerShipCategory": [
     {
-      "name": "Individual(s)",
-      "code": "INDIVIDUAL",
+      "name": "Fee Simple Ownership",
+      "code": "FEE_SIMPLE_OWNERSHIP",
       "active": true
     },
     {
-      "name": "Institutional - Private ",
-      "code": "INSTITUTIONALPRIVATE",
+      "name": "Leasehold Ownership",
+      "code": "LEASEHOLD_OWNERSHIP",
       "active": true
     },
     {
-      "name": "Institutional - Government",
-      "code": "INSTITUTIONALGOVERNMENT",
+      "name": "Tenancy in Common (TIC)",
+      "code": "TENANCY_IN_COMMON_(TIC)",
       "active": true
     },
     {
-      "name": "Individual - SingleOwner",
-      "code": "INDIVIDUAL.SINGLEOWNER",
+      "name": "Joint Tenancy",
+      "code": "JOINT_TENANCY",
       "active": true
     },
     {
-      "name": "Multiple Owners",
-      "code": "INDIVIDUAL.MULTIPLEOWNERS",
+      "name": "Community Property",
+      "code": "COMMUNITY_PROPERTY",
       "active": true
     },
     {
-      "name": "Private Company",
-      "code": "INSTITUTIONALPRIVATE.PRIVATECOMPANY",
+      "name": "Sole Proprietorship",
+      "code": "SOLE_PROPRIETORSHIP",
       "active": true
     },
     {
-      "name": "NGO",
-      "code": "INSTITUTIONALPRIVATE.NGO",
+      "name": "Corporation Ownership",
+      "code": "CORPORATION_OWNERSHIP",
       "active": true
     },
     {
-      "name": "Private Trust",
-      "code": "INSTITUTIONALPRIVATE.PRIVATETRUST",
-      "active": true
-    },
-   
-    {
-      "name": "ULB Government",
-      "code": "INSTITUTIONALGOVERNMENT.ULBGOVERNMENT",
+      "name": "Limited Liability Company (LLC)",
+      "code": "LIMITED_LIABILITY_COMPANY_(LLC)",
       "active": true
     },
     {
-      "name": "State Government",
-      "code": "INSTITUTIONALGOVERNMENT.STATEGOVERNMENT",
+      "name": "Trust Ownership",
+      "code": "TRUST_OWNERSHIP",
+      "active": true
+    },
+    {
+      "name": "Partnership Ownership",
+      "code": "PARTNERSHIP_OWNERSHIP",
+      "active": true
+    },
+    {
+      "name": "Cooperative Ownership (Co-op)",
+      "code": "COOPERATIVE_OWNERSHIP_(CO-OP)",
+      "active": true
+    },
+    {
+      "name": "Timeshare Ownership",
+      "code": "TIMESHARE_OWNERSHIP",
       "active": true
     }
-  
   ]
 }
