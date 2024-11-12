@@ -5969,7 +5969,7 @@
          "orderNumber": 1,
          "queryParams": "",
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "",
          "path": "Property Tax",
          "navigationURL": "/digit-ui/citizen",
@@ -6094,7 +6094,7 @@
          "displayName": "Property Tax",
          "orderNumber": 2,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "",
          "code": "",
          "path": "",
@@ -13338,7 +13338,7 @@
    {
       "id": 2423,
       "name": "PT_HOW_IT_WORKS",
-      "url": "digit-ui-card-disabled",
+      "url": "digit-ui-card",
       "displayName": "How It Works",
       "orderNumber": 9,
       "parentModule": "PT",
@@ -13356,7 +13356,7 @@
    {
       "id": 2424,
       "name": "PT_FAQ_S",
-      "url": "digit-ui-card-disabled",
+      "url": "digit-ui-card",
       "displayName": "FAQs",
       "orderNumber": 8,
       "parentModule": "PT",
@@ -13545,11 +13545,11 @@
    {
       "id": 2437,
       "name": "PT_MY_PAYMENTS",
-      "url": "digit-ui-card-disabled",
+      "url": "digit-ui-card",
       "displayName": "My Payments",
       "orderNumber": 7,
       "parentModule": "PT",
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "",
       "code": "",
       "path": "",
@@ -13894,7 +13894,7 @@
       "rightIcon": "",
       "queryParams": "",
       "sidebar": "digit-ui-links",
-      "sidebarURL": "//obps-home"
+      "sidebarURL": "/digit-ui/citizen/obps-home"
     },
     {
       "id": 2457,
@@ -13907,17 +13907,17 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "//obps/home",
+      "navigationURL": "/digit-ui/citizen/obps/home",
       "leftIcon": "OBPSIcon",
       "rightIcon": "",
       "queryParams": "",
       "sidebar": "digit-ui-links",
-      "sidebarURL": "//obps-home"
+      "sidebarURL": "/digit-ui/citizen/obps-home"
     },
     {
       "id": 2458,
       "name": "PT_SEARCH_AND_PAY",
-      "url": "digit-ui-card-disabled",
+      "url": "digit-ui-card",
       "displayName": "Search and Pay",
       "orderNumber": 1,
       "parentModule": "CommonPT",
@@ -13925,17 +13925,17 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "//commonpt/property/citizen-search",
+      "navigationURL": "/digit-ui/citizen/commonpt/property/citizen-search",
       "leftIcon": "CommonPTIcon",
       "rightIcon": "",
       "queryParams": "",
       "sidebar": "digit-ui-links",
-      "sidebarURL": "//commonpt-home"
+      "sidebarURL": "/digit-ui/citizen/commonpt-home"
     },
     {
       "id": 2459,
       "name": "PT_CREATE_PROPERTY",
-      "url": "digit-ui-card-disabled",
+      "url": "digit-ui-card",
       "displayName": "Create Property",
       "orderNumber": 3,
       "parentModule": "CommonPT",
@@ -13943,12 +13943,12 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "//commonpt/property/new-application",
+      "navigationURL": "/digit-ui/citizen/commonpt/property/new-application",
       "leftIcon": "CommonPTIcon",
       "rightIcon": "",
       "queryParams": "",
       "sidebar": "digit-ui-links",
-      "sidebarURL": "//commonpt-home"
+      "sidebarURL": "/digit-ui/citizen/commonpt-home"
     },
     {
       "id": 2460,
@@ -13961,12 +13961,12 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "//bills/billSearch",
+      "navigationURL": "/digit-ui/citizen/bills/billSearch",
       "leftIcon": "BillsIcon",
       "rightIcon": "",
       "queryParams": "",
       "sidebar": "digit-ui-links",
-      "sidebarURL": "//bills-home"
+      "sidebarURL": "/digit-ui/citizen/bills-home"
     },
     {
       "id": 2461,
@@ -14042,12 +14042,12 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "//Audit",
+      "navigationURL": "/digit-ui/citizen/Audit",
       "leftIcon": "WSIcon",
       "rightIcon": "",
       "queryParams": "",
       "sidebar": "digit-ui-links",
-      "sidebarURL": "//ws-home"
+      "sidebarURL": "/digit-ui/citizen/ws-home"
    },
    {
       "id": 2467,
@@ -14099,7 +14099,7 @@
    {
       "id": 2470,
       "name": "PT_MY_APPLICATION",
-      "url": "digit-ui-card-disabled",
+      "url": "digit-ui-card",
       "displayName": "My Applications",
       "orderNumber": 5,
       "parentModule": "PT",
@@ -14117,7 +14117,7 @@
    {
       "id": 2471,
       "name": "PT_MY_PROPERTIES",
-      "url": "digit-ui-card-disabled",
+      "url": "digit-ui-card",
       "displayName": "My Properties",
       "orderNumber": 4,
       "parentModule": "PT",
@@ -14135,7 +14135,7 @@
    {
       "id": 2472,
       "name": "PT_PROPERTY_MUTATION",
-      "url": "digit-ui-card-disabled",
+      "url": "digit-ui-card",
       "displayName": "Transfer Property Ownership/Mutation",
       "orderNumber": 6,
       "parentModule": "PT",
@@ -14172,7 +14172,7 @@
    {
       "id": 2474,
       "name": "CS_TITLE_MY_BILLS",
-      "url": "digit-ui-card-disabled",
+      "url": "digit-ui-card",
       "displayName": "My Bills",
       "orderNumber": 2,
       "parentModule": "PT",
@@ -14190,7 +14190,7 @@
    {
       "id": 2350,
       "name": "PT_SEARCH_AND_PAY",
-      "url": "digit-ui-card-disabled",
+      "url": "digit-ui-card",
       "displayName": "Search and Pay",
       "orderNumber": 1,
       "parentModule": "PT",
@@ -14208,7 +14208,7 @@
     {
       "id": 2351,
       "name": "PT_CREATE_PROPERTY",
-      "url": "digit-ui-card-disabled",
+      "url": "digit-ui-card",
       "displayName": "Register Property",
       "orderNumber": 3,
       "parentModule": "PT",
