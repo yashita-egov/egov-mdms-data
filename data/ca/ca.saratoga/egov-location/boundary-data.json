@@ -1,0 +1,62 @@
+{
+    "tenantId": "ca.saratoga",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "SARATOGA",
+                "localname": "SARATOGA",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.saratoga",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "DOWNTOWN SARATOGA, BROOKSIDE",
+                        "localname": "DOWNTOWN SARATOGA, BROOKSIDE",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "SA012"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "SARATOGA",
+                "localname": "SARATOGA",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.saratoga",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "DOWNTOWN SARATOGA, BROOKSIDE",
+                        "localname": "DOWNTOWN SARATOGA, BROOKSIDE",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "SA012"
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "tenantId": "ca.escondido",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "ESCONDIDO",
+                "localname": "ESCONDIDO",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.escondido",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "DOWNTOWN ESCONDIDO, EAST VALLEY",
+                        "localname": "DOWNTOWN ESCONDIDO, EAST VALLEY",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "SAN008"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "ESCONDIDO",
+                "localname": "ESCONDIDO",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.escondido",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "DOWNTOWN ESCONDIDO, EAST VALLEY",
+                        "localname": "DOWNTOWN ESCONDIDO, EAST VALLEY",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "SAN008"
+                    }
+                ]
+            }
+        }
+    ]
+}

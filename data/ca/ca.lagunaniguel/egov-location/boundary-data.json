@@ -1,0 +1,62 @@
+{
+    "tenantId": "ca.lagunaniguel",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "LAGUNA NIGUEL",
+                "localname": "LAGUNA NIGUEL",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.lagunaniguel",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "OCEAN RANCH, LAGUNA HEIGHTS",
+                        "localname": "OCEAN RANCH, LAGUNA HEIGHTS",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "ORN013"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "LAGUNA NIGUEL",
+                "localname": "LAGUNA NIGUEL",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.lagunaniguel",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "OCEAN RANCH, LAGUNA HEIGHTS",
+                        "localname": "OCEAN RANCH, LAGUNA HEIGHTS",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "ORN013"
+                    }
+                ]
+            }
+        }
+    ]
+}

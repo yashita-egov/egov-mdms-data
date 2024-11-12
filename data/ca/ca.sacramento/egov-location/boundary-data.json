@@ -1,0 +1,62 @@
+{
+    "tenantId": "ca.sacramento",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "SACRAMENTO",
+                "localname": "SACRAMENTO",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.sacramento",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "MIDTOWN, LAND PARK",
+                        "localname": "MIDTOWN, LAND PARK",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "SAR001"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "SACRAMENTO",
+                "localname": "SACRAMENTO",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.sacramento",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "MIDTOWN, LAND PARK",
+                        "localname": "MIDTOWN, LAND PARK",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "SAR001"
+                    }
+                ]
+            }
+        }
+    ]
+}

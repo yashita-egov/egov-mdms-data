@@ -1,0 +1,62 @@
+{
+    "tenantId": "ca.dublin",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "DUBLIN",
+                "localname": "DUBLIN",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.dublin",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "EAST DUBLIN, WEST DUBLIN",
+                        "localname": "EAST DUBLIN, WEST DUBLIN",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "ALM004"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "DUBLIN",
+                "localname": "DUBLIN",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.dublin",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "EAST DUBLIN, WEST DUBLIN",
+                        "localname": "EAST DUBLIN, WEST DUBLIN",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "ALM004"
+                    }
+                ]
+            }
+        }
+    ]
+}

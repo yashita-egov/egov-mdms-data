@@ -1,0 +1,62 @@
+{
+    "tenantId": "ca.elcajon",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "EL CAJON",
+                "localname": "EL CAJON",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.elcajon",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "DOWNTOWN EL CAJON, FLETCHER HILLS",
+                        "localname": "DOWNTOWN EL CAJON, FLETCHER HILLS",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "SAN006"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "EL CAJON",
+                "localname": "EL CAJON",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.elcajon",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "DOWNTOWN EL CAJON, FLETCHER HILLS",
+                        "localname": "DOWNTOWN EL CAJON, FLETCHER HILLS",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "SAN006"
+                    }
+                ]
+            }
+        }
+    ]
+}

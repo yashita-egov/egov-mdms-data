@@ -1,0 +1,62 @@
+{
+    "tenantId": "ca.costamesa",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "COSTA MESA",
+                "localname": "COSTA MESA",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.costamesa",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "EASTSIDE, WESTSIDE",
+                        "localname": "EASTSIDE, WESTSIDE",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "ORN004"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "COSTA MESA",
+                "localname": "COSTA MESA",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.costamesa",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "EASTSIDE, WESTSIDE",
+                        "localname": "EASTSIDE, WESTSIDE",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "ORN004"
+                    }
+                ]
+            }
+        }
+    ]
+}

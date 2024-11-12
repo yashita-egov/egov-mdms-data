@@ -1,0 +1,62 @@
+{
+    "tenantId": "ca.pomona",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "POMONA",
+                "localname": "POMONA",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.pomona",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "DOWNTOWN POMONA, PHILLIPS RANCH",
+                        "localname": "DOWNTOWN POMONA, PHILLIPS RANCH",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "LA007"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "POMONA",
+                "localname": "POMONA",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.pomona",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "DOWNTOWN POMONA, PHILLIPS RANCH",
+                        "localname": "DOWNTOWN POMONA, PHILLIPS RANCH",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "LA007"
+                    }
+                ]
+            }
+        }
+    ]
+}

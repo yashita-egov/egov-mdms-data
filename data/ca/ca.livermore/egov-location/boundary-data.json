@@ -1,0 +1,62 @@
+{
+    "tenantId": "ca.livermore",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "LIVERMORE",
+                "localname": "LIVERMORE",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.livermore",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "HISTORIC DOWNTOWN, SOUTH LIVERMORE",
+                        "localname": "HISTORIC DOWNTOWN, SOUTH LIVERMORE",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "ALM008"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "LIVERMORE",
+                "localname": "LIVERMORE",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.livermore",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "HISTORIC DOWNTOWN, SOUTH LIVERMORE",
+                        "localname": "HISTORIC DOWNTOWN, SOUTH LIVERMORE",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "ALM008"
+                    }
+                ]
+            }
+        }
+    ]
+}

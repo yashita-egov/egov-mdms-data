@@ -1,0 +1,62 @@
+{
+    "tenantId": "ca.lagunabeach",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "LAGUNA BEACH",
+                "localname": "LAGUNA BEACH",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.lagunabeach",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "SOUTH LAGUNA, LAGUNA VILLAGE",
+                        "localname": "SOUTH LAGUNA, LAGUNA VILLAGE",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "ORN012"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "LAGUNA BEACH",
+                "localname": "LAGUNA BEACH",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.lagunabeach",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "SOUTH LAGUNA, LAGUNA VILLAGE",
+                        "localname": "SOUTH LAGUNA, LAGUNA VILLAGE",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "ORN012"
+                    }
+                ]
+            }
+        }
+    ]
+}

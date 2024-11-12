@@ -1,0 +1,62 @@
+{
+    "tenantId": "ca.poway",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "POWAY",
+                "localname": "POWAY",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.poway",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "OLD POWAY, RANCHO BERNARDO",
+                        "localname": "OLD POWAY, RANCHO BERNARDO",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "SAN014"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "POWAY",
+                "localname": "POWAY",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.poway",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "OLD POWAY, RANCHO BERNARDO",
+                        "localname": "OLD POWAY, RANCHO BERNARDO",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "SAN014"
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "tenantId": "ca.downey",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "DOWNEY",
+                "localname": "DOWNEY",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.downey",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "DOWNEY LANDING, STONEWOOD CENTER",
+                        "localname": "DOWNEY LANDING, STONEWOOD CENTER",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "LA011"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "DOWNEY",
+                "localname": "DOWNEY",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.downey",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "DOWNEY LANDING, STONEWOOD CENTER",
+                        "localname": "DOWNEY LANDING, STONEWOOD CENTER",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "LA011"
+                    }
+                ]
+            }
+        }
+    ]
+}

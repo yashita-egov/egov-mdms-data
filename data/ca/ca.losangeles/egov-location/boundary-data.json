@@ -1,0 +1,62 @@
+{
+    "tenantId": "ca.losangeles",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "LOS ANGELES",
+                "localname": "LOS ANGELES",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.losangeles",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "HOLLYWOOD, DOWNTOWN, WESTWOOD",
+                        "localname": "HOLLYWOOD, DOWNTOWN, WESTWOOD",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "LA001"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "LOS ANGELES",
+                "localname": "LOS ANGELES",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.losangeles",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "HOLLYWOOD, DOWNTOWN, WESTWOOD",
+                        "localname": "HOLLYWOOD, DOWNTOWN, WESTWOOD",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "LA001"
+                    }
+                ]
+            }
+        }
+    ]
+}

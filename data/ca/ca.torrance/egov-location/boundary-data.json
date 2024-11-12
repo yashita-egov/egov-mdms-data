@@ -1,0 +1,62 @@
+{
+    "tenantId": "ca.torrance",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "TORRANCE",
+                "localname": "TORRANCE",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.torrance",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "OLD TORRANCE, DEL AMO FASHION CENTER",
+                        "localname": "OLD TORRANCE, DEL AMO FASHION CENTER",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "LA008"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "TORRANCE",
+                "localname": "TORRANCE",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.torrance",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "OLD TORRANCE, DEL AMO FASHION CENTER",
+                        "localname": "OLD TORRANCE, DEL AMO FASHION CENTER",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "LA008"
+                    }
+                ]
+            }
+        }
+    ]
+}

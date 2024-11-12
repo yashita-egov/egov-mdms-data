@@ -1,0 +1,62 @@
+{
+    "tenantId": "ca.pleasanton",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "PLEASANTON",
+                "localname": "PLEASANTON",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.pleasanton",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "DOWNTOWN PLEASANTON, VINTAGE HILLS",
+                        "localname": "DOWNTOWN PLEASANTON, VINTAGE HILLS",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "ALM012"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "PLEASANTON",
+                "localname": "PLEASANTON",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.pleasanton",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "DOWNTOWN PLEASANTON, VINTAGE HILLS",
+                        "localname": "DOWNTOWN PLEASANTON, VINTAGE HILLS",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "ALM012"
+                    }
+                ]
+            }
+        }
+    ]
+}

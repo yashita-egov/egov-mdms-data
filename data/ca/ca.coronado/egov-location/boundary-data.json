@@ -1,0 +1,62 @@
+{
+    "tenantId": "ca.coronado",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "CORONADO",
+                "localname": "CORONADO",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.coronado",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "CORONADO VILLAGE, THE SHORES",
+                        "localname": "CORONADO VILLAGE, THE SHORES",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "SAN004"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "CORONADO",
+                "localname": "CORONADO",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.coronado",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "CORONADO VILLAGE, THE SHORES",
+                        "localname": "CORONADO VILLAGE, THE SHORES",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "SAN004"
+                    }
+                ]
+            }
+        }
+    ]
+}

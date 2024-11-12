@@ -1,0 +1,62 @@
+{
+    "tenantId": "ca.chulavista",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "CHULA VISTA",
+                "localname": "CHULA VISTA",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.chulavista",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "EASTLAKE, OTAY RANCH",
+                        "localname": "EASTLAKE, OTAY RANCH",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "SAN003"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "CHULA VISTA",
+                "localname": "CHULA VISTA",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.chulavista",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "EASTLAKE, OTAY RANCH",
+                        "localname": "EASTLAKE, OTAY RANCH",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "SAN003"
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "tenantId": "ca.fullerton",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "FULLERTON",
+                "localname": "FULLERTON",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.fullerton",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "DOWNTOWN FULLERTON, SUNNY HILLS",
+                        "localname": "DOWNTOWN FULLERTON, SUNNY HILLS",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "ORN008"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "FULLERTON",
+                "localname": "FULLERTON",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.fullerton",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "DOWNTOWN FULLERTON, SUNNY HILLS",
+                        "localname": "DOWNTOWN FULLERTON, SUNNY HILLS",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "ORN008"
+                    }
+                ]
+            }
+        }
+    ]
+}

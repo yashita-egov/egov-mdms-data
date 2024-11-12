@@ -1,0 +1,62 @@
+{
+    "tenantId": "ca.encinitas",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "ENCINITAS",
+                "localname": "ENCINITAS",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.encinitas",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "LEUCADIA, OLD ENCINITAS",
+                        "localname": "LEUCADIA, OLD ENCINITAS",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "SAN007"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "ENCINITAS",
+                "localname": "ENCINITAS",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.encinitas",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "LEUCADIA, OLD ENCINITAS",
+                        "localname": "LEUCADIA, OLD ENCINITAS",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "SAN007"
+                    }
+                ]
+            }
+        }
+    ]
+}

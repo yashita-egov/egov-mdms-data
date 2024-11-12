@@ -1,0 +1,62 @@
+{
+    "tenantId": "ca.imperialbeach",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "IMPERIAL BEACH",
+                "localname": "IMPERIAL BEACH",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.imperialbeach",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "IMPERIAL BEACH PIER, SEACOAST DRIVE",
+                        "localname": "IMPERIAL BEACH PIER, SEACOAST DRIVE",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "SAN009"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "IMPERIAL BEACH",
+                "localname": "IMPERIAL BEACH",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.imperialbeach",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "IMPERIAL BEACH PIER, SEACOAST DRIVE",
+                        "localname": "IMPERIAL BEACH PIER, SEACOAST DRIVE",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "SAN009"
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "tenantId": "ca.newark",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "NEWARK",
+                "localname": "NEWARK",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.newark",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "NEWARK VILLAGE, CEDAR BOULEVARD",
+                        "localname": "NEWARK VILLAGE, CEDAR BOULEVARD",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "ALM009"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "NEWARK",
+                "localname": "NEWARK",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.newark",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "NEWARK VILLAGE, CEDAR BOULEVARD",
+                        "localname": "NEWARK VILLAGE, CEDAR BOULEVARD",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "ALM009"
+                    }
+                ]
+            }
+        }
+    ]
+}

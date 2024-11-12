@@ -1,0 +1,62 @@
+{
+    "tenantId": "ca.inglewood",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "INGLEWOOD",
+                "localname": "INGLEWOOD",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.inglewood",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "DOWNTOWN INGLEWOOD, INGLEWOOD PARK",
+                        "localname": "DOWNTOWN INGLEWOOD, INGLEWOOD PARK",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "LA012"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "INGLEWOOD",
+                "localname": "INGLEWOOD",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.inglewood",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "DOWNTOWN INGLEWOOD, INGLEWOOD PARK",
+                        "localname": "DOWNTOWN INGLEWOOD, INGLEWOOD PARK",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "LA012"
+                    }
+                ]
+            }
+        }
+    ]
+}

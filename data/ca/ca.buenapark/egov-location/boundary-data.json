@@ -1,0 +1,62 @@
+{
+    "tenantId": "ca.buenapark",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "BUENA PARK",
+                "localname": "BUENA PARK",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.buenapark",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "BUENA PARK DOWNTOWN, KNOTT'S BERRY FARM",
+                        "localname": "BUENA PARK DOWNTOWN, KNOTT'S BERRY FARM",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "ORN003"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "BUENA PARK",
+                "localname": "BUENA PARK",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.buenapark",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "BUENA PARK DOWNTOWN, KNOTT'S BERRY FARM",
+                        "localname": "BUENA PARK DOWNTOWN, KNOTT'S BERRY FARM",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "ORN003"
+                    }
+                ]
+            }
+        }
+    ]
+}

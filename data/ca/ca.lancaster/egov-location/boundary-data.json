@@ -1,0 +1,62 @@
+{
+    "tenantId": "ca.lancaster",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "LANCASTER",
+                "localname": "LANCASTER",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.lancaster",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "DOWNTOWN LANCASTER, QUARTZ HILL",
+                        "localname": "DOWNTOWN LANCASTER, QUARTZ HILL",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "LA005"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "LANCASTER",
+                "localname": "LANCASTER",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.lancaster",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "DOWNTOWN LANCASTER, QUARTZ HILL",
+                        "localname": "DOWNTOWN LANCASTER, QUARTZ HILL",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "LA005"
+                    }
+                ]
+            }
+        }
+    ]
+}

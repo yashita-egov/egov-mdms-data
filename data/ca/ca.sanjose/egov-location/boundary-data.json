@@ -1,0 +1,62 @@
+{
+    "tenantId": "ca.sanjose",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "SAN JOSE",
+                "localname": "SAN JOSE",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.sanjose",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "WILLOW GLEN, SANTANA ROW",
+                        "localname": "WILLOW GLEN, SANTANA ROW",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "SA001"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "SAN JOSE",
+                "localname": "SAN JOSE",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.sanjose",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "WILLOW GLEN, SANTANA ROW",
+                        "localname": "WILLOW GLEN, SANTANA ROW",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "SA001"
+                    }
+                ]
+            }
+        }
+    ]
+}

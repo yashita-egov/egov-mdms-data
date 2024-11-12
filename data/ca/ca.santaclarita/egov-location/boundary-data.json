@@ -1,0 +1,62 @@
+{
+    "tenantId": "ca.santaclarita",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "SANTA CLARITA",
+                "localname": "SANTA CLARITA",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.santaclarita",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "VALENCIA, CANYON COUNTRY",
+                        "localname": "VALENCIA, CANYON COUNTRY",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "LA004"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "SANTA CLARITA",
+                "localname": "SANTA CLARITA",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.santaclarita",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "VALENCIA, CANYON COUNTRY",
+                        "localname": "VALENCIA, CANYON COUNTRY",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "LA004"
+                    }
+                ]
+            }
+        }
+    ]
+}

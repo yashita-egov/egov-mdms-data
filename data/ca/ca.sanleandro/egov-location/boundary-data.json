@@ -1,0 +1,62 @@
+{
+    "tenantId": "ca.sanleandro",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "SAN LEANDRO",
+                "localname": "SAN LEANDRO",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.sanleandro",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "DOWNTOWN SAN LEANDRO, ESTUDILLO ESTATES",
+                        "localname": "DOWNTOWN SAN LEANDRO, ESTUDILLO ESTATES",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "ALM013"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "SAN LEANDRO",
+                "localname": "SAN LEANDRO",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.sanleandro",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "DOWNTOWN SAN LEANDRO, ESTUDILLO ESTATES",
+                        "localname": "DOWNTOWN SAN LEANDRO, ESTUDILLO ESTATES",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "ALM013"
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "tenantId": "ca.nationalcity",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "NATIONAL CITY",
+                "localname": "NATIONAL CITY",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.nationalcity",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "DOWNTOWN NATIONAL CITY, KIMBALL PARK",
+                        "localname": "DOWNTOWN NATIONAL CITY, KIMBALL PARK",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "SAN012"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "NATIONAL CITY",
+                "localname": "NATIONAL CITY",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.nationalcity",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "DOWNTOWN NATIONAL CITY, KIMBALL PARK",
+                        "localname": "DOWNTOWN NATIONAL CITY, KIMBALL PARK",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "SAN012"
+                    }
+                ]
+            }
+        }
+    ]
+}

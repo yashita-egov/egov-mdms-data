@@ -1,0 +1,62 @@
+{
+    "tenantId": "ca.isleton",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "ISLETON",
+                "localname": "ISLETON",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.isleton",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "DOWNTOWN ISLETON, ISLETON MARINA",
+                        "localname": "DOWNTOWN ISLETON, ISLETON MARINA",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "SAR006"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "ISLETON",
+                "localname": "ISLETON",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.isleton",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "DOWNTOWN ISLETON, ISLETON MARINA",
+                        "localname": "DOWNTOWN ISLETON, ISLETON MARINA",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "SAR006"
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "tenantId": "ca.paloalto",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "PALO ALTO",
+                "localname": "PALO ALTO",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.paloalto",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "MIDTOWN, COLLEGE TERRACE",
+                        "localname": "MIDTOWN, COLLEGE TERRACE",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "SA010"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "PALO ALTO",
+                "localname": "PALO ALTO",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.paloalto",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "MIDTOWN, COLLEGE TERRACE",
+                        "localname": "MIDTOWN, COLLEGE TERRACE",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "SA010"
+                    }
+                ]
+            }
+        }
+    ]
+}

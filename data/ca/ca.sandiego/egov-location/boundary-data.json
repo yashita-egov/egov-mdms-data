@@ -1,0 +1,62 @@
+{
+    "tenantId": "ca.sandiego",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "SAN DIEGO",
+                "localname": "SAN DIEGO",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.sandiego",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "LA JOLLA, GASLAMP QUARTER",
+                        "localname": "LA JOLLA, GASLAMP QUARTER",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "SAN001"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "SAN DIEGO",
+                "localname": "SAN DIEGO",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.sandiego",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "LA JOLLA, GASLAMP QUARTER",
+                        "localname": "LA JOLLA, GASLAMP QUARTER",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "SAN001"
+                    }
+                ]
+            }
+        }
+    ]
+}

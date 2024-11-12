@@ -1,0 +1,62 @@
+{
+    "tenantId": "ca.fremont",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "FREMONT",
+                "localname": "FREMONT",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.fremont",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "MISSION SAN JOSE, CENTERVILLE",
+                        "localname": "MISSION SAN JOSE, CENTERVILLE",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "ALM006"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "FREMONT",
+                "localname": "FREMONT",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.fremont",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "MISSION SAN JOSE, CENTERVILLE",
+                        "localname": "MISSION SAN JOSE, CENTERVILLE",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "ALM006"
+                    }
+                ]
+            }
+        }
+    ]
+}

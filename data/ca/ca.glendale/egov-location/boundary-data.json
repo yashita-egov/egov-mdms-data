@@ -1,0 +1,62 @@
+{
+    "tenantId": "ca.glendale",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "GLENDALE",
+                "localname": "GLENDALE",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.glendale",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "BRAND PARK, GLENDALE HILLS",
+                        "localname": "BRAND PARK, GLENDALE HILLS",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "LA003"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "GLENDALE",
+                "localname": "GLENDALE",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "ca.glendale",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "BRAND PARK, GLENDALE HILLS",
+                        "localname": "BRAND PARK, GLENDALE HILLS",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "LA003"
+                    }
+                ]
+            }
+        }
+    ]
+}
