@@ -3,6 +3,22 @@
   "moduleName": "BillingService",
   "TaxPeriod": [
     {
+      "fromDate": 1743445800000,
+      "toDate": 1774981799000,
+      "periodCycle": "ANNUAL",
+      "service": "TL",
+      "code": "TLAN2024",
+      "financialYear": "2025-26"
+    },
+    {
+      "fromDate": 1743445800000,
+      "toDate": 1774981799000,
+      "periodCycle": "ANNUAL",
+      "service": "TL",
+      "code": "TLRENEWAL2024",
+      "financialYear": "2025-26"
+    },
+    {
       "fromDate": 1711909800000,
       "toDate": 1743445799000,
       "periodCycle": "TWOYEARS",
