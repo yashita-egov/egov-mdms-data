@@ -4,62 +4,62 @@
   "OwnerShipCategory": [
     {
       "name": "Fee Simple Ownership",
-      "code": "INDIVIDUAL.FEE_SIMPLE_OWNERSHIP",
+      "code": "INDIVIDUAL_SINGLEOWNER.FEE_SIMPLE_OWNERSHIP",
       "active": true
     },
     {
       "name": "Leasehold Ownership",
-      "code": "INDIVIDUAL.LEASEHOLD_OWNERSHIP",
+      "code": "INDIVIDUAL_SINGLEOWNER.LEASEHOLD_OWNERSHIP",
       "active": true
     },
     {
       "name": "Tenancy in Common (TIC)",
-      "code": "INDIVIDUAL.TENANCY_IN_COMMON",
+      "code": "INDIVIDUAL_SINGLEOWNER.TENANCY_IN_COMMON",
       "active": true
     },
     {
       "name": "Joint Tenancy",
-      "code": "INDIVIDUAL.JOINT_TENANCY",
+      "code": "INDIVIDUAL_SINGLEOWNER.JOINT_TENANCY",
       "active": true
     },
     {
       "name": "Community Property",
-      "code": "INDIVIDUAL.COMMUNITY_PROPERTY",
+      "code": "INDIVIDUAL_SINGLEOWNER.COMMUNITY_PROPERTY",
       "active": true
     },
     {
       "name": "Sole Proprietorship",
-      "code": "INDIVIDUAL.SOLE_PROPRIETORSHIP",
+      "code": "INDIVIDUAL_SINGLEOWNER.SOLE_PROPRIETORSHIP",
       "active": true
     },
     {
       "name": "Corporation Ownership",
-      "code": "INDIVIDUAL.CORPORATION_OWNERSHIP",
+      "code": "INDIVIDUAL_SINGLEOWNER.CORPORATION_OWNERSHIP",
       "active": true
     },
     {
       "name": "Limited Liability Company (LLC)",
-      "code": "INDIVIDUAL.LIMITED_LIABILITY_COMPANY",
+      "code": "INDIVIDUAL_SINGLEOWNER.LIMITED_LIABILITY_COMPANY",
       "active": true
     },
     {
       "name": "Trust Ownership",
-      "code": "INDIVIDUAL.TRUST_OWNERSHIP",
+      "code": "INDIVIDUAL_SINGLEOWNER.TRUST_OWNERSHIP",
       "active": true
     },
     {
       "name": "Partnership Ownership",
-      "code": "INDIVIDUAL.PARTNERSHIP_OWNERSHIP",
+      "code": "INDIVIDUAL_SINGLEOWNER.PARTNERSHIP_OWNERSHIP",
       "active": true
     },
     {
       "name": "Cooperative Ownership (Co-op)",
-      "code": "INDIVIDUAL.COOPERATIVE_OWNERSHIP",
+      "code": "INDIVIDUAL_SINGLEOWNER.COOPERATIVE_OWNERSHIP",
       "active": true
     },
     {
       "name": "Timeshare Ownership",
-      "code": "INDIVIDUAL.TIMESHARE_OWNERSHIP",
+      "code": "INDIVIDUAL_SINGLEOWNER.TIMESHARE_OWNERSHIP",
       "active": true
     }
   ]
