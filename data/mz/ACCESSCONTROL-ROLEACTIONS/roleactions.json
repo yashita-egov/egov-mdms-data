@@ -21110,19 +21110,19 @@
       "actioncode": "",
       "tenantid": "mz"
     },
-     {
+    {
       "rolecode": "MICROPLAN_ADMIN",
       "actionid": 1955,
       "actioncode": "",
       "tenantid": "mz"
     },
-     {
+    {
       "rolecode": "MICROPLAN_ADMIN",
       "actionid": 1956,
       "actioncode": "",
       "tenantid": "mz"
     },
-     {
+    {
       "rolecode": "MICROPLAN_ADMIN",
       "actionid": 1957,
       "actioncode": "",
@@ -21181,31 +21181,36 @@
       "actionid": 1766,
       "actioncode": "",
       "tenantid": "mz"
-    },    {
+    },
+    {
       "rolecode": "POPULATION_DATA_APPROVER",
       "actionid": 1766,
       "actioncode": "",
       "tenantid": "mz"
-    },    {
+    },
+    {
       "rolecode": "ROOT_POPULATION_DATA_APPROVER",
       "actionid": 1766,
       "actioncode": "",
       "tenantid": "mz"
-    },    {
+    },
+    {
       "rolecode": "PLAN_ESTIMATION_APPROVER",
       "actionid": 1766,
       "actioncode": "",
       "tenantid": "mz"
-    },    {
+    },
+    {
       "rolecode": "ROOT_PLAN_ESTIMATION_APPROVER",
       "actionid": 1766,
       "actioncode": "",
       "tenantid": "mz"
-    },    {
+    },
+    {
       "rolecode": "MICROPLAN_VIEWER",
       "actionid": 1766,
       "actioncode": "",
       "tenantid": "mz"
-    },
+    }
   ]
 }
