@@ -26095,6 +26095,72 @@
       "actionid": 1930,
       "actioncode": "",
       "tenantId": "ca"
+    },
+    {
+      "rolecode": "BPA_CEMP",
+      "actionid": 1730,
+      "actioncode": "",
+      "tenantId": "ca"
+    },
+    {
+      "rolecode": "BPA_CEMP",
+      "actionid": 2089,
+      "actioncode": "",
+      "tenantId": "ca"
+    },
+    {
+      "rolecode": "BPA_CEMP",
+      "actionid": 1743,
+      "actioncode": "",
+      "tenantId": "ca"
+    },
+    {
+      "rolecode": "BPA_CEMP",
+      "actionid": 2091,
+      "actioncode": "",
+      "tenantId": "ca"
+    },
+    {
+      "rolecode": "BPA_CEMP",
+      "actionid": 1862,
+      "actioncode": "",
+      "tenantId": "ca"
+    },
+    {
+      "rolecode": "BPA_CEMP",
+      "actionid": 2316,
+      "actioncode": "",
+      "tenantId": "ca"
+    },
+    {
+      "rolecode": "BPA_CEMP",
+      "actionid": 2032,
+      "actioncode": "",
+      "tenantId": "ca"
+    },
+    {
+      "rolecode": "BPA_CEMP",
+      "actionid": 2041,
+      "actioncode": "",
+      "tenantId": "ca"
+    },
+    {
+      "rolecode": "BPA_CEMP",
+      "actionid": 2042,
+      "actioncode": "",
+      "tenantId": "ca"
+    },
+    {
+      "rolecode": "BPA_CEMP",
+      "actionid": 2043,
+      "actioncode": "",
+      "tenantId": "ca"
+    },
+    {
+      "rolecode": "BPA_CEMP",
+      "actionid": 2044,
+      "actioncode": "",
+      "tenantId": "ca"
     }
   ]
 }
