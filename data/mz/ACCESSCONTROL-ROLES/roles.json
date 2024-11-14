@@ -166,7 +166,11 @@
     "code": "BOUNDARY_MANAGER",
     "name": "Boundary Manager",
     "description": "Boundary Manager"
+  },
+   {
+    "code": "MICROPLAN_CAMPAIGN_INTEGRATOR",
+    "name": "Microplan Campaign integrator",
+    "description": "Microplan and Campaign integrated user"
   }
-  
   ]
 }
