@@ -26083,6 +26083,18 @@
       "actionid": 2002,
       "actioncode": "",
       "tenantId": "ca"
+    },
+    {
+      "rolecode": "BPAREG_CEMP",
+      "actionid": 2002,
+      "actioncode": "",
+      "tenantId": "ca"
+    },
+    {
+      "rolecode": "BPAREG_CEMP",
+      "actionid": 1930,
+      "actioncode": "",
+      "tenantId": "ca"
     }
   ]
 }
