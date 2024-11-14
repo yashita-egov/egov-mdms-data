@@ -20239,6 +20239,12 @@
       "actionid": 2021,
       "actioncode": "",
       "tenantId": "mz"
+    },
+    {
+      "rolecode": "BOUNDARY_MANAGER",
+      "actionid": 2004,
+      "actioncode": "",
+      "tenantId": "mz"
     }
   ]
 }
