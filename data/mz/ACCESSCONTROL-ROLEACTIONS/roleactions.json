@@ -20149,6 +20149,18 @@
       "actionid": 1774,
       "actioncode": "",
       "tenantId": "mz"
+    },
+    {
+      "rolecode": "ROOT_FACILITY_CATCHMENT_MAPPER",
+      "actionid": 2011,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "FACILITY_CATCHMENT_MAPPER",
+      "actionid": 2011,
+      "actioncode": "",
+      "tenantId": "mz"
     }
   ]
 }
