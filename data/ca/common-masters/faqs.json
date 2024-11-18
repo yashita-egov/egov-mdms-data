@@ -33,8 +33,23 @@
                 },
                 {
                   "question": "TL_FAQ_QUES_THREE",
-                  "answer": "TL_FAQ_ANS_THREE",
-                  "subAnswer": "TL_FAQ_ANS_THREE_APP_ACKNOWLEDGE"
+                  "answer": "TL_FAQ_ANS_THREE"
+                },
+                {
+                  "question": "TL_FAQ_QUES_FOUR",
+                  "answer": "TL_FAQ_ANS_FOUR"
+                },
+                {
+                  "question": "TL_FAQ_QUES_FIVE",
+                  "answer": "TL_FAQ_ANS_FIVE"
+                },
+                {
+                  "question": "TL_FAQ_QUES_SIX",
+                  "answer": "TL_FAQ_ANS_SIX"
+                },
+                {
+                  "question": "TL_FAQ_QUES_SEVEN",
+                  "answer": "TL_FAQ_ANS_SEVEN"
                 }
               ]
             },
