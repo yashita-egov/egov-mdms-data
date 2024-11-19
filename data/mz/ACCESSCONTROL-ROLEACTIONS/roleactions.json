@@ -20161,6 +20161,18 @@
       "actionid": 2011,
       "actioncode": "",
       "tenantId": "mz"
+    },
+    {
+      "rolecode": "ROOT_PLAN_ESTIMATION_APPROVER",
+      "actionid": 1887,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "PLAN_ESTIMATION_APPROVER",
+      "actionid": 1887,
+      "actioncode": "",
+      "tenantId": "mz"
     }
   ]
 }
