@@ -3,6 +3,20 @@
   "moduleName": "egf-master",
   "FinancialYear": [
     {
+      "id": "36",
+      "tenantId": "ca",
+      "finYearRange":  "2025-26",
+      "name":  "2025-26",
+      "code":  "2025-26",
+      "startingDate": 1743445800000,
+      "endingDate": 1774981799000,
+      "active": true,
+      "isActiveForPosting": false,
+      "isClosed": false,
+      "transferClosingBalance": false,
+      "module": "TL"
+    },
+    {
       "id": "35",
       "tenantId": "ca",
       "finYearRange":  "2024-25",
