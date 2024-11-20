@@ -1,0 +1,10 @@
+{
+    "tenantId": "mz",
+    "moduleName": "RAINMAKER-PGR",
+    "BoundaryConfig": [
+        {
+            "hierarchy": "Workbench",
+            "hierarchyLevel": "Post Administrative"
+        }
+    ]
+   }
