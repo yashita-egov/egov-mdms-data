@@ -3,12 +3,24 @@
   "moduleName": "map-config",
   "GeoJsonMapping": [
     {
-      "tenantId": "mz",
-      "geojsons": {
-        "gaza": "https://egov-qa-assets.s3.ap-south-1.amazonaws.com/health/map/gaza.json",
-        "rivercess": "https://egov-qa-assets.s3.ap-south-1.amazonaws.com/health/map/rivercess.json",
-        "national-map": "https://egov-qa-assets.s3.ap-south-1.amazonaws.com/health/map/national-map.json"
-      }
+      "geojsons": [
+          {
+            "code": "gaza",
+            "url": "https://egov-qa-assets.s3.ap-south-1.amazonaws.com/health/map/gaza.json"
+          },
+          {
+            "code": "rivercess",
+            "url": "https://egov-qa-assets.s3.ap-south-1.amazonaws.com/health/map/rivercess.json"
+          },
+          {
+            "code": "national-map",
+            "url": "https://egov-qa-assets.s3.ap-south-1.amazonaws.com/health/map/national-map.json"
+          },
+          {
+            "code": "nampula",
+            "url": "https://egov-qa-assets.s3.ap-south-1.amazonaws.com/health/map/nampula.json"
+          }
+      ]
     }
   ]
 }
