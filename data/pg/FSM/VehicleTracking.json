@@ -1,0 +1,9 @@
+{
+    "tenantId": "pg",
+    "moduleName": "FSM",
+    "VehicleTracking": [
+        {
+            "vehicleTrackingStatus": true
+        }
+    ]
+}
