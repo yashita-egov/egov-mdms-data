@@ -20173,6 +20173,12 @@
       "actionid": 1887,
       "actioncode": "",
       "tenantId": "mz"
+    },
+    {
+      "rolecode": "MICROPLAN_CAMPAIGN_INTEGRATOR",
+      "actionid": 2022,
+      "actioncode": "",
+      "tenantId": "mz"
     }
   ]
 }
