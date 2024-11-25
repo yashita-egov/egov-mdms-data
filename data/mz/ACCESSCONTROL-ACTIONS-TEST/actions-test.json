@@ -15070,7 +15070,17 @@
       "navigationURL": "/microplan-ui/employee/microplan/my-microplans",
       "path": "1ACTION_TEST_MY_MICROPLAN",
       "leftIcon": "Announcement"
+    },
+    {
+      "id": 2022,
+      "name": "fetch from microplan",
+      "url": "/project-factory/v1/project-type/fetch-from-microplan",
+      "displayName": "fetch from microplan",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "project-factory",
+      "code": "null",
+      "path": "/project-factory/v1/project-type/fetch-from-microplan"
     }
-
   ]
 }
