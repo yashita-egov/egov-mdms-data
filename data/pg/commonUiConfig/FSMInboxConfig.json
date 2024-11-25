@@ -135,6 +135,11 @@
               },
               {
                 "text": "ES_TITILE_SEARCH_APPLICATION",
+                "url": "/citizen/fsm/search",
+                "roles": ["CITIZEN"]
+              },
+              {
+                "text": "ES_TITILE_SEARCH_APPLICATION",
                 "url": "/employee/fsm/search",
                 "roles": []
               },
