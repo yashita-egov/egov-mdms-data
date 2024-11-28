@@ -6624,6 +6624,12 @@
       "actionid": 495,
       "actioncode": "",
       "tenantId": "pg"
+    },
+    {
+      "rolecode": "PQM_TP_OPERATOR",
+      "actionid": 280,
+      "actioncode": "",
+      "tenantId": "pg"
     }
   ]
 }
