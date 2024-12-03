@@ -1,0 +1,11 @@
+{
+  "tenantId": "ka",
+  "moduleName": "firenoc",
+  "FireStations": [
+    {
+      "code": "FS_CITYA_01",
+      "baseTenantId": "ka.phc1",
+      "active": true
+    }
+  ]
+}

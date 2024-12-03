@@ -1,0 +1,16 @@
+{
+	"tenantId": "ka.phc1",
+	"moduleName": "BillingService",
+	"GLCode": [
+	{
+		"code": "BIRTH_CERT",
+		"glcode": null,
+		"cb": "ka.phc1"
+	},
+	{
+		"code": "DEATH_CERT",
+		"glcode": null,
+		"cb": "ka.phc1"
+	}
+	]
+}

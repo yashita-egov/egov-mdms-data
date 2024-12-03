@@ -1,0 +1,18 @@
+{
+    "tenantId": "ka",
+    "moduleName": "Chatbot",
+    "CityNames": [
+        {
+            "locale": "en",
+            "cities": [
+                "City A"
+            ]
+        },
+        {
+            "locale": "hi",
+            "cities": [
+                "शहर अ"
+            ]
+        }
+    ]
+}

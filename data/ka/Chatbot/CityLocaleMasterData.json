@@ -1,0 +1,16 @@
+{
+    "tenantId": "ka",
+    "moduleName": "Chatbot",
+    "CityLocaleMasterData": [
+        {
+            "cityName": "City A",
+            "locale": "in_en",
+            "tenantId": "ka.phc1"
+        },
+        {
+            "cityName": "शहर अ",
+            "locale": "in_hi",
+            "tenantId": "ka.phc1"
+        }
+    ]
+}

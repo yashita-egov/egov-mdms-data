@@ -1,0 +1,17 @@
+{
+    "tenantId": "ka",
+    "moduleName": "FSM",
+    "FSTPPlantInfo": [
+        {
+            "PlantCode": "CTA001",
+            "PlantName": "CityA FSTP",
+            "active": true,
+            "PlantType": "FSTP",
+            "PlantLocation": "CityA",
+            "PlusCode": "JQ2R+7G Khapar Kheri, Punjab",
+            "PlantOperationalTimings": "10.00am-08.00pm",
+            "PlantOperationalCapacityKLD": "50",
+            "ULBS": "ka.phc1"
+        }
+    ]
+}
