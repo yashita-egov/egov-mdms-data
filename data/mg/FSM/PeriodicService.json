@@ -1,0 +1,10 @@
+{
+    "tenantId": "mg.phc2",
+    "moduleName": "FSM",
+    "PeriodicService":[
+	{
+	   "timeLimit" : 7200000,
+	   "isSchedularConfiguration":true
+	}
+	]
+	}

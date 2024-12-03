@@ -1,0 +1,9 @@
+{
+    "tenantId": "mg.phc2",
+    "moduleName": "FSM",
+    "zeroPricing": [
+        {
+            "zeroPricingStatus": true
+        }
+    ]
+}
