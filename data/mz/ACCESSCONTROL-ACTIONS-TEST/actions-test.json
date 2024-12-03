@@ -15368,6 +15368,17 @@
       "navigationURL": "/microplan-ui/employee/microplan/my-microplans",
       "path": "1ACTION_TEST_MY_MICROPLAN",
       "leftIcon": "Announcement"
+    },
+    {
+      "id": 1959,
+      "name": "project factory data update",
+      "url": "/project-factory/v1/data/_update",
+      "displayName": "project factory data update",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "mdms",
+      "code": "null",
+      "path": ""
     }
   ]
 }
