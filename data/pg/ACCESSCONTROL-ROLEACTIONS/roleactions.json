@@ -6630,12 +6630,6 @@
       "actionid": 280,
       "actioncode": "",
       "tenantId": "pg"
-    },
-    {
-      "rolecode": "FSM_REPORT_VIEWER",
-      "actionid": 499,
-      "actioncode": "",
-      "tenantId": "pg"
     }
   ]
 }
