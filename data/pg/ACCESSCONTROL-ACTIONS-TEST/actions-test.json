@@ -6008,6 +6008,17 @@
         "serviceCode": "GARIMAREPORT_METADATA",
         "code": "null",
         "path": "Garima Report"
-     }
+     },
+    {
+      "id": 499,
+      "name": "FSM-FSMDailyDesludingReport-Metadata",
+      "url": "/report/fsm/FSMDailyDesludingReport/metadata/_get",
+      "displayName": "FSM Metadata Report",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "FSMDAILYDESLUDINGREPORTMETA",
+      "code": "null",
+      "path": "FSM Report"
+    }
   ]
 }
