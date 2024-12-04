@@ -1,7 +1,7 @@
 {
     "tenantId": "pg.citya",
     "moduleName": "FSM",
-    "urcConfig": [
+    "UrcConfig": [
         {
             "URCEnable": true,
             "villageHierarchyAvailable": true
