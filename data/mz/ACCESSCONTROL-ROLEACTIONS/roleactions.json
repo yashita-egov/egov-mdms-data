@@ -20215,6 +20215,96 @@
       "actionid": 1895,
       "actioncode": "",
       "tenantId": "mz"
+    },
+    {
+      "rolecode": "MICROPLAN_ADMIN",
+      "actionid": 1667,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "MICROPLAN_ADMIN",
+      "actionid": 1668,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "MICROPLAN_ADMIN",
+      "actionid": 1669,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "MICROPLAN_ADMIN",
+      "actionid": 1670,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "MICROPLAN_ADMIN",
+      "actionid": 1672,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "MICROPLAN_ADMIN",
+      "actionid": 1763,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "MICROPLAN_ADMIN",
+      "actionid": 1764,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "MICROPLAN_ADMIN",
+      "actionid": 1765,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "MICROPLAN_ADMIN",
+      "actionid": 1766,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "MICROPLAN_ADMIN",
+      "actionid": 1767,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "MICROPLAN_ADMIN",
+      "actionid": 1768,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "MICROPLAN_ADMIN",
+      "actionid": 1771,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "MICROPLAN_ADMIN",
+      "actionid": 1774,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "MICROPLAN_ADMIN",
+      "actionid": 1528,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "MICROPLAN_ADMIN",
+      "actionid": 1775,
+      "actioncode": "",
+      "tenantId": "mz"
     }
   ]
 }
