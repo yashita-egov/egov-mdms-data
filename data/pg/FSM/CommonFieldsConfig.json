@@ -81,7 +81,7 @@
               "submitBarLabel": "CS_COMMON_NEXT"
             },
             "key": "address",
-          "nextStep": "select-trip-number",
+          "nextStep": "street",
           "isMandatory": true,
           "type": "component"
         },
