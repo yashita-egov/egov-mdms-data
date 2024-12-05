@@ -1,16 +1,16 @@
 {
-    "tenantId": "mg.phc2",
+    "tenantId": "mg.phc_a",
     "moduleName": "BillingService",
     "GLCode": [
         {
             "code": "BIRTH_CERT",
             "glcode": null,
-            "cb": "mg.phc2"
+            "cb": "mg.phc_a"
         },
         {
             "code": "DEATH_CERT",
             "glcode": null,
-            "cb": "mg.phc2"
+            "cb": "mg.phc_a"
         }
     ]
 }

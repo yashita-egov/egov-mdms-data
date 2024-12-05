@@ -1,9 +1,9 @@
 {
-    "tenantId": "mg.phc2",
+    "tenantId": "mg.phc_a",
     "moduleName": "TradeLicense",
     "ReminderPeriods": [
       {
-        "tenantId": "mg.phc2",
+        "tenantId": "mg.phc_a",
         "reminderInterval": 12345
       }
     ]

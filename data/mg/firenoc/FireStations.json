@@ -4,7 +4,7 @@
   "FireStations": [
     {
       "code": "FS_CITYA_01",
-      "baseTenantId": "mg.phc2",
+      "baseTenantId": "mg.phc_a",
       "active": true
     }
   ]

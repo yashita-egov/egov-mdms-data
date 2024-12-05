@@ -3,7 +3,7 @@
   "moduleName": "tenant",
   "tenantInfo": [
     {
-      "code": "mg.phc2",
+      "code": "mg.phc_a",
       "districtCode": "CITYA",
       "population": "156716",
       "malePopulation": "82045",
