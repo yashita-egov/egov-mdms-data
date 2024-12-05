@@ -81,10 +81,10 @@
               "submitBarLabel": "CS_COMMON_NEXT"
             },
             "key": "address",
-            "nextStep": "check-slum",
-            "isMandatory": true,
-            "type": "component"
-          },
+          "nextStep": "select-trip-number",
+          "isMandatory": true,
+          "type": "component"
+        },
           {
             "type": "component",
             "route": "check-slum",
