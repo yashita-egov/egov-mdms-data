@@ -6630,6 +6630,12 @@
       "actionid": 280,
       "actioncode": "",
       "tenantId": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 296,
+      "actioncode": "",
+      "tenantId": "pg"
     }
   ]
 }
