@@ -5,12 +5,12 @@
         {
             "cityName": "City A",
             "locale": "in_en",
-            "tenantId": "ka.phc1"
+            "tenantId": "ka.phc_a"
         },
         {
             "cityName": "शहर अ",
             "locale": "in_hi",
-            "tenantId": "ka.phc1"
+            "tenantId": "ka.phc_a"
         }
     ]
 }
