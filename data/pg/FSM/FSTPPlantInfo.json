@@ -3,11 +3,11 @@
     "moduleName": "FSM",
     "FSTPPlantInfo": [
         {
-            "PlantCode": "AMR001",
-            "PlantName": "Amritsar FSTP",
+            "PlantCode": "CTA001",
+            "PlantName": "CityA FSTP",
             "active": true,
             "PlantType":"FSTP",
-            "PlantLocation":"Amritsar",
+            "PlantLocation":"CityA",
             "latitude":"12.9292015" ,
             "longitude":"77.6212001",
             "PlusCode":"JQ2R+7G Khapar Kheri, Punjab",
@@ -16,11 +16,11 @@
             "ULBS":"pg.citya"
         },
         {
-            "PlantCode": "MOH002",
-            "PlantName": "Mohali SeTPP",
+            "PlantCode": "CTB001",
+            "PlantName": "CityB SeTPP",
             "active": true,
             "PlantType":"SeTP",
-            "PlantLocation":"Mohali",
+            "PlantLocation":"CityB",
             "latitude":"12.9292015" ,
             "longitude":"77.6212001",
             "PlusCode":"MPFQ+V2 Sahibzada Ajit Singh Nagar, Punjab",
