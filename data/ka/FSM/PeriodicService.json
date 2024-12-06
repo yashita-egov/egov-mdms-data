@@ -1,5 +1,5 @@
 {
-    "tenantId": "ka.phc_a",
+    "tenantId": "ka.phcA",
     "moduleName": "FSM",
     "PeriodicService":[
 	{

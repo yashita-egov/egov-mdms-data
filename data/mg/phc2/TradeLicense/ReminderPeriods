@@ -3,7 +3,7 @@
     "moduleName": "TradeLicense",
     "ReminderPeriods": [
       {
-        "tenantId": "mg.phc_a",
+        "tenantId": "mg.phcA",
         "reminderInterval": 691200000
       }
     ]

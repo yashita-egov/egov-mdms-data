@@ -3,7 +3,7 @@
   "moduleName": "tenant",
   "footer": [
     {
-      "code": "mg.phc_a",
+      "code": "mg.phcA",
       "service": "PT",
       "receiptFooterContent": [
         {
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "code": "mg.phc_a",
+      "code": "mg.phcA",
       "service": "PT.MUTATION",
       "receiptFooterContent": [
         {
@@ -111,7 +111,7 @@
       ]
     },
     {
-      "code": "mg.phc_a",
+      "code": "mg.phcA",
       "service": "TL",
       "receiptFooterContent": [
         {
@@ -159,7 +159,7 @@
       ]
     },
     {
-      "code": "mg.phc_a",
+      "code": "mg.phcA",
       "service": "FIRENOC",
       "receiptFooterContent": [
         {
@@ -203,7 +203,7 @@
       ]
     },
     {
-      "code": "mg.phc_a",
+      "code": "mg.phcA",
       "service": "BPA.NC_OC_APP_FEE",
       "receiptFooterContent": [
         {
@@ -251,7 +251,7 @@
       ]
     },
     {
-      "code": "mg.phc_a",
+      "code": "mg.phcA",
       "service": "BPA.NC_OC_SAN_FEE",
       "receiptFooterContent": [
         {
@@ -299,7 +299,7 @@
       ]
     },
     {
-      "code": "mg.phc_a",
+      "code": "mg.phcA",
       "service": "BPA.LOW_RISK_PERMIT_FEE",
       "receiptFooterContent": [
         {
@@ -347,7 +347,7 @@
       ]
     },
     {
-      "code": "mg.phc_a",
+      "code": "mg.phcA",
       "service": "BPA.NC_APP_FEE",
       "receiptFooterContent": [
         {
@@ -395,7 +395,7 @@
       ]
     },
     {
-      "code": "mg.phc_a",
+      "code": "mg.phcA",
       "service": "BPA.NC_SAN_FEE",
       "receiptFooterContent": [
         {
@@ -443,7 +443,7 @@
       ]
     },
     {
-      "code": "mg.phc_a",
+      "code": "mg.phcA",
       "service": "BPAREG",
       "receiptFooterContent": [
         {
@@ -539,7 +539,7 @@
       ]
     },
     {
-      "code": "mg.phc_a",
+      "code": "mg.phcA",
       "service": "ADVT.Hoardings",
       "receiptFooterContent": [
         {
@@ -575,7 +575,7 @@
       ]
     },
     {
-      "code": "mg.phc_a",
+      "code": "mg.phcA",
       "service": "ADVT.Unipolls",
       "receiptFooterContent": [
         {
@@ -611,7 +611,7 @@
       ]
     },
     {
-      "code": "mg.phc_a",
+      "code": "mg.phcA",
       "service": "ADVT.Gas_Balloon_Advertisement",
       "receiptFooterContent": [
         {
@@ -647,7 +647,7 @@
       ]
     },
     {
-      "code": "mg.phc_a",
+      "code": "mg.phcA",
       "service": "ADVT.Wall_Paint_Advertisement",
       "receiptFooterContent": [
         {
@@ -683,7 +683,7 @@
       ]
     },
     {
-      "code": "mg.phc_a",
+      "code": "mg.phcA",
       "service": "ADVT.Light_Wala_Board",
       "receiptFooterContent": [
         {
@@ -719,7 +719,7 @@
       ]
     },
     {
-      "code": "mg.phc_a",
+      "code": "mg.phcA",
       "service": "TX.No_Dues_Certificate",
       "receiptFooterContent": [
         {
@@ -755,7 +755,7 @@
       ]
     },
     {
-      "code": "mg.phc_a",
+      "code": "mg.phcA",
       "service": "FSM.TRIP_CHARGES",
       "receiptFooterContent": [
         {

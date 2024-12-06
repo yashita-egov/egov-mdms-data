@@ -1,5 +1,5 @@
 {
-  "tenantId": "mg.phc_a",
+  "tenantId": "mg.phcA",
   "moduleName": "firenoc",
   "FireNocULBConstats": [    {
       "code": "MINIMUM_PROVISIONAL",

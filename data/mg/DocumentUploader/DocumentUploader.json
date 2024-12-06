@@ -3,7 +3,7 @@
     "moduleName": "DocumentUploader",
     "UlbLevelCategories": [
       {
-        "ulb": "mg.phc_a",
+        "ulb": "mg.phcA",
         "categoryList": ["CATEGORY_CITIZEN_CHARTER","CATEGORY_FORMS","CATEGORY_TENDERS","CATEGORY_CIRCULARS","CATEGORY_GOVERNMENT_ORDERS"]
       }
     ]

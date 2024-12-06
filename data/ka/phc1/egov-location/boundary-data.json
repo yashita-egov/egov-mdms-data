@@ -1,5 +1,5 @@
 {
-  "tenantId": "ka.phc_a",
+  "tenantId": "ka.phcA",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -16,7 +16,7 @@
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "ka.phc_a",
+        "code": "ka.phcA",
         "children": [
           {
             "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
@@ -14380,7 +14380,7 @@
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "ka.phc_a",
+        "code": "ka.phcA",
         "children": [
           {
             "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
