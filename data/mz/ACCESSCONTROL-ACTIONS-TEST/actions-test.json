@@ -15081,6 +15081,28 @@
       "serviceCode": "project-factory",
       "code": "null",
       "path": "/project-factory/v1/project-type/fetch-from-microplan"
+    },
+     {
+      "id": 2023,
+      "name": "create data for schema",
+      "url": "/mdms-v2/v2/_create/HCM.REGISTRATION_DELIVERY_CONFIGS",
+      "displayName": "schema create data API",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "mdms",
+      "code": "null",
+      "path": ""
+    },
+     {
+      "id": 2024,
+      "name": "update data for schema",
+      "url": "/mdms-v2/v2/_update/HCM.REGISTRATION_DELIVERY_CONFIGS",
+      "displayName": "schema update data API",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "mdms",
+      "code": "null",
+      "path": ""
     }
   ]
 }
