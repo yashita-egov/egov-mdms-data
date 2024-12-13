@@ -14233,7 +14233,7 @@
       "code": "null",
       "navigationURL": "/microplan-ui/employee",
       "path": "Home",
-      "leftIcon": "action:home"
+      "leftIcon": "Home"
     },
     {
       "id": 1805,
@@ -15027,7 +15027,7 @@
       "code": "null",
       "navigationURL": "/microplan-ui/employee/microplan/setup-microplan",
       "path": "1ACTION_TEST_SETUP_MICROPLAN",
-      "leftIcon": "Announcement"
+      "leftIcon": "SetUpMicroplanSvg"
     },
     {
       "id": 2019,
@@ -15041,7 +15041,7 @@
       "code": "null",
       "navigationURL": "/microplan-ui/employee/microplan/microplan-search",
       "path": "2ACTION_TEST_OPEN_MICROPLAN",
-      "leftIcon": "Announcement"
+      "leftIcon": "OpenMicroplanSvg"
     },
     {
       "id": 2020,
@@ -15055,7 +15055,7 @@
       "code": "null",
       "navigationURL": "/microplan-ui/employee/microplan/user-management",
       "path": "3ACTION_TEST_USER_MANAGEMENT",
-      "leftIcon": "Population"
+      "leftIcon": "UserManagementSvg"
     },
     {
       "id": 2021,
@@ -15069,7 +15069,7 @@
       "code": "null",
       "navigationURL": "/microplan-ui/employee/microplan/my-microplans",
       "path": "1ACTION_TEST_MY_MICROPLAN",
-      "leftIcon": "Announcement"
+      "leftIcon": "MyMicroplanSvg"
     },
     {
       "id": 2022,
