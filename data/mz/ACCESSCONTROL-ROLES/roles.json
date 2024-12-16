@@ -131,46 +131,56 @@
       "code": "MICROPLAN_VIEWER",
       "name": "Microplan viewer",
       "description": "Microplan viewer"
-  },
-  {
-    "code": "ROOT_FACILITY_CATCHMENT_MAPPER",
-    "name": "Root facility catchment mapper",
-    "description": "Root facility catchment mapper"
-  },
-  {
-    "code": "FACILITY_CATCHMENT_MAPPER",
-    "name": "facility catchment mapper",
-    "description": "facility catchment mapper"
-  },
-  {
-    "code": "ROOT_POPULATION_DATA_APPROVER",
-    "name": "Root population data approver",
-    "description": "Root population data approver"
-  },
-  {
+    },
+    {
+      "code": "ROOT_FACILITY_CATCHMENT_MAPPER",
+      "name": "Root facility catchment mapper",
+      "description": "Root facility catchment mapper"
+    },
+    {
+      "code": "FACILITY_CATCHMENT_MAPPER",
+      "name": "facility catchment mapper",
+      "description": "facility catchment mapper"
+    },
+    {
+      "code": "ROOT_POPULATION_DATA_APPROVER",
+      "name": "Root population data approver",
+      "description": "Root population data approver"
+    },
+    {
       "code": "POPULATION_DATA_APPROVER",
       "name": "Population data approver",
       "description": "Population data approver"
-  },
-  {
-    "code": "ROOT_PLAN_ESTIMATION_APPROVER",
-    "name": "Root plan estimation approver",
-    "description": "Root plan estimation approver"
-  },
-  {
-    "code": "PLAN_ESTIMATION_APPROVER",
-    "name": "plan estimation approver",
-    "description": "plan estimation approver"
-  },
-  {
-    "code": "BOUNDARY_MANAGER",
-    "name": "Boundary Manager",
-    "description": "Boundary Manager"
-  },
-   {
-    "code": "MICROPLAN_CAMPAIGN_INTEGRATOR",
-    "name": "Microplan Campaign integrator",
-    "description": "Microplan and Campaign integrated user"
-  }
+    },
+    {
+      "code": "ROOT_PLAN_ESTIMATION_APPROVER",
+      "name": "Root plan estimation approver",
+      "description": "Root plan estimation approver"
+    },
+    {
+      "code": "PLAN_ESTIMATION_APPROVER",
+      "name": "plan estimation approver",
+      "description": "plan estimation approver"
+    },
+    {
+      "code": "BOUNDARY_MANAGER",
+      "name": "Boundary Manager",
+      "description": "Boundary Manager"
+    },
+    {
+      "code": "MICROPLAN_CAMPAIGN_INTEGRATOR",
+      "name": "Microplan Campaign integrator",
+      "description": "Microplan and Campaign integrated user"
+    },
+    {
+      "code": "PROXIMITY_SUPERVISOR",
+      "name": "Proximity Supervisor",
+      "description": "Proximity Supervisor- Attendance Reviewer"
+    },
+    {
+      "code": "CAMPAIGN_SUPERVISOR",
+      "name": "Campaign Supervisor",
+      "description": "Campaign Supervisor- Bill Generator"
+    }
   ]
 }

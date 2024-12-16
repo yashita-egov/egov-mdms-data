@@ -20317,6 +20317,198 @@
       "actionid": 1776,
       "actioncode": "",
       "tenantId": "mz"
-    }
+    },
+   {
+    "rolecode": "PROXIMITY_SUPERVISOR",
+    "actionid": 1696,
+    "actioncode": "",
+    "tenantId": "mz"
+  },
+  {
+    "rolecode": "PROXIMITY_SUPERVISOR",
+    "actionid": 1697,
+    "actioncode": "",
+    "tenantId": "mz"
+  },
+  {
+    "rolecode": "PROXIMITY_SUPERVISOR",
+    "actionid": 1698,
+    "actioncode": "",
+    "tenantId": "mz"
+  },
+  {
+    "rolecode": "PROXIMITY_SUPERVISOR",
+    "actionid": 1699,
+    "actioncode": "",
+    "tenantId": "mz"
+  },
+  {
+    "rolecode": "PROXIMITY_SUPERVISOR",
+    "actionid": 1700,
+    "actioncode": "",
+    "tenantId": "mz"
+  },
+  {
+    "rolecode": "PROXIMITY_SUPERVISOR",
+    "actionid": 1701,
+    "actioncode": "",
+    "tenantId": "mz"
+  },
+  {
+    "rolecode": "PROXIMITY_SUPERVISOR",
+    "actionid": 1702,
+    "actioncode": "",
+    "tenantId": "mz"
+  },
+  {
+    "rolecode": "PROXIMITY_SUPERVISOR",
+    "actionid": 1703,
+    "actioncode": "",
+    "tenantId": "mz"
+  },
+  {
+    "rolecode": "PROXIMITY_SUPERVISOR",
+    "actionid": 1704,
+    "actioncode": "",
+    "tenantId": "mz"
+  },
+  {
+    "rolecode": "PROXIMITY_SUPERVISOR",
+    "actionid": 1705,
+    "actioncode": "",
+    "tenantId": "mz"
+  },
+  {
+    "rolecode": "PROXIMITY_SUPERVISOR",
+    "actionid": 1708,
+    "actioncode": "",
+    "tenantId": "mz"
+  },
+  {
+    "rolecode": "PROXIMITY_SUPERVISOR",
+    "actionid": 1729,
+    "actioncode": "",
+    "tenantId": "mz"
+  },
+  {
+    "rolecode": "PROXIMITY_SUPERVISOR",
+    "actionid": 604,
+    "actioncode": "",
+    "tenantId": "mz"
+  },
+  {
+    "rolecode": "PROXIMITY_SUPERVISOR",
+    "actionid": 1748,
+    "actioncode": "",
+    "tenantId": "mz"
+  },
+  {
+    "rolecode": "PROXIMITY_SUPERVISOR",
+    "actionid": 1753,
+    "actioncode": "",
+    "tenantId": "mz"
+  },
+  {
+    "rolecode": "PROXIMITY_SUPERVISOR",
+    "actionid": 1754,
+    "actioncode": "",
+    "tenantId": "mz"
+  },
+     {
+    "rolecode": "CAMPAIGN_SUPERVISOR",
+    "actionid": 1696,
+    "actioncode": "",
+    "tenantId": "mz"
+  },
+  {
+    "rolecode": "CAMPAIGN_SUPERVISOR",
+    "actionid": 1697,
+    "actioncode": "",
+    "tenantId": "mz"
+  },
+  {
+    "rolecode": "CAMPAIGN_SUPERVISOR",
+    "actionid": 1698,
+    "actioncode": "",
+    "tenantId": "mz"
+  },
+  {
+    "rolecode": "CAMPAIGN_SUPERVISOR",
+    "actionid": 1699,
+    "actioncode": "",
+    "tenantId": "mz"
+  },
+  {
+    "rolecode": "CAMPAIGN_SUPERVISOR",
+    "actionid": 1700,
+    "actioncode": "",
+    "tenantId": "mz"
+  },
+  {
+    "rolecode": "CAMPAIGN_SUPERVISOR",
+    "actionid": 1701,
+    "actioncode": "",
+    "tenantId": "mz"
+  },
+  {
+    "rolecode": "CAMPAIGN_SUPERVISOR",
+    "actionid": 1702,
+    "actioncode": "",
+    "tenantId": "mz"
+  },
+  {
+    "rolecode": "CAMPAIGN_SUPERVISOR",
+    "actionid": 1703,
+    "actioncode": "",
+    "tenantId": "mz"
+  },
+  {
+    "rolecode": "CAMPAIGN_SUPERVISOR",
+    "actionid": 1704,
+    "actioncode": "",
+    "tenantId": "mz"
+  },
+  {
+    "rolecode": "CAMPAIGN_SUPERVISOR",
+    "actionid": 1705,
+    "actioncode": "",
+    "tenantId": "mz"
+  },
+  {
+    "rolecode": "CAMPAIGN_SUPERVISOR",
+    "actionid": 1708,
+    "actioncode": "",
+    "tenantId": "mz"
+  },
+  {
+    "rolecode": "CAMPAIGN_SUPERVISOR",
+    "actionid": 1729,
+    "actioncode": "",
+    "tenantId": "mz"
+  },
+  {
+    "rolecode": "CAMPAIGN_SUPERVISOR",
+    "actionid": 604,
+    "actioncode": "",
+    "tenantId": "mz"
+  },
+  {
+    "rolecode": "CAMPAIGN_SUPERVISOR",
+    "actionid": 1748,
+    "actioncode": "",
+    "tenantId": "mz"
+  },
+  {
+    "rolecode": "CAMPAIGN_SUPERVISOR",
+    "actionid": 1753,
+    "actioncode": "",
+    "tenantId": "mz"
+  },
+  {
+    "rolecode": "CAMPAIGN_SUPERVISOR",
+    "actionid": 1754,
+    "actioncode": "",
+    "tenantId": "mz"
+  }
   ]
 }
