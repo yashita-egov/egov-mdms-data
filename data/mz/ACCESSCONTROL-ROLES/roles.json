@@ -181,6 +181,11 @@
       "code": "CAMPAIGN_SUPERVISOR",
       "name": "Campaign Supervisor",
       "description": "Campaign Supervisor- Bill Generator"
+    },
+    {
+      "code": "COMMUNITY_CREATOR",
+      "name": "Community Creator",
+      "description": "Community household type Creator"
     }
   ]
 }
