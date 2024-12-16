@@ -1,0 +1,11 @@
+{
+  "tenantId": "mz",
+  "moduleName": "commonUiConfig",
+  "UserProfileValidationConfig": [
+    {
+      "name": "^[a-zA-Z0-9 ]+$",
+      "mobileNumber": "^[0-9]{1}[0-9]{9}$",
+      "password": "/^([a-zA-Z0-9@#$%]{8,15})$/i"
+    }
+  ]
+}
