@@ -20527,6 +20527,12 @@
     "actionid": 2026,
     "actioncode": "",
     "tenantId": "mz"
+  },
+   {
+    "rolecode": "COMMUNITY_CREATOR",
+    "actionid": 2027,
+    "actioncode": "",
+    "tenantId": "mz"
   }
   ]
 }
