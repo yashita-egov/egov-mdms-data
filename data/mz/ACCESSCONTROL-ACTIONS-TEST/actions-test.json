@@ -15126,6 +15126,18 @@
       "serviceCode": "null",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 2027,
+      "name": "downsync for CLF memberData",
+      "url": "/referralmanagement/beneficiary-downsync/v1/_get/CLF/memberData",
+      "displayName": "downsync for CLF memberData",
+      "orderNumber": 1,
+      "parentModule": "cards",
+      "enabled": true,
+      "serviceCode": "null",
+      "code": "null",
+      "path": ""
     }
   ]
 }
