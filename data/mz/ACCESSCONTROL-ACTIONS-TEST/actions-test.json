@@ -15103,6 +15103,17 @@
       "serviceCode": "mdms",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 2025,
+      "name": "downsync for CLF household",
+      "url": "/referralmanagement/beneficiary-downsync/v1/_get/CLF/household",
+      "displayName": "downsync for CLF household",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "referral management",
+      "code": "null",
+      "path": ""
     }
   ]
 }
