@@ -3,30 +3,6 @@
   "moduleName": "tenant",
   "citymodule": [
     {
-      "module": "FSM",
-      "code": "FSM",
-      "bannerImage": "https://egov-qa-assets.s3.amazonaws.com/FSM.png",
-      "active": true,
-      "order": 2,
-      "tenants": [
-        {
-          "code": "pb.jalandhar"
-        },
-        {
-          "code": "pb.amritsar"
-        },
-        {
-          "code": "pb.nawanshahr"
-        },
-        {
-          "code": "pb.phagwara"
-        },
-        {
-          "code": "pb.derabassi"
-        }
-      ]
-    },
-    {
       "module": "PGR",
       "code": "PGR",
       "bannerImage": "https://egov-qa-assets.s3.amazonaws.com/PGR.png",
@@ -500,74 +476,6 @@
           "code": "pb.amritsar"
         }
         ]
-    },
-    {
-      "module": "Tqm",
-      "code": "Tqm",
-      "active": true,
-      "order": 14,
-      "tenants": [
-         {
-        "code": "pb.jalandhar"
-      },
-      {
-        "code": "pb.nawanshahr"
-      },
-      {
-        "code": "pb.amritsar"
-      }
-      ]
-    },
-      {
-           "module": "Utilities",
-           "code": "Utilities",
-           "active": true,
-           "order": 11,
-           "tenants": [
-              {
-      			  "code": "pb.jalandhar"
-   				   },
-   				   {
-  			     "code": "pb.nawanshahr"
-  				   },
-						{
-							"code": "pb.amritsar"
-						}
-           ]
-    },
-    {
-      "module": "Project",
-      "code": "Project",
-      "active": true,
-      "order": 8,
-      "tenants": [
-        {
-          "code": "pb.cityb"
-        },
-        {
-          "code": "pb.cityc"
-        },
-        {
-          "code": "pb.citya"
-        }
-      ]
-    },
-    {
-      "module": "Sample",
-      "code": "Sample",
-      "active": true,
-      "order": 12,
-      "tenants": [
-        {
-          "code": "pb.cityb"
-        },
-        {
-          "code": "pb.cityc"
-        },
-        {
-          "code": "pb.citya"
-        }
-      ]
     }
   ]
 }

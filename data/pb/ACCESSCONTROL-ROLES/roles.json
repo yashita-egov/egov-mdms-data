@@ -695,23 +695,13 @@
     },
     {
       "code": "MDMS_ADMIN",
-      "name": "MDMS Admin",
-      "description": "Mdms admin"
+      "name": "MDMS ADMIN",
+      "description": "MDMS User that can create and search schema"
     },
     {
       "code": "LOC_ADMIN",
       "name": "Localisation admin",
       "description": "LOC_ADMIN"
-    },
-    {
-      "code": "PQM_ADMIN",
-      "name": "PQM Admin",
-      "description": "Pqm Admin"
-    },
-    {
-      "code": "PQM_TP_OPERATOR",
-      "name": "PQM TP OPERATOR",
-      "description": "Pqm tp Operator"
     }
   ]
 }

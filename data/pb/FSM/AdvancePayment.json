@@ -6,7 +6,7 @@
       "name": "FixedValue",
       "code": "FIXEDVALUE",
       "active": true,
-      "advanceAmount":"0"
+      "advanceAmount":"100"
     },
 	  {
       "name": "PercentageValue",
