@@ -18,13 +18,13 @@
             "active": true
         },
         {
-            "code": "ADMINISTERED_SUCCESS",
-            "name": "Administred Success",
+            "code": "ADMINISTRATION_SUCCESS",
+            "name": "Administration Success",
             "active": true
         },
         {
-            "code": "ADMINISTERED_FAILED",
-            "name": "Administred Failed",
+            "code": "ADMINISTERATION_FAILED",
+            "name": "Administration Failed",
             "active": true
         },
         {
