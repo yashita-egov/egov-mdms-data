@@ -3,12 +3,12 @@
     "moduleName": "HCM",
     "SEARCH_CLF_FILTERS": [
         {
-            "code": "ADMINISTERATION_SUCCESS",
+            "code": "ADMINISTRATION_SUCCESS",
             "name": "Administration Success",
             "active": true
         },
         {
-            "code": "ADMINISTERATION_FAILED",
+            "code": "ADMINISTRATION_FAILED",
             "name": "Administration Failed",
             "active": true
         },

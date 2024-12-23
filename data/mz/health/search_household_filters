@@ -23,7 +23,7 @@
             "active": true
         },
         {
-            "code": "ADMINISTERATION_FAILED",
+            "code": "ADMINISTRATION_FAILED",
             "name": "Administration Failed",
             "active": true
         },
