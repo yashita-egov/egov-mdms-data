@@ -1,0 +1,21 @@
+{
+    "tenantId": "mz",
+    "moduleName": "HCM",
+    "SEARCH_CLF_FILTERS": [
+        {
+            "code": "ADMINISTERED_SUCCESS",
+            "name": "Administred Success",
+            "active": true
+        },
+        {
+            "code": "ADMINISTERED_FAILED",
+            "name": "Administred Failed",
+            "active": true
+        },
+        {
+            "code": "NOT_DELIVERED",
+            "name": "Not Delivered",
+            "active": true
+        }
+    ]
+}
