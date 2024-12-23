@@ -519,6 +519,11 @@
           "action": "search",
           "entityName": "Downsync",
           "path": "/referralmanagement/beneficiary-downsync/v1/_get"
+        },
+        {
+          "action": "search",
+          "entityName": "CLFDownsync",
+          "path": "/referralmanagement/beneficiary-downsync/v1/_get/CLF/household"
         }
       ]
     },
