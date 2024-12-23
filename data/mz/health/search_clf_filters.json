@@ -1,22 +1,7 @@
 {
     "tenantId": "mz",
     "moduleName": "HCM",
-    "SEARCH_HOUSEHOLD_FILTERS": [
-        {
-            "code": "REGISTERED",
-            "name": "Registered",
-            "active": true
-        },
-        {
-            "code": "NOT_REGISTERED",
-            "name": "Not Registered",
-            "active": true
-        },
-        {
-            "code": "CLOSED_HOUSEHOLD",
-            "name": "Closed Household",
-            "active": true
-        },
+    "SEARCH_CLF_FILTERS": [
         {
             "code": "ADMINISTRATION_SUCCESS",
             "name": "Administration Success",
