@@ -3,10 +3,6 @@
   "moduleName": "common-masters",
   "IdFormat": [
     {
-      "format": "PB-BTR-[cy:yyyy-MM-dd]-[SEQ_EG_BTR_ID]",
-      "idname": "btr.registrationid"
-    },
-    {
       "format": "ES/[fy:yyyy-yy]/[SEQ_ESTIMATE_NUM]",
       "idname": "estimate.number"
     },
@@ -37,10 +33,6 @@
     {
       "format": "WO/[fy:yyyy-yy]/[SEQ_CONTRACT_NUM]",
       "idname": "contract.number"
-    },
-    {
-      "format": "IND-[cy:yyyy-MM-dd]-[SEQ_ADDRESS_IND]",
-      "idname": "individual.id"
     },
     {
       "format": "ORG-[SEQ_ORG_NUM]",
@@ -126,10 +118,6 @@
     {
       "idname": "fsm.aplnumber",
       "format": "[CITY.CODE]-FSM-[cy:yyyy-MM-dd]-[SEQ_EGOV_FSM]"
-    },
-    {
-      "idname": "pqm.aplnumber",
-      "format": "[CITY.CODE]-PQM-[cy:yyyy-MM-dd]-[SEQ_EGOV_PQM]"
     },
     {
       "idname": "ifix.program.number",
