@@ -20414,6 +20414,48 @@
     "actioncode": "",
     "tenantId": "mz"
   },
+    {
+      "rolecode": "PROXIMITY_SUPERVISOR",
+      "actionid": 1960,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "PROXIMITY_SUPERVISOR",
+      "actionid": 1961,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "PROXIMITY_SUPERVISOR",
+      "actionid": 1962,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "PROXIMITY_SUPERVISOR",
+      "actionid": 1963,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "PROXIMITY_SUPERVISOR",
+      "actionid": 1967,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "PROXIMITY_SUPERVISOR",
+      "actionid": 1968,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "PROXIMITY_SUPERVISOR",
+      "actionid": 1969,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
      {
     "rolecode": "CAMPAIGN_SUPERVISOR",
     "actionid": 1696,
@@ -20510,6 +20552,66 @@
     "actioncode": "",
     "tenantId": "mz"
   },
+    {
+      "rolecode": "CAMPAIGN_SUPERVISOR",
+      "actionid": 1960,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "CAMPAIGN_SUPERVISOR",
+      "actionid": 1961,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "CAMPAIGN_SUPERVISOR",
+      "actionid": 1962,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "CAMPAIGN_SUPERVISOR",
+      "actionid": 1963,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "CAMPAIGN_SUPERVISOR",
+      "actionid": 1964,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "CAMPAIGN_SUPERVISOR",
+      "actionid": 1965,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "CAMPAIGN_SUPERVISOR",
+      "actionid": 1966,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "CAMPAIGN_SUPERVISOR",
+      "actionid": 1967,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "CAMPAIGN_SUPERVISOR",
+      "actionid": 1968,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "CAMPAIGN_SUPERVISOR",
+      "actionid": 1969,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
   {
     "rolecode": "COMMUNITY_CREATOR",
     "actionid": 1546,
