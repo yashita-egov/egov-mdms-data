@@ -81,6 +81,10 @@
     {
       "format": "USR-[SEQ_EG_USER_NAME]",
       "idname": "username.name"
-  }
+    },
+    {
+      "format": "MR/[fy:yyyy-yy]/[cy:MM]/[cy:dd]/[SEQ_MUSTER_NUM]",
+      "idname": "muster.number"
+    }
   ]
 }
