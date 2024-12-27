@@ -20695,6 +20695,24 @@
       "actionid": 1774,
       "actioncode": "",
       "tenantId": "mz"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 1747,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+   {
+      "rolecode": "DISTRICT_SUPERVISOR",
+      "actionid": 1747,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+   {
+      "rolecode": "PROXIMITY_SUPERVISOR",
+      "actionid": 1747,
+      "actioncode": "",
+      "tenantId": "mz"
     }
   ]
 }
