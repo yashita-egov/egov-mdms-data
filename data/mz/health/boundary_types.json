@@ -1,0 +1,36 @@
+{
+    "tenantId": "mz",
+    "moduleName": "HCM",
+    "BOUNDARYTYPES": [
+        {
+            "code": "COUNTRY",
+            "name": "NATIONAL",
+            "active": true
+        },
+        {
+            "code": "PROVINCE",
+            "name": "PROVINCE",
+            "active": true
+        },
+        {
+            "code": "DISTRICT",
+            "name": "DISTRICT",
+            "active": true
+        },
+        {
+            "code": "ADMINISTRATIVEPOST",
+            "name": "ADMINISTRATIVE_PROVINCE",
+            "active": true
+        },
+       {
+            "code": "LOCALITY",
+            "name": "LOCALITY",
+            "active": true
+        },
+       {
+            "code": "VILLAGE",
+            "name": "VILLAGE",
+            "active": true
+        }
+    ]
+}
