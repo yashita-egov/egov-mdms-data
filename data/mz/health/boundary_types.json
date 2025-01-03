@@ -19,7 +19,7 @@
         },
         {
             "code": "ADMINISTRATIVEPOST",
-            "name": "POST_ADMINISTRATIVE",
+            "name": "ADMINISTRATIVE_PROVINCE",
             "active": true
         },
        {
