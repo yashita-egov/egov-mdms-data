@@ -5,31 +5,37 @@
         {
             "code": "COUNTRY",
             "name": "NATIONAL",
+            "order": 1,
             "active": true
         },
         {
             "code": "PROVINCE",
             "name": "PROVINCE",
+            "order": 2,
             "active": true
         },
         {
             "code": "DISTRICT",
             "name": "DISTRICT",
+            "order": 3,
             "active": true
         },
         {
             "code": "ADMINISTRATIVEPOST",
             "name": "ADMINISTRATIVE_PROVINCE",
+            "order": 4,
             "active": true
         },
        {
             "code": "LOCALITY",
             "name": "LOCALITY",
+            "order": 5,
             "active": true
         },
        {
             "code": "VILLAGE",
             "name": "VILLAGE",
+            "order": 6,
             "active": true
         }
     ]
