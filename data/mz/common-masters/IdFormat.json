@@ -3,6 +3,10 @@
   "moduleName": "common-masters",
   "IdFormat": [
     {
+      "format": "WB-[cy:yyyy-MM-dd]-[SEQ_WAGE_NUM]",
+      "idname": "expense.wages.bill.number"
+    },
+    {
       "format": "PVAR-[cy:yyyy-MM-dd]-[SEQ_PRODUCT_PVAR]",
       "idname": "product.variant.id"
     },
