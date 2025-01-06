@@ -1,0 +1,16 @@
+{
+    "tenantId": "mz",
+    "moduleName": "HCM-PAYMENTS",
+    "APPROVAL-CONFIG": [
+        {
+            "code": "ANY_DAY",
+            "value": "any day",
+            "active": false
+        },
+        {
+            "code": "END_OF_CAMPAIGN",
+            "value": "end of campaign",
+            "active": true
+        }
+    ]
+}
