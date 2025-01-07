@@ -130,6 +130,10 @@
     {
       "idname": "works.report.number",
       "format": "REPORT-[SEQ_REPORT_NUM]"
+    },
+    {
+            "format": "TL/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+            "idname": "tl.receipt.id"
     }
   ]
 }
