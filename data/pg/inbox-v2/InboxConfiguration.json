@@ -426,7 +426,7 @@
     },
     {
       "module": "tl-services",
-      "index": "tl-application",
+      "index": "tl-inbox",
       "allowedSearchCriteria": [
           {
               "name": "tenantId",
