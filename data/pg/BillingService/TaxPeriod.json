@@ -1126,7 +1126,7 @@
       "fromDate": 1554076800000,
       "toDate": 1901145600000,
       "periodCycle": "ANNUAL",
-      "service": "BIRTH_CERT",
+      "service": "BIRTH_CERT.BIRTH_CERT",
       "code": "BIRTHCERT",
       "financialYear": "2019-30"
     },
