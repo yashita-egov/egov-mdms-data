@@ -1788,7 +1788,7 @@
     },
     {
       "businessService": "Birth Certificate Fees",
-      "code": "BIRTH_CERT",
+      "code": "BIRTH_CERT.BIRTH_CERT",
       "collectionModesNotAllowed": ["DD", "POSTAL_ORDER"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
