@@ -5789,9 +5789,9 @@
    },
    {
     "category": "CHARGES",
-    "service": "BIRTH_CERT.CHARGES",
-    "name": "BIRTH_CERT_FEE.CHARGES",
-    "code": "BIRTH_CERT_FEE.CHARGES",
+    "service": "BIRTH_CERT.BIRTH_CERT",
+    "name": "BIRTH_CERT.BIRTH_CERT_CHARGES",
+    "code": "BIRTH_CERT.BIRTH_CERT_CHARGES",
     "isDebit": false,
     "isActualDemand": false,
     "order": "0",
