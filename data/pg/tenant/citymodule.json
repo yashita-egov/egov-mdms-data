@@ -71,40 +71,6 @@
             ]
         },
         {
-            "module": "Engagement",
-            "code": "Engagement",
-            "active": true,
-            "order": 4,
-            "tenants": [
-                {
-                    "code": "pg.cityb"
-                },
-                {
-                    "code": "pg.cityc"
-                },
-                {
-                    "code": "pg.citya"
-                }
-            ]
-        },
-        {
-            "module": "HRMS",
-            "code": "HRMS",
-            "active": true,
-            "order": 2,
-            "tenants": [
-                {
-                    "code": "pg.cityb"
-                },
-                {
-                    "code": "pg.cityc"
-                },
-                {
-                    "code": "pg.citya"
-                }
-            ]
-        },
-        {
             "module": "Estimate",
             "code": "Estimate",
             "active": true,
@@ -172,23 +138,6 @@
                 }
             ]
         },
-        {
-           "module": "DSS",
-           "code": "DSS",
-           "active": true,
-           "order": 10,
-           "tenants": [
-               {
-                   "code": "pg.cityb"
-               },
-               {
-                   "code": "pg.cityc"
-               },
-               {
-                   "code": "pg.citya"
-               }
-           ]
-       },
         {
            "module": "Utilities",
            "code": "Utilities",
@@ -274,41 +223,6 @@
             }
         ]
       },
-      {
-       "module": "FSM",
-       "code": "FSM",
-       "bannerImage": "https://egov-qa-assets.s3.amazonaws.com/FSM.png",
-       "active": true,
-       "order": 2,
-       "tenants": [
-            {
-                "code": "pg.cityb"
-            },
-            {
-                "code": "pg.cityc"
-            },
-            {
-                "code": "pg.citya"
-            }
-      ]
-    },
-    {
-      "module": "Payment",
-      "code": "Payment",
-      "active": true,
-      "order": 1,
-      "tenants": [
-        {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.citya"
-        }
-      ]
-    },
     {
        "module": "Campaign",
        "code": "Campaign",
@@ -591,23 +505,6 @@
       "code": "NOC",
       "active": true,
       "order":2,
-      "tenants": [
-        {
-          "code": "pg.citya"
-        },
-        {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
-        }
-      ]
-    },
-    {
-      "module": "DSS",
-      "code": "DSS",
-      "active": true,
-      "order":6,
       "tenants": [
         {
           "code": "pg.citya"
