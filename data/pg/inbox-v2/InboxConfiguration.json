@@ -424,69 +424,72 @@
         "Data.locality"
       ]
     },
-    {
-      "module": "tl-services",
-      "index": "tl-inbox",
-      "allowedSearchCriteria": [
-          {
-              "name": "tenantId",
-              "path": "Data.tenantId.keyword",
-              "isMandatory": true,
-              "operator": "EQUAL"
-          },
-          {
-              "name": "status",
-              "path": "Data.currentProcessInstance.state.uuid.keyword",
-              "isMandatory": false
-          },
-          {
-              "name": "mobileNumber",
-              "path": "Data.mobileNumber.keyword",
-              "isMandatory": false
-          },
-          {
-              "name": "locality",
-              "path": "Data.locality.keyword",
-              "isMandatory": false
-          },
-          {
-              "name": "assignee",
-              "path": "Data.currentProcessInstance.assignes.uuid.keyword",
-              "isMandatory": false
-          },
-          {
-              "name": "applicationNos",
-              "path": "Data.applicationNo.keyword",
-              "isMandatory": false,
-              "operator": "WILDCARD"
-          },
-          {
-              "name": "fromDate",
-              "path": "Data.auditDetails.createdTime",
-              "isMandatory": false,
-              "operator": "GTE"
-          },
-          {
-              "name": "toDate",
-              "path": "Data.auditDetails.createdTime",
-              "isMandatory": false,
-              "operator": "LTE"
-          }
-      ],
-      "sortBy": {
-          "path": "Data.@timestamp",
-          "defaultOrder": "DESC"
-      },
-      "sourceFilterPathList": [
-          "Data.currentProcessInstance",
-          "Data.auditDetails",
-          "Data.additionalDetails",
-          "Data.tenantId",
-          "Data.applicationNo",
-          "Data.workflow",
-          "Data.locality"
-      ]
-  },
+      {
+            "module": "tl-services",
+            "index": "tl-inbox",
+            "allowedSearchCriteria": [
+                {
+                    "name": "tenantId",
+                    "path": "Data.tenantId.keyword",
+                    "isMandatory": true,
+                    "operator": "EQUAL"
+                },
+                {
+                    "name": "status",
+                    "path": "Data.status.keyword",
+                    "isMandatory": false
+                },
+                {
+                    "name": "applicationType",
+                    "path": "Data.applicationType.keyword",
+                    "isMandatory": false
+                },
+                {
+                    "name": "locality",
+                    "path": "Data.tradeLicenseDetail.address.locality.code.keyword",
+                    "isMandatory": false
+                },
+                {
+                    "name": "assignee",
+                    "path": "Data.currentProcessInstance.assignes.uuid.keyword",
+                    "isMandatory": false
+                },
+                {
+                    "name": "mobileNumber",
+                    "path": "Data.tradeLicenseDetail.tradeLicenseDetail.*.mobileNumber.keyword",
+                    "isMandatory": false
+                },
+                {
+                    "name": "applicationNumber",
+                    "path": "Data.applicationNumber.keyword",
+                    "isMandatory": false,
+                    "operator": "WILDCARD"
+                },
+                {
+                    "name": "fromDate",
+                    "path": "Data.auditDetails.createdTime",
+                    "isMandatory": false,
+                    "operator": "GTE"
+                },
+                {
+                    "name": "toDate",
+                    "path": "Data.auditDetails.createdTime",
+                    "isMandatory": false,
+                    "operator": "LTE"
+                }
+            ],
+            "sortBy": {
+                "path": "Data.@timestamp",
+                "defaultOrder": "DESC"
+            },
+            "sourceFilterPathList": [
+                "Data.currentProcessInstance",
+                "Data.auditDetails",
+                "Data.tradeLicenseDetail",
+                "Data.tenantId",
+                "Data.applicationNumber"
+            ]
+        },
     {
       "module": "pqm",
       "index": "pqm-application",
