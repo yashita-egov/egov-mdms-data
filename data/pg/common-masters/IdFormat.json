@@ -825,7 +825,7 @@
 	},
 	{
 	    "format": "BR/[CITY.CODE]/[cb.name]/[fy:yyyy]/[SEQ_EGOV_COMMON]",
-	    "idname": "birth_cert.receipt.id"
+	    "idname": "birth_cert.birth_cert.receipt.id"
 	},
 	{
 	    "format": "DT/[CITY.CODE]/[cb.name]/[fy:yyyy]/[SEQ_EGOV_COMMON]",
