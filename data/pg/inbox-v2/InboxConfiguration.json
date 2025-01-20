@@ -434,11 +434,11 @@
                     "isMandatory": false,
                     "operator": "EQUAL"
                 },
-                {
-                    "name": "status",
-                    "path": "Data.status.keyword",
-                    "isMandatory": false
-                },
+                 {
+          "name": "status",
+          "path": "Data.currentProcessInstance.state.uuid.keyword",
+          "isMandatory": false
+        },
                 {
                     "name": "applicationType",
                     "path": "Data.applicationType.keyword",
@@ -500,11 +500,11 @@
               "isMandatory": false,
               "operator": "EQUAL"
             },
-            {
-              "name": "status",
-              "path": "Data.status.keyword",
-              "isMandatory": false
-            },
+             {
+          "name": "status",
+          "path": "Data.currentProcessInstance.state.uuid.keyword",
+          "isMandatory": false
+        },
             {
               "name": "mobileNumber",
               "path": "Data.mobileNumber.keyword",
