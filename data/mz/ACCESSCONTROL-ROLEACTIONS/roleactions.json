@@ -20713,6 +20713,12 @@
       "actionid": 1747,
       "actioncode": "",
       "tenantId": "mz"
-    }
+    },
+   {
+      "rolecode": "MDMS_ADMIN",
+      "actionid": 2028,
+      "actioncode": "",
+      "tenantId": "mz"
+   }
   ]
 }
