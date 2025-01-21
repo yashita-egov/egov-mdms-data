@@ -533,6 +533,11 @@
               "operator": "WILDCARD"
             },
             {
+              "name": "creationReason",
+              "path": "Data.creationReason.keyword",
+              "isMandatory": false
+            },
+            {
               "name": "fromDate",
               "path": "Data.auditDetails.createdTime",
               "isMandatory": false,
