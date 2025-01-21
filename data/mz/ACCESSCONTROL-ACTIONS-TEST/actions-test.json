@@ -15258,6 +15258,18 @@
       "serviceCode": "null",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 2028,
+      "url": "/mdms-v2/v2/_update/HCM-ADMIN-CONSOLE.allAttributes",
+      "code": "Null",
+      "name": "MDMS Update",
+      "path": "/mdms-v2/v2/_update/HCM-ADMIN-CONSOLE.allAttributes",
+      "enabled": true,
+      "displayName": "MDMS Update",
+      "orderNumber": 0,
+      "serviceCode": "health-mdms-update",
+      "parentModule": "health-mdms-update"
     }
   ]
 }
