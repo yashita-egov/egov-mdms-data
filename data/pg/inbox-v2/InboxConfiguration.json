@@ -644,6 +644,74 @@
         "Data.auditDetails",
         "Data.currentProcessInstance"
       ]
+    },
+    {
+      "module": "bpa-services",
+      "index": "bpa-inbox",
+      "allowedSearchCriteria": [
+        {
+          "name": "tenantId",
+          "path": "Data.tenantId.keyword",
+          "isMandatory": false,
+          "operator": "EQUAL"
+        },
+         {
+      "name": "status",
+      "path": "Data.currentProcessInstance.state.uuid.keyword",
+      "isMandatory": false
+    },
+        {
+          "name": "mobileNumber",
+          "path": "Data.landInfo.owners.*.mobileNumber.keyword",
+          "isMandatory": false
+        },
+        {
+          "name": "locality",
+          "path": "Data.landInfo.address.locality.code.keyword",
+          "isMandatory": false
+        },
+        {
+          "name": "assignee",
+          "path": "Data.currentProcessInstance.assignes.uuid.keyword",
+          "isMandatory": false
+        },
+        {
+          "name": "applicationDate",
+          "path": "Data.applicationDate.keyword",
+          "isMandatory": false
+        },
+        {
+          "name": "applicationNo",
+          "path": "Data.applicationNo.keyword",
+          "isMandatory": false,
+          "operator": "WILDCARD"
+        },
+        {
+          "name": "fromDate",
+          "path": "Data.auditDetails.createdTime",
+          "isMandatory": false,
+          "operator": "GTE"
+        },
+        {
+          "name": "toDate",
+          "path": "Data.auditDetails.createdTime",
+          "isMandatory": false,
+          "operator": "LTE"
+        }
+      ],
+      "sortBy": {
+        "path": "Data.@timestamp",
+        "defaultOrder": "DESC"
+      },
+      "sourceFilterPathList": [
+        "Data.currentProcessInstance",
+        "Data.auditDetails",
+        "Data.additionalDetails",
+        "Data.tenantId",
+        "Data.applicationNo",
+        "Data.locality",
+        "Data.applicationDate"
+      ]
     }
   ]
 }
