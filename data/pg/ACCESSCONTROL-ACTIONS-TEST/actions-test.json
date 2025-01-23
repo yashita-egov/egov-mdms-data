@@ -18946,7 +18946,7 @@
     {
         "id": 5396,
         "name": "PT Payment search",
-        "url": "/collection-services/payments/BIRTH_CERT/_search",
+        "url": "/collection-services/payments/BIRTH_CERT.BIRTH_CERT/_search",
         "displayName": "PT Payment search",
         "orderNumber": 1,
         "parentModule": "",
