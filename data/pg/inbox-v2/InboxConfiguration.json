@@ -565,7 +565,7 @@
         "Data.propertyId",
         "Data.workflow",
         "Data.locality",
-        "Data.name"
+        "Data.owners"
       ]
     },
     {
