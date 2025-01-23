@@ -335,6 +335,40 @@
       "roleBasedDecryptionPolicy": []
     },
     {
+      "model": "BndDetail",
+      "uniqueIdentifier": {
+        "name": "id",
+        "jsonPath": "/id"
+      },
+      "attributes": [
+        {
+          "name": "mobileno",
+          "jsonPath": "mobileno",
+          "patternId": null,
+          "defaultVisibility": "PLAIN"
+        },
+	{
+          "name": "emailid",
+          "jsonPath": "emailid",
+          "patternId": null,
+          "defaultVisibility": "PLAIN"
+        },
+	{
+          "name": "aadharno",
+          "jsonPath": "aadharno",
+          "patternId": null,
+          "defaultVisibility": "PLAIN"
+        },
+	{
+          "name": "icdcode",
+          "jsonPath": "icdcode",
+          "patternId": null,
+          "defaultVisibility": "PLAIN"
+        }
+        ],
+	"roleBasedDecryptionPolicy": []
+    },
+    {
       "model": "IndividualSearchMobileNumberEncrypt",
       "uniqueIdentifier": {
         "name": "id",
@@ -1128,40 +1162,6 @@
         }
       ],
       "roleBasedDecryptionPolicy": []
-    },
-   {
-      "model": "BndDetail",
-      "uniqueIdentifier": {
-        "name": "id",
-        "jsonPath": "/id"
-      },
-      "attributes": [
-        {
-          "name": "mobileno",
-          "jsonPath": "mobileno",
-          "patternId": "002",
-          "defaultVisibility": "PLAIN"
-        },
-	{
-          "name": "emailid",
-          "jsonPath": "emailid",
-          "patternId": "002",
-          "defaultVisibility": "PLAIN"
-        },
-	{
-          "name": "aadharno",
-          "jsonPath": "aadharno",
-          "patternId": "002",
-          "defaultVisibility": "PLAIN"
-        },
-	{
-          "name": "icdcode",
-          "jsonPath": "icdcode",
-          "patternId": "002",
-          "defaultVisibility": "PLAIN"
-        }
-        ],
-	"roleBasedDecryptionPolicy": []
-      }
+    }
   ]
 }
