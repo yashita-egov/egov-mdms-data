@@ -1128,6 +1128,40 @@
         }
       ],
       "roleBasedDecryptionPolicy": []
-    }
+    },
+   {
+      "model": "BndDetail",
+      "uniqueIdentifier": {
+        "name": "id",
+        "jsonPath": "/id"
+      },
+      "attributes": [
+        {
+          "name": "mobileno",
+          "jsonPath": "mobileno",
+          "patternId": "002",
+          "defaultVisibility": "PLAIN"
+        },
+	{
+          "name": "emailid",
+          "jsonPath": "emailid",
+          "patternId": "002",
+          "defaultVisibility": "PLAIN"
+        },
+	{
+          "name": "aadharno",
+          "jsonPath": "aadharno",
+          "patternId": "002",
+          "defaultVisibility": "PLAIN"
+        },
+	{
+          "name": "icdcode",
+          "jsonPath": "icdcode",
+          "patternId": "002",
+          "defaultVisibility": "PLAIN"
+        }
+        ],
+	"roleBasedDecryptionPolicy": []
+      }
   ]
 }
