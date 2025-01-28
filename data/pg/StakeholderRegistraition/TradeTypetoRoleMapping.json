@@ -72,7 +72,7 @@
         "tradeType": "BUILDER.CLASSA",
         "role": ["BPA_BUILDER"],
         "endstate": "APPROVED",
-        "applicationFee": 0,
+        "applicationFee": 500,
         "docTypes": [
             {
                 "code": "APPL.BPAREG_GOVT_APPROVED_ID_CARD",
