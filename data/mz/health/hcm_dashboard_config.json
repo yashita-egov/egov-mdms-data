@@ -3,40 +3,103 @@
   "moduleName": "HCM",
   "dashboardConfig": [
     {
-      "enableDashboard": true,
       "id": 1,
       "charts": [
-          {
-            "name": "totalHouseholdSprayed",
-            "vizType": "row",
-            "chartType": "METRIC",
-            "active": true
-          },
-          {
-            "name": "totalBottlesUsed",
-            "vizType": "row",
-             "chartType": "METRIC",
-            "active": true
-          },
-          {
-            "name": "percentTargetAchievementToday",
-            "vizType": "row",
-             "chartType": "METRIC",
-            "active": true
-          },
-          {
-            "name": "coverageByUser",
-            "vizType": null,
-            "chartType": "TABLE",
-            "active": true
-          },
-          {
-            "name": "performanceByUser",
-            "vizType": null,
-            "chartType": "TABLE",
-            "active": true
-          }
-        ]
+        {
+          "name": "totalHouseholdSprayedIRS",
+          "active": true,
+          "vizType": "row",
+          "chartType": "METRIC"
+        },
+        {
+          "name": "totalBottlesUsedIRS",
+          "active": true,
+          "vizType": "row",
+          "chartType": "METRIC"
+        },
+        {
+          "name": "percentTargetAchievementTodayIRS",
+          "active": true,
+          "vizType": "row",
+          "chartType": "METRIC"
+        },
+        {
+          "name": "coverageByUserIRS",
+          "active": true,
+          "vizType": "null",
+          "chartType": "TABLE"
+        },
+        {
+          "name": "performanceByUserIRS",
+          "active": true,
+          "vizType": "null",
+          "chartType": "TABLE"
+        }
+      ],
+      "enableDashboard": true,
+      "projectTypeCode": "IRS-mz"
+    },
+    {
+      "id": 2,
+      "charts": [
+        {
+          "name": "childrenAdministeredSmc",
+          "active": true,
+          "vizType": "row",
+          "chartType": "METRIC"
+        },
+        {
+          "name": "spaqUsedSmc",
+          "active": true,
+          "vizType": "row",
+          "chartType": "METRIC"
+        },
+        {
+          "name": "childrenAdministeredCoverageSmc",
+          "active": true,
+          "vizType": "row",
+          "chartType": "METRIC"
+        },
+        {
+          "name": "childrenAdministrationSummarySmc",
+          "active": true,
+          "vizType": "null",
+          "chartType": "TABLE"
+        }
+      ],
+      "enableDashboard": true,
+      "projectTypeCode": "MR-DN"
+    },
+     {
+      "id": 3,
+      "charts": [
+        {
+          "name": "householdsDistributedLLIN",
+          "active": true,
+          "vizType": "row",
+          "chartType": "METRIC"
+        },
+        {
+          "name": "bednetsDistributedLLIN",
+          "active": true,
+          "vizType": "row",
+          "chartType": "METRIC"
+        },
+        {
+          "name": "householdsDistributionCoverageLLIN",
+          "active": true,
+          "vizType": "row",
+          "chartType": "METRIC"
+        },
+        {
+          "name": "bednetsDistributionSummaryLLIN",
+          "active": true,
+          "vizType": "null",
+          "chartType": "TABLE"
+        }
+      ],
+      "enableDashboard": true,
+      "projectTypeCode": "LLIN-mz"
     }
   ]
 }
