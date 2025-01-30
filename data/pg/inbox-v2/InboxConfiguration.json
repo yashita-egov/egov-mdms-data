@@ -670,7 +670,7 @@
         },
         {
           "name": "mobileNumber",
-          "path": "Data.landInfo.owners.*.mobileNumber.keyword",
+          "path": "Data.mobileNumber.keyword",
           "isMandatory": false
         },
         {
@@ -695,6 +695,11 @@
           "operator": "WILDCARD"
         },
         {
+          "name": "applicationType",
+          "path": "Data.applicationType.keyword",
+          "isMandatory": false
+        },
+        {
           "name": "fromDate",
           "path": "Data.auditDetails.createdTime",
           "isMandatory": false,
@@ -714,11 +719,12 @@
       "sourceFilterPathList": [
         "Data.currentProcessInstance",
         "Data.auditDetails",
-        "Data.additionalDetails",
         "Data.tenantId",
         "Data.applicationNo",
         "Data.locality",
-        "Data.applicationDate"
+        "Data.applicationDate",
+        "Data.landInfo",
+        "Data.applicationType"
       ]
     }
   ]
