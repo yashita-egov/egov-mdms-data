@@ -37,8 +37,7 @@
         }
       ],
       "enableDashboard": true,
-      "projectTypeCode": "IRS-mz",
-      "projectTypeId": "192a20d1-0edd-4108-925a-f37bf544d6c4",
+      "projectTypeCode": "IRS-mz"
     },
     {
       "id": 2,
@@ -69,8 +68,7 @@
         }
       ],
       "enableDashboard": true,
-      "projectTypeCode": "MR-DN",
-      "projectTypeId": "ea1bb2e7-06d8-4fe4-ba1e-f4a6363a21be",
+      "projectTypeCode": "MR-DN"
     },
      {
       "id": 3,
@@ -101,8 +99,7 @@
         }
       ],
       "enableDashboard": true,
-      "projectTypeCode": "LLIN-mz",
-      "projectTypeId": "84e28a7b-8c6d-4505-a7ef-5d714e0361f6",
+      "projectTypeCode": "LLIN-mz"
     }
   ]
 }
