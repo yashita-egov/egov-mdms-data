@@ -674,6 +674,11 @@
           "isMandatory": false
         },
         {
+          "name": "accountId",
+          "path": "Data.accountId.keyword",
+          "isMandatory": false
+        },
+        {
           "name": "locality",
           "path": "Data.landInfo.address.locality.code.keyword",
           "isMandatory": false
