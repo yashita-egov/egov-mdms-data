@@ -12129,7 +12129,7 @@
     {
       "id": 1629,
       "name": "Service Definition Search",
-      "url": "/service-request/service/definition/v1/_search",
+      "url": "/health-service-request/service/definition/v1/_search",
       "displayName": "Service Definition Search",
       "orderNumber": 0,
       "parentModule": "",
@@ -12141,7 +12141,7 @@
     {
       "id": 1630,
       "name": "Service Definition Create",
-      "url": "/service-request/service/definition/v1/_create",
+      "url": "/health-service-request/service/definition/v1/_create",
       "displayName": "Service Definition Create",
       "orderNumber": 0,
       "parentModule": "",
@@ -12153,7 +12153,7 @@
     {
       "id": 1631,
       "name": "Service Definition Update",
-      "url": "/service-request/service/definition/v1/_update",
+      "url": "/health-service-request/service/definition/v1/_update",
       "displayName": "Service Definition Update",
       "orderNumber": 0,
       "parentModule": "",
@@ -12165,7 +12165,7 @@
     {
       "id": 1632,
       "name": "Service Search",
-      "url": "/service-request/service/v1/_search",
+      "url": "/health-service-request/service/v1/_search",
       "displayName": "Service Search",
       "orderNumber": 0,
       "parentModule": "",
@@ -12177,7 +12177,7 @@
     {
       "id": 1633,
       "name": "Service Create",
-      "url": "/service-request/service/v1/_create",
+      "url": "/health-service-request/service/v1/_create",
       "displayName": "Service Create",
       "orderNumber": 0,
       "parentModule": "",
@@ -12189,7 +12189,7 @@
     {
       "id": 1634,
       "name": "Service Update",
-      "url": "/service-request/service/v1/_update",
+      "url": "/health-service-request/service/v1/_update",
       "displayName": "Service Update",
       "orderNumber": 0,
       "parentModule": "",
