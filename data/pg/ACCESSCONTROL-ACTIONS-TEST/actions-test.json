@@ -15153,7 +15153,7 @@
         "parentModule": "",
         "serviceCode": "",
         "code": "null",
-        "path": ""
+        "path": "FSTPInbox"
     },
     {
         "id": 5081,
@@ -15167,7 +15167,7 @@
         "parentModule": "",
         "serviceCode": "",
         "code": "null",
-        "path": ""
+        "path": "FstpDetails"
     },
     {
         "id": 5082,
