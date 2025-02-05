@@ -2780,7 +2780,7 @@
       "code": "null",
       "navigationURL": "/workbench-ui/employee/workbench/mdms-search-v2?moduleName=PQM&masterName=TestStandard",
       "path": "9MDMS.PQM.TestStandard",
-      "leftIcon": "dynamic:ContractIcon"
+      "leftIcon": ""
     },
     {
       "id": 226,
@@ -3250,7 +3250,7 @@
       "code": "null",
       "path": "Dashboard.FSM",
       "navigationURL": "/sanitation-ui/employee/dss/dashboard/fsm",
-      "leftIcon": "places:business-center",
+      "leftIcon": "",
       "rightIcon": ""
     },
     {
@@ -3356,7 +3356,7 @@
       "code": "null",
       "path": "FSM.Reports.FSMDailyCollectionReport",
       "navigationURL": "report/fsm/FSMDailyCollectionReport",
-      "leftIcon": "action:description",
+      "leftIcon": "",
       "rightIcon": ""
     },
     {
@@ -3371,7 +3371,7 @@
       "code": "null",
       "path": "FSM.Reports.FSMRequestReport",
       "navigationURL": "report/fsm/FSMRequestReport",
-      "leftIcon": "action:description",
+      "leftIcon": "",
       "rightIcon": ""
     },
     {
@@ -3441,7 +3441,7 @@
       "code": "null",
       "path": "FSM.Reports.FSMVechileLogReport",
       "navigationURL": "report/fsm/FSMVehicleLogReport",
-      "leftIcon": "action:description",
+      "leftIcon": "",
       "rightIcon": ""
     },
     {
@@ -3524,7 +3524,7 @@
       "code": "null",
       "path": "FSM.Reports.FSMDailyDesludingReport",
       "navigationURL": "report/fsm/FSMDailyDesludingReport",
-      "leftIcon": "action:description",
+      "leftIcon": "",
       "rightIcon": ""
     },
     {
@@ -3561,7 +3561,7 @@
       "code": "null",
       "path": "FSM.Reports.FSMAreaWiseDailyCollectionReport",
       "navigationURL": "report/fsm/FSMAreaWiseDailyCollectionReport",
-      "leftIcon": "action:description",
+      "leftIcon": "",
       "rightIcon": ""
     },
     {
@@ -3598,7 +3598,7 @@
       "code": "null",
       "path": "FSM.Reports.FSMFSTPPlantWithVehicleLogReport",
       "navigationURL": "report/fsm/FSMFSTPPlantWithVehicleLogReport",
-      "leftIcon": "action:description",
+      "leftIcon": "",
       "rightIcon": ""
     },
     {
@@ -4368,9 +4368,9 @@
       "enabled": true,
       "serviceCode": "sanitation",
       "code": "null",
-      "path": "0Home",
+      "path": "Home",
       "navigationURL": "/sanitation-ui/employee/",
-      "leftIcon": "dynamic:MuktaHomeIcon",
+      "leftIcon": "",
       "rightIcon": ""
     },
     {
@@ -15097,7 +15097,7 @@
         "parentModule": "",
         "serviceCode": "",
         "code": "null",
-        "path": ""
+        "path": "CreateNewApplication"
     },
     {
         "id": 5077,
@@ -15111,7 +15111,7 @@
         "parentModule": "",
         "serviceCode": "",
         "code": "null",
-        "path": ""
+        "path": "EmployeeInbox"
     },
     {
         "id": 5078,
@@ -15125,7 +15125,7 @@
         "parentModule": "",
         "serviceCode": "",
         "code": "null",
-        "path": ""
+        "path": "EditApplication"
     },
     {
         "id": 5079,
@@ -15139,7 +15139,7 @@
         "parentModule": "",
         "serviceCode": "",
         "code": "null",
-        "path": ""
+        "path": "CollectPayment"
     },
     {
         "id": 5080,
@@ -15181,7 +15181,7 @@
         "parentModule": "",
         "serviceCode": "",
         "code": "null",
-        "path": ""
+        "path": "SearchApplication"
     },
     {
         "id": 5083,
