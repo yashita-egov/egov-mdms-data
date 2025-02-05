@@ -5,7 +5,7 @@
     {
       "id": 1,
       "name": "Home",
-      "url": "url",
+      "url": "url1",
       "displayName": "Home",
       "orderNumber": 1,
       "parentModule": "works",
@@ -56,7 +56,7 @@
     {
       "id": 5,
       "name": "HRMS",
-      "url": "url",
+      "url": "url1",
       "displayName": "Search Employee",
       "orderNumber": 1,
       "parentModule": "",
@@ -154,7 +154,7 @@
     {
       "id": 13,
       "name": "HRMS",
-      "url": "url",
+      "url": "url1",
       "displayName": "Create Employee",
       "orderNumber": 2,
       "parentModule": "",
@@ -168,7 +168,7 @@
     {
       "id": 14,
       "name": "ESTIMATE",
-      "url": "url",
+      "url": "url1",
       "displayName": "Create Estimate",
       "orderNumber": 2,
       "parentModule": "",
@@ -182,7 +182,7 @@
     {
       "id": 15,
       "name": "PROJECT",
-      "url": "url",
+      "url": "url1",
       "displayName": "Create Project",
       "orderNumber": 2,
       "parentModule": "",
@@ -196,7 +196,7 @@
     {
       "id": 16,
       "name": "ESTIMATE",
-      "url": "url",
+      "url": "url1",
       "displayName": "Search Estimate",
       "orderNumber": 1,
       "parentModule": "",
@@ -210,7 +210,7 @@
     {
       "id": 17,
       "name": "ESTIMATE",
-      "url": "url",
+      "url": "url1",
       "displayName": "Estimate Inbox",
       "orderNumber": 3,
       "parentModule": "",
@@ -224,7 +224,7 @@
     {
       "id": 18,
       "name": "PROJECT",
-      "url": "url",
+      "url": "url1",
       "displayName": "PROJECT Search",
       "orderNumber": 1,
       "parentModule": "",
@@ -645,7 +645,7 @@
     {
       "id": 54,
       "name": "BILLS",
-      "url": "url",
+      "url": "url1",
       "displayName": "Bill Inbox",
       "orderNumber": 3,
       "parentModule": "",
@@ -659,7 +659,7 @@
     {
       "id": 55,
       "name": "BILLS",
-      "url": "url",
+      "url": "url1",
       "displayName": "Create Purchase Bill",
       "orderNumber": 3,
       "parentModule": "",
@@ -673,7 +673,7 @@
     {
       "id": 56,
       "name": "BILLS",
-      "url": "url",
+      "url": "url1",
       "displayName": "Bill Search",
       "orderNumber": 1,
       "parentModule": "",
@@ -687,7 +687,7 @@
     {
       "id": 57,
       "name": "BILLS",
-      "url": "url",
+      "url": "url1",
       "displayName": "Bill View",
       "orderNumber": 4,
       "parentModule": "",
@@ -701,7 +701,7 @@
     {
       "id": 58,
       "name": "CONTRACTS",
-      "url": "url",
+      "url": "url1",
       "displayName": "Contracts Inbox",
       "orderNumber": 3,
       "parentModule": "",
@@ -715,7 +715,7 @@
     {
       "id": 59,
       "name": "ATTENDENCEMGMT",
-      "url": "url",
+      "url": "url1",
       "displayName": "ATTENDENCEMGMT Inbox",
       "orderNumber": 3,
       "parentModule": "",
@@ -729,7 +729,7 @@
     {
       "id": 60,
       "name": "CONTRACTS",
-      "url": "url",
+      "url": "url1",
       "displayName": "Contracts Create",
       "orderNumber": 2,
       "parentModule": "",
@@ -743,7 +743,7 @@
     {
       "id": 61,
       "name": "CONTRACTS",
-      "url": "url",
+      "url": "url1",
       "displayName": "Contracts Search",
       "orderNumber": 1,
       "parentModule": "",
@@ -757,7 +757,7 @@
     {
       "id": 62,
       "name": "CHECKLIST",
-      "url": "url",
+      "url": "url1",
       "displayName": "CHECKLIST Inbox",
       "orderNumber": 3,
       "parentModule": "",
@@ -771,7 +771,7 @@
     {
       "id": 63,
       "name": "CHECKLIST",
-      "url": "url",
+      "url": "url1",
       "displayName": "CHECKLIST Create",
       "orderNumber": 2,
       "parentModule": "",
@@ -785,7 +785,7 @@
     {
       "id": 62,
       "name": "MASTERS",
-      "url": "url",
+      "url": "url1",
       "displayName": "Masters Search Organisation",
       "orderNumber": 1,
       "parentModule": "",
@@ -799,7 +799,7 @@
     {
       "id": 63,
       "name": "WAGESEEKER",
-      "url": "url",
+      "url": "url1",
       "displayName": "Masters Create WageSeeker",
       "orderNumber": 2,
       "parentModule": "",
@@ -813,7 +813,7 @@
     {
       "id": 64,
       "name": "MASTERS",
-      "url": "url",
+      "url": "url1",
       "displayName": "Masters Create Organisation",
       "orderNumber": 2,
       "parentModule": "",
@@ -983,7 +983,7 @@
     {
       "id": 78,
       "name": "WAGESEEKER",
-      "url": "url",
+      "url": "url1",
       "displayName": "Masters Search Wageseeker",
       "orderNumber": 1,
       "parentModule": "",
@@ -997,7 +997,7 @@
     {
       "id": 79,
       "name": "Dashboard Mukta",
-      "url": "url",
+      "url": "url1",
       "displayName": "Mukta Dashboard",
       "orderNumber": 4,
       "parentModule": "dss-dashboard",
@@ -1125,7 +1125,7 @@
     {
       "id": 90,
       "name": "ATTENDENCEMGMT",
-      "url": "url",
+      "url": "url1",
       "displayName": "ATTENDENCEMGMT Search",
       "orderNumber": 1,
       "parentModule": "",
@@ -1483,7 +1483,7 @@
     {
       "id": 120,
       "name": "PAYMENT",
-      "url": "url",
+      "url": "url1",
       "displayName": "PAYMENT Generate",
       "orderNumber": 1,
       "parentModule": "",
@@ -1497,7 +1497,7 @@
     {
       "id": 121,
       "name": "PAYMENT",
-      "url": "url",
+      "url": "url1",
       "displayName": "PAYMENT Download",
       "orderNumber": 2,
       "parentModule": "",
@@ -1607,7 +1607,7 @@
     {
       "id": 130,
       "name": "MDMS",
-      "url": "url",
+      "url": "url1",
       "displayName": "Manage Department Master",
       "orderNumber": 1,
       "parentModule": "",
@@ -1645,7 +1645,7 @@
     {
       "id": 134,
       "name": "MDMS",
-      "url": "url",
+      "url": "url1",
       "displayName": "Manage EmployeeType Master",
       "orderNumber": 1,
       "parentModule": "",
@@ -1683,7 +1683,7 @@
     {
       "id": 137,
       "name": "MDMS",
-      "url": "url",
+      "url": "url1",
       "displayName": "Manage EmployeeType Master",
       "orderNumber": 1,
       "parentModule": "",
@@ -1733,7 +1733,7 @@
     {
       "id": 141,
       "name": "MDMS",
-      "url": "url",
+      "url": "url1",
       "displayName": "Manage PGR Service Def Master",
       "orderNumber": 1,
       "parentModule": "",
@@ -1747,7 +1747,7 @@
     {
       "id": 142,
       "name": "MDMS",
-      "url": "url",
+      "url": "url1",
       "displayName": "Manage UOM Master",
       "orderNumber": 1,
       "parentModule": "",
@@ -1809,7 +1809,7 @@
     {
       "id": 147,
       "name": "MDMS",
-      "url": "url",
+      "url": "url1",
       "displayName": "Manage SOR SOR",
       "orderNumber": 1,
       "parentModule": "",
@@ -1847,7 +1847,7 @@
     {
       "id": 150,
       "name": "MDMS",
-      "url": "url",
+      "url": "url1",
       "displayName": "Manage SOR SORVariant",
       "orderNumber": 1,
       "parentModule": "",
@@ -1945,7 +1945,7 @@
     {
       "id": 158,
       "name": "MDMS",
-      "url": "url",
+      "url": "url1",
       "displayName": "Manage SOR Type",
       "orderNumber": 1,
       "parentModule": "",
@@ -1983,7 +1983,7 @@
     {
       "id": 161,
       "name": "MDMS",
-      "url": "url",
+      "url": "url1",
       "displayName": "Manage SOR Type",
       "orderNumber": 1,
       "parentModule": "",
@@ -1997,7 +1997,7 @@
     {
       "id": 162,
       "name": "MDMS",
-      "url": "url",
+      "url": "url1",
       "displayName": "master1",
       "orderNumber": 1,
       "parentModule": "",
@@ -2011,7 +2011,7 @@
     {
       "id": 163,
       "name": "MDMS",
-      "url": "url",
+      "url": "url1",
       "displayName": "master2",
       "orderNumber": 1,
       "parentModule": "",
@@ -2025,7 +2025,7 @@
     {
       "id": 164,
       "name": "MDMS",
-      "url": "url",
+      "url": "url1",
       "displayName": "master3",
       "orderNumber": 1,
       "parentModule": "",
@@ -2039,7 +2039,7 @@
     {
       "id": 168,
       "name": "TEST",
-      "url": "url",
+      "url": "url1",
       "displayName": "Sub menu option one",
       "orderNumber": 1,
       "parentModule": "",
@@ -2053,7 +2053,7 @@
     {
       "id": 169,
       "name": "TEST",
-      "url": "url",
+      "url": "url1",
       "displayName": "Sub menu option two",
       "orderNumber": 1,
       "parentModule": "",
@@ -2067,7 +2067,7 @@
     {
       "id": 170,
       "name": "TEST",
-      "url": "url",
+      "url": "url1",
       "displayName": "Sub menu option three",
       "orderNumber": 1,
       "parentModule": "",
@@ -2081,7 +2081,7 @@
     {
       "id": 171,
       "name": "TEST",
-      "url": "url",
+      "url": "url1",
       "displayName": "Sub menu option one",
       "orderNumber": 1,
       "parentModule": "",
@@ -2095,7 +2095,7 @@
     {
       "id": 172,
       "name": "TEST",
-      "url": "url",
+      "url": "url1",
       "displayName": "Sub menu option two",
       "orderNumber": 1,
       "parentModule": "",
@@ -2109,7 +2109,7 @@
     {
       "id": 173,
       "name": "TEST",
-      "url": "url",
+      "url": "url1",
       "displayName": "Sub menu option three",
       "orderNumber": 1,
       "parentModule": "",
@@ -2123,7 +2123,7 @@
     {
       "id": 174,
       "name": "TEST",
-      "url": "url",
+      "url": "url1",
       "displayName": "Sub menu option one",
       "orderNumber": 1,
       "parentModule": "",
@@ -2137,7 +2137,7 @@
     {
       "id": 175,
       "name": "TEST",
-      "url": "url",
+      "url": "url1",
       "displayName": "Sub menu option two",
       "orderNumber": 1,
       "parentModule": "",
@@ -2151,7 +2151,7 @@
     {
       "id": 176,
       "name": "TEST",
-      "url": "url",
+      "url": "url1",
       "displayName": "Sub menu option three",
       "orderNumber": 1,
       "parentModule": "",
@@ -2165,7 +2165,7 @@
     {
       "id": 177,
       "name": "TEST",
-      "url": "url",
+      "url": "url1",
       "displayName": "Only",
       "orderNumber": 1,
       "parentModule": "",
@@ -2239,7 +2239,7 @@
     {
       "id": 183,
       "name": "MDMS",
-      "url": "url",
+      "url": "url1",
       "displayName": "Manage Works SOR",
       "orderNumber": 1,
       "parentModule": "",
@@ -2277,7 +2277,7 @@
     {
       "id": 186,
       "name": "MDMS",
-      "url": "url",
+      "url": "url1",
       "displayName": "Manage Works SOR SubType",
       "orderNumber": 1,
       "parentModule": "",
@@ -2315,7 +2315,7 @@
     {
       "id": 189,
       "name": "MDMS",
-      "url": "url",
+      "url": "url1",
       "displayName": "Manage Works SOR Variant",
       "orderNumber": 1,
       "parentModule": "",
@@ -2353,7 +2353,7 @@
     {
       "id": 192,
       "name": "MDMS",
-      "url": "url",
+      "url": "url1",
       "displayName": "Manage Works SOR SOR",
       "orderNumber": 1,
       "parentModule": "",
@@ -2391,7 +2391,7 @@
     {
       "id": 195,
       "name": "MDMS",
-      "url": "url",
+      "url": "url1",
       "displayName": "Manage Works SOR Overhead",
       "orderNumber": 1,
       "parentModule": "",
@@ -2429,7 +2429,7 @@
     {
       "id": 198,
       "name": "MDMS",
-      "url": "url",
+      "url": "url1",
       "displayName": "Manage Works SOR Rates",
       "orderNumber": 1,
       "parentModule": "",
@@ -2467,7 +2467,7 @@
     {
       "id": 201,
       "name": "MDMS",
-      "url": "url",
+      "url": "url1",
       "displayName": "Manage PQM Labs",
       "orderNumber": 1,
       "parentModule": "",
@@ -2505,7 +2505,7 @@
     {
       "id": 204,
       "name": "MDMS",
-      "url": "url",
+      "url": "url1",
       "displayName": "Manage PQM BenchmarkRule",
       "orderNumber": 1,
       "parentModule": "",
@@ -2543,7 +2543,7 @@
     {
       "id": 207,
       "name": "MDMS",
-      "url": "url",
+      "url": "url1",
       "displayName": "Manage PQM Material",
       "orderNumber": 1,
       "parentModule": "",
@@ -2581,7 +2581,7 @@
     {
       "id": 210,
       "name": "MDMS",
-      "url": "url",
+      "url": "url1",
       "displayName": "Manage PQM Unit",
       "orderNumber": 1,
       "parentModule": "",
@@ -2619,7 +2619,7 @@
     {
       "id": 213,
       "name": "MDMS",
-      "url": "url",
+      "url": "url1",
       "displayName": "Manage PQM TestType",
       "orderNumber": 1,
       "parentModule": "",
@@ -2657,7 +2657,7 @@
     {
       "id": 216,
       "name": "MDMS",
-      "url": "url",
+      "url": "url1",
       "displayName": "Manage PQM Plant",
       "orderNumber": 1,
       "parentModule": "",
@@ -2695,7 +2695,7 @@
     {
       "id": 219,
       "name": "MDMS",
-      "url": "url",
+      "url": "url1",
       "displayName": "Manage PQM PlantType",
       "orderNumber": 1,
       "parentModule": "",
@@ -2733,7 +2733,7 @@
     {
       "id": 222,
       "name": "MDMS",
-      "url": "url",
+      "url": "url1",
       "displayName": "Manage PQM Stage",
       "orderNumber": 1,
       "parentModule": "",
@@ -2771,7 +2771,7 @@
     {
       "id": 225,
       "name": "MDMS",
-      "url": "url",
+      "url": "url1",
       "displayName": "Manage PQM TestStandard",
       "orderNumber": 1,
       "parentModule": "",
@@ -2809,7 +2809,7 @@
     {
       "id": 228,
       "name": "MDMS",
-      "url": "url",
+      "url": "url1",
       "displayName": "Manage PQM QualityCriteria",
       "orderNumber": 1,
       "parentModule": "",
@@ -2847,7 +2847,7 @@
     {
       "id": 231,
       "name": "MDMS",
-      "url": "url",
+      "url": "url1",
       "displayName": "Manage PQM Parameter",
       "orderNumber": 1,
       "parentModule": "",
@@ -2885,7 +2885,7 @@
     {
       "id": 234,
       "name": "MDMS",
-      "url": "url",
+      "url": "url1",
       "displayName": "Manage PQM ProcessType",
       "orderNumber": 1,
       "parentModule": "",
@@ -2923,7 +2923,7 @@
     {
       "id": 237,
       "name": "MDMS",
-      "url": "url",
+      "url": "url1",
       "displayName": "Manage PQM ProcessSubType",
       "orderNumber": 1,
       "parentModule": "",
@@ -2961,7 +2961,7 @@
     {
       "id": 240,
       "name": "MDMS",
-      "url": "url",
+      "url": "url1",
       "displayName": "Manage PQM Process",
       "orderNumber": 1,
       "parentModule": "",
@@ -2999,7 +2999,7 @@
     {
       "id": 243,
       "name": "MDMS",
-      "url": "url",
+      "url": "url1",
       "displayName": "Manage PQM PlantConfig",
       "orderNumber": 1,
       "parentModule": "",
@@ -3037,7 +3037,7 @@
     {
       "id": 246,
       "name": "MDMS",
-      "url": "url",
+      "url": "url1",
       "displayName": "Manage PQM PlantAddress",
       "orderNumber": 1,
       "parentModule": "",
@@ -3075,7 +3075,7 @@
     {
       "id": 249,
       "name": "MDMS",
-      "url": "url",
+      "url": "url1",
       "displayName": "Manage PQM WasteType",
       "orderNumber": 1,
       "parentModule": "",
@@ -3131,7 +3131,7 @@
       "displayName": "CreateNewApplication",
       "orderNumber": 0,
       "leftIcon": "",
-      "url": "url",
+      "url": "url1",
       "name": "FSM EMPLOYEE CREATE NEW APPLICATION",
       "enabled": true,
       "navigationURL": "digit-ui/employee/fsm/new-application",
@@ -3145,7 +3145,7 @@
       "displayName": "EmployeeInbox",
       "orderNumber": 0,
       "leftIcon": "",
-      "url": "url",
+      "url": "url1",
       "name": "FSM EMPLOYEE INBOX",
       "enabled": true,
       "navigationURL": "sanitation-ui/employee/fsm/Inbox",
@@ -3159,7 +3159,7 @@
       "displayName": "EditApplication",
       "orderNumber": 0,
       "leftIcon": "",
-      "url": "url",
+      "url": "url1",
       "name": "FSM EMPLOYEE EDIT APPLICATION",
       "enabled": true,
       "navigationURL": "/sanitation-ui/employee/fsm/modify-application/:id",
@@ -3173,7 +3173,7 @@
       "displayName": "CollectPayment",
       "orderNumber": 0,
       "leftIcon": "",
-      "url": "url",
+      "url": "url1",
       "name": "FSM EMPLOYEE COLLECT PAYMENT",
       "enabled": true,
       "navigationURL": "/sanitation-ui/employee/fsm/collect-payment",
@@ -3187,7 +3187,7 @@
       "displayName": "FstpInbox",
       "orderNumber": 0,
       "leftIcon": "",
-      "url": "url",
+      "url": "url1",
       "name": "FSM FSTP INBOX",
       "enabled": true,
       "navigationURL": "/sanitation-ui/employee/fsm/fstp-inbox",
@@ -3201,7 +3201,7 @@
       "displayName": "FstpDetails",
       "orderNumber": 0,
       "leftIcon": "",
-      "url": "url",
+      "url": "url1",
       "name": "FSM FSTP DETAILS",
       "enabled": true,
       "navigationURL": "/digit-ui/employee/fsm/fstp-operator-details/:id",
@@ -3215,7 +3215,7 @@
       "displayName": "SearchApplication",
       "orderNumber": 0,
       "leftIcon": "",
-      "url": "url",
+      "url": "url1",
       "name": "FSM EMPLOYEE SEARCH APPLICATION",
       "enabled": true,
       "navigationURL": "/sanitation-ui/employee/fsm/search",
@@ -3229,7 +3229,7 @@
       "displayName": "DsoDashboard",
       "orderNumber": 0,
       "leftIcon": "",
-      "url": "url",
+      "url": "url1",
       "name": "FSM DSO DASHBOARD",
       "enabled": true,
       "navigationURL": "/digit-ui/citizen/dso-dashboard",
@@ -3241,7 +3241,7 @@
     {
       "id": 261,
       "name": "Dashboard FSM",
-      "url": "url",
+      "url": "url1",
       "displayName": "FSM",
       "orderNumber": 8,
       "parentModule": "dss-dashboard",
@@ -3347,7 +3347,7 @@
     {
       "id": 270,
       "name": "FSMDailyCollectionReport",
-      "url": "url",
+      "url": "url1",
       "displayName": "FSM Daily Collection Report",
       "orderNumber": 2,
       "parentModule": "",
@@ -3362,7 +3362,7 @@
     {
       "id": 271,
       "name": "FSMRequestReport",
-      "url": "url",
+      "url": "url1",
       "displayName": "FSM Desludging Request Report",
       "orderNumber": 3,
       "parentModule": "",
@@ -3432,7 +3432,7 @@
     {
       "id": 277,
       "name": "FSMVehicleLogReport",
-      "url": "url",
+      "url": "url1",
       "displayName": "FSM Vechile Log Report",
       "orderNumber": 1,
       "parentModule": "",
@@ -3515,7 +3515,7 @@
     {
       "id": 284,
       "name": "FSMDailyDesludingReport",
-      "url": "url",
+      "url": "url1",
       "displayName": "FSM Daily Desluding Report",
       "orderNumber": 2,
       "parentModule": "",
@@ -3552,7 +3552,7 @@
     {
       "id": 287,
       "name": "FSMAreaWiseDailyCollectionReport",
-      "url": "url",
+      "url": "url1",
       "displayName": "FSM Area Wise Collection Report",
       "orderNumber": 2,
       "parentModule": "",
@@ -3589,7 +3589,7 @@
     {
       "id": 290,
       "name": "FSMFSTPPlantWithVehicleLogReport",
-      "url": "url",
+      "url": "url1",
       "displayName": "FSM Fstp Plant With Vehicle Log Report",
       "orderNumber": 2,
       "parentModule": "",
@@ -4017,7 +4017,7 @@
       "displayName": "CreateNewApplication",
       "orderNumber": 0,
       "leftIcon": "",
-      "url": "url",
+      "url": "url1",
       "name": "FSM EMPLOYEE CREATE NEW APPLICATION",
       "enabled": true,
       "navigationURL": "sanitation-ui/employee/fsm/new-application",
@@ -4135,7 +4135,7 @@
     {
       "id": 339,
       "name": "UploaderHome",
-      "url": "url",
+      "url": "url1",
       "displayName": "Home",
       "orderNumber": 13,
       "parentModule": "",
@@ -4149,7 +4149,7 @@
     {
       "id": 340,
       "name": "EmployeeDirectory",
-      "url": "url",
+      "url": "url1",
       "displayName": "Employee Directory",
       "orderNumber": 1,
       "parentModule": "rainmaker-pgr",
@@ -4164,7 +4164,7 @@
     {
       "id": 341,
       "name": "ContactUs",
-      "url": "url",
+      "url": "url1",
       "displayName": "Contact Us",
       "orderNumber": 1,
       "parentModule": "rainmaker-pgr",
@@ -4190,7 +4190,7 @@
     {
       "id": 343,
       "name": "UploaderHome",
-      "url": "url",
+      "url": "url1",
       "displayName": "Home",
       "orderNumber": 13,
       "parentModule": "",
@@ -4333,7 +4333,7 @@
  {
       "id": 360,
       "name": "DASHBOARD",
-      "url": "url",
+      "url": "url1",
       "displayName": "KIBANA Home",
       "orderNumber": 1,
       "parentModule": "",
@@ -4347,7 +4347,7 @@
    {
       "id": 361,
       "name": "DASHBOARD",
-      "url": "url",
+      "url": "url1",
       "displayName": "KIBANA HCM DASHBOARD",
       "orderNumber": 1,
       "parentModule": "",
@@ -4361,7 +4361,7 @@
     {
       "id": 362,
       "name": "Home",
-      "url": "url",
+      "url": "url1",
       "displayName": "Home",
       "orderNumber": 1,
       "parentModule": "sanitation",
@@ -4411,7 +4411,7 @@
     {
       "id": 366,
       "name": "Home",
-      "url": "url",
+      "url": "url1",
       "displayName": "Home",
       "orderNumber": 1,
       "parentModule": "workbench",
@@ -4482,7 +4482,7 @@
     {
       "id": 379,
       "name": "MEASUREMENT",
-      "url": "url",
+      "url": "url1",
       "displayName": "Measurement Create",
       "orderNumber": 2,
       "parentModule": "",
@@ -4496,7 +4496,7 @@
     {
       "id": 380,
       "name": "MEASUREMENT",
-      "url": "url",
+      "url": "url1",
       "displayName": "Measurement Inbox",
       "orderNumber": 3,
       "parentModule": "",
@@ -4510,7 +4510,7 @@
     {
       "id": 381,
       "name": "MEASUREMENT",
-      "url": "url",
+      "url": "url1",
       "displayName": "Measurement Search",
       "orderNumber": 1,
       "parentModule": "",
@@ -5056,7 +5056,7 @@
     {
       "id": 426,
       "name": "Home",
-      "url": "url",
+      "url": "url1",
       "displayName": "Home",
       "orderNumber": 1,
       "parentModule": "works",
@@ -5071,7 +5071,7 @@
     {
       "id": 427,
       "name": "HRMS",
-      "url": "url",
+      "url": "url1",
       "displayName": "Search Employee",
       "orderNumber": 1,
       "parentModule": "",
@@ -5085,7 +5085,7 @@
     {
       "id": 428,
       "name": "HRMS",
-      "url": "url",
+      "url": "url1",
       "displayName": "Create Employee",
       "orderNumber": 2,
       "parentModule": "",
@@ -5099,7 +5099,7 @@
     {
       "id": 429,
       "name": "ESTIMATE",
-      "url": "url",
+      "url": "url1",
       "displayName": "Create Estimate",
       "orderNumber": 2,
       "parentModule": "",
@@ -5113,7 +5113,7 @@
     {
       "id": 430,
       "name": "PROJECT",
-      "url": "url",
+      "url": "url1",
       "displayName": "Create Project",
       "orderNumber": 2,
       "parentModule": "",
@@ -5127,7 +5127,7 @@
     {
       "id": 431,
       "name": "ESTIMATE",
-      "url": "url",
+      "url": "url1",
       "displayName": "Search Estimate",
       "orderNumber": 1,
       "parentModule": "",
@@ -5141,7 +5141,7 @@
     {
       "id": 432,
       "name": "ESTIMATE",
-      "url": "url",
+      "url": "url1",
       "displayName": "Estimate Inbox",
       "orderNumber": 3,
       "parentModule": "",
@@ -5155,7 +5155,7 @@
     {
       "id": 433,
       "name": "PROJECT",
-      "url": "url",
+      "url": "url1",
       "displayName": "Search Project",
       "orderNumber": 1,
       "parentModule": "",
@@ -5187,7 +5187,7 @@
     {
       "id": 435,
       "name": "BILLS",
-      "url": "url",
+      "url": "url1",
       "displayName": "Bill Inbox",
       "orderNumber": 2,
       "parentModule": "",
@@ -5201,7 +5201,7 @@
     {
       "id": 436,
       "name": "BILLS",
-      "url": "url",
+      "url": "url1",
       "displayName": "Create Purchase Bill",
       "orderNumber": 3,
       "parentModule": "",
@@ -5215,7 +5215,7 @@
     {
       "id": 437,
       "name": "BILLS",
-      "url": "url",
+      "url": "url1",
       "displayName": "Bill Search",
       "orderNumber": 1,
       "parentModule": "",
@@ -5229,7 +5229,7 @@
     {
       "id": 438,
       "name": "BILLS",
-      "url": "url",
+      "url": "url1",
       "displayName": "Bill View",
       "orderNumber": 4,
       "parentModule": "",
@@ -5243,7 +5243,7 @@
     {
       "id": 439,
       "name": "CONTRACTS",
-      "url": "url",
+      "url": "url1",
       "displayName": "Contracts Inbox",
       "orderNumber": 3,
       "parentModule": "",
@@ -5257,7 +5257,7 @@
     {
       "id": 440,
       "name": "ATTENDENCEMGMT",
-      "url": "url",
+      "url": "url1",
       "displayName": "ATTENDENCEMGMT Inbox",
       "orderNumber": 3,
       "parentModule": "",
@@ -5271,7 +5271,7 @@
     {
       "id": 441,
       "name": "CONTRACTS",
-      "url": "url",
+      "url": "url1",
       "displayName": "Contracts Create",
       "orderNumber": 2,
       "parentModule": "",
@@ -5285,7 +5285,7 @@
     {
       "id": 442,
       "name": "CONTRACTS",
-      "url": "url",
+      "url": "url1",
       "displayName": "Contracts Search",
       "orderNumber": 1,
       "parentModule": "",
@@ -5299,7 +5299,7 @@
     {
       "id": 443,
       "name": "CHECKLIST",
-      "url": "url",
+      "url": "url1",
       "displayName": "CHECKLIST Inbox",
       "orderNumber": 3,
       "parentModule": "",
@@ -5313,7 +5313,7 @@
     {
       "id": 444,
       "name": "CHECKLIST",
-      "url": "url",
+      "url": "url1",
       "displayName": "CHECKLIST Create",
       "orderNumber": 2,
       "parentModule": "",
@@ -5327,7 +5327,7 @@
     {
       "id": 445,
       "name": "MASTERS",
-      "url": "url",
+      "url": "url1",
       "displayName": "Masters Create Organisation",
       "orderNumber": 2,
       "parentModule": "",
@@ -5341,7 +5341,7 @@
     {
       "id": 446,
       "name": "WAGESEEKER",
-      "url": "url",
+      "url": "url1",
       "displayName": "Search Wageseeker",
       "orderNumber": 1,
       "parentModule": "",
@@ -5355,7 +5355,7 @@
     {
       "id": 447,
       "name": "Dashboard Mukta",
-      "url": "url",
+      "url": "url1",
       "displayName": "MUKTA Dashboard",
       "orderNumber": 1,
       "parentModule": "dss-dashboard",
@@ -5370,7 +5370,7 @@
     {
       "id": 448,
       "name": "ATTENDENCEMGMT",
-      "url": "url",
+      "url": "url1",
       "displayName": "ATTENDENCEMGMT Search",
       "orderNumber": 1,
       "parentModule": "",
@@ -5384,7 +5384,7 @@
     {
       "id": 449,
       "name": "MASTERS",
-      "url": "url",
+      "url": "url1",
       "displayName": "Masters Search Organisation",
       "orderNumber": 1,
       "parentModule": "",
@@ -5398,7 +5398,7 @@
     {
       "id": 450,
       "name": "WAGESEEKER",
-      "url": "url",
+      "url": "url1",
       "displayName": "Masters Create WageSeeker",
       "orderNumber": 2,
       "parentModule": "",
@@ -5412,7 +5412,7 @@
     {
       "id": 451,
       "name": "PAYMENT",
-      "url": "url",
+      "url": "url1",
       "displayName": "PAYMENT Generate",
       "orderNumber": 1,
       "parentModule": "",
@@ -5426,7 +5426,7 @@
     {
       "id": 452,
       "name": "PAYMENT",
-      "url": "url",
+      "url": "url1",
       "displayName": "PAYMENT Download",
       "orderNumber": 2,
       "parentModule": "",
@@ -5440,7 +5440,7 @@
     {
       "id": 453,
       "name": "BILLS",
-      "url": "url",
+      "url": "url1",
       "displayName": "Bill Inbox",
       "orderNumber": 3,
       "parentModule": "",
@@ -5454,7 +5454,7 @@
     {
       "id": 454,
       "name": "BILLS",
-      "url": "url",
+      "url": "url1",
       "displayName": "Bill Search",
       "orderNumber": 1,
       "parentModule": "",
@@ -5482,7 +5482,7 @@
     {
       "id": 456,
       "name": "PAYMENTINSTRUCTION",
-      "url": "url",
+      "url": "url1",
       "displayName": "Search Payment Instruction",
       "orderNumber": 1,
       "parentModule": "",
@@ -5496,7 +5496,7 @@
     {
       "id": 457,
       "name": "MEASUREMENT",
-      "url": "url",
+      "url": "url1",
       "displayName": "Measurement Create",
       "orderNumber": 2,
       "parentModule": "",
@@ -5510,7 +5510,7 @@
     {
       "id": 458,
       "name": "MEASUREMENT",
-      "url": "url",
+      "url": "url1",
       "displayName": "Measurement Inbox",
       "orderNumber": 3,
       "parentModule": "",
@@ -5524,7 +5524,7 @@
     {
       "id": 459,
       "name": "MEASUREMENT",
-      "url": "url",
+      "url": "url1",
       "displayName": "Measurement Search",
       "orderNumber": 1,
       "parentModule": "",
@@ -5538,7 +5538,7 @@
     {
       "id": 460,
       "name": "Revise Estimate",
-      "url": "url",
+      "url": "url1",
       "displayName": "Create Revise Estimate",
       "orderNumber": 4,
       "parentModule": "",
@@ -5710,7 +5710,7 @@
       "displayName": "Revision of Rates",
       "orderNumber": 0,
       "leftIcon": "dynamic:ContractIcon",
-      "url": "url",
+      "url": "url1",
       "name": "Revision of Rates",
       "enabled": true,
       "navigationURL": "/mukta-works-ui/employee/rateAnalysis/search-sor",
@@ -5770,7 +5770,7 @@
     {
       "id": 479,
       "name": "Rollout Dashboard",
-      "url": "url",
+      "url": "url1",
       "displayName": "Rollout Dashboard",
       "orderNumber": 1,
       "parentModule": "dss-dashboard",
@@ -8758,7 +8758,7 @@
     {
         "id": 4538,
         "name": "ConstructionSubType",
-        "url": "url",
+        "url": "url1",
         "displayName": "Construction Subtype",
         "orderNumber": 4,
         "parentModule": "propertytax",
@@ -8771,7 +8771,7 @@
     {
         "id": 4539,
         "name": "OccupanyType",
-        "url": "url",
+        "url": "url1",
         "displayName": "Occupany Type",
         "orderNumber": 5,
         "parentModule": "propertytax",
@@ -8784,7 +8784,7 @@
     {
         "id": 4540,
         "name": "OwnershipCategory",
-        "url": "url",
+        "url": "url1",
         "displayName": "Ownership Category",
         "orderNumber": 6,
         "parentModule": "propertytax",
@@ -8797,7 +8797,7 @@
     {
         "id": 4541,
         "name": "SubOwnerShipCategory",
-        "url": "url",
+        "url": "url1",
         "displayName": "Subownerhip Category",
         "orderNumber": 7,
         "parentModule": "propertytax",
@@ -8810,7 +8810,7 @@
     {
         "id": 4542,
         "name": "UsageCategoryDetail",
-        "url": "url",
+        "url": "url1",
         "displayName": "Usage Category Detail",
         "orderNumber": 8,
         "parentModule": "propertytax",
@@ -8823,7 +8823,7 @@
     {
         "id": 4543,
         "name": "UsageCategoryMajor",
-        "url": "url",
+        "url": "url1",
         "displayName": "Usage Category Major",
         "orderNumber": 9,
         "parentModule": "propertytax",
@@ -8836,7 +8836,7 @@
     {
         "id": 4544,
         "name": "UsageCategoryMinor",
-        "url": "url",
+        "url": "url1",
         "displayName": "Usage Category Minor",
         "orderNumber": 10,
         "parentModule": "propertytax",
@@ -8849,7 +8849,7 @@
     {
         "id": 4545,
         "name": "UsageCategorySubMinor",
-        "url": "url",
+        "url": "url1",
         "displayName": "Usage Category Subminor",
         "orderNumber": 11,
         "parentModule": "propertytax",
@@ -8862,7 +8862,7 @@
     {
         "id": 4546,
         "name": "PropertyType",
-        "url": "url",
+        "url": "url1",
         "displayName": "Property Type",
         "orderNumber": 1,
         "parentModule": "propertytax",
@@ -8875,7 +8875,7 @@
     {
         "id": 4547,
         "name": "PropertySubType",
-        "url": "url",
+        "url": "url1",
         "displayName": "Property Subtype",
         "orderNumber": 2,
         "parentModule": "propertytax",
@@ -8889,7 +8889,7 @@
     {
         "id": 4548,
         "name": "ConstructionType",
-        "url": "url",
+        "url": "url1",
         "displayName": "Construction Type",
         "orderNumber": 3,
         "parentModule": "propertytax",
@@ -8926,7 +8926,7 @@
     {
         "id": 4556,
         "name": "Home",
-        "url": "url",
+        "url": "url1",
         "displayName": "Home",
         "orderNumber": 1,
         "parentModule": "rainmaker-pgr",
@@ -8941,7 +8941,7 @@
     {
         "id": 4557,
         "name": "OpenComplaints",
-        "url": "url",
+        "url": "url1",
         "displayName": "Open Complaints",
         "orderNumber": 1,
         "parentModule": "rainmaker-pgr",
@@ -8956,7 +8956,7 @@
     {
         "id": 4558,
         "name": "ClosedComplaints",
-        "url": "url",
+        "url": "url1",
         "displayName": "Closed Complaints",
         "orderNumber": 1,
         "parentModule": "rainmaker-pgr",
@@ -8971,7 +8971,7 @@
     {
         "id": 4559,
         "name": "CreateComplaint",
-        "url": "url",
+        "url": "url1",
         "displayName": "Create Complaint",
         "orderNumber": 1,
         "parentModule": "rainmaker-pgr",
@@ -8986,7 +8986,7 @@
     {
         "id": 4560,
         "name": "ComplaintTypesReport",
-        "url": "url",
+        "url": "url1",
         "displayName": "Complaint Types",
         "orderNumber": 2,
         "parentModule": "rainmaker-pgr",
@@ -9001,7 +9001,7 @@
     {
         "id": 4561,
         "name": "DepartmentWiseReport",
-        "url": "url",
+        "url": "url1",
         "displayName": "Departments",
         "orderNumber": 1,
         "parentModule": "rainmaker-pgr",
@@ -9016,7 +9016,7 @@
     {
         "id": 4562,
         "name": "AOWiseReport",
-        "url": "url",
+        "url": "url1",
         "displayName": "Assigning Officers",
         "orderNumber": 3,
         "parentModule": "rainmaker-pgr",
@@ -9031,7 +9031,7 @@
     {
         "id": 4563,
         "name": "FunctionaryWiseReport",
-        "url": "url",
+        "url": "url1",
         "displayName": "ULB Employees",
         "orderNumber": 4,
         "parentModule": "rainmaker-pgr",
@@ -9046,7 +9046,7 @@
     {
         "id": 4564,
         "name": "SourceWiseReport",
-        "url": "url",
+        "url": "url1",
         "displayName": "Source",
         "orderNumber": 5,
         "parentModule": "rainmaker-pgr",
@@ -9190,7 +9190,7 @@
     {
         "id": 4577,
         "name": "Assess New Property",
-        "url": "url",
+        "url": "url1",
         "displayName": "Assess New Property",
         "orderNumber": 1,
         "queryParams": "",
@@ -9210,7 +9210,7 @@
     {
         "id": 4581,
         "name": "Exemptions",
-        "url": "url",
+        "url": "url1",
         "displayName": "Exemptions",
         "orderNumber": 3,
         "queryParams": "",
@@ -9230,7 +9230,7 @@
     {
         "id": 4582,
         "name": "Additional Charges",
-        "url": "url",
+        "url": "url1",
         "displayName": "Additional Charges",
         "orderNumber": 4,
         "queryParams": "",
@@ -9307,7 +9307,7 @@
     {
         "id": 4591,
         "name": "DescriptionReport",
-        "url": "url",
+        "url": "url1",
         "displayName": "Description",
         "orderNumber": 6,
         "parentModule": "rainmaker-pgr",
@@ -9322,7 +9322,7 @@
     {
         "id": 4592,
         "name": "EmployeeReport",
-        "url": "url",
+        "url": "url1",
         "displayName": "Employee",
         "orderNumber": 7,
         "parentModule": "rainmaker-pgr",
@@ -9338,7 +9338,7 @@
         "id": 4593,
         "name": "Financial Expense bill create",
         "navigationURL": "services/EGF/expensebill/newform",
-        "url": "url",
+        "url": "url1",
         "parentModule": "EGF",
         "displayName": "Expense Bill",
         "orderNumber": 1,
@@ -9435,7 +9435,7 @@
     {
         "id": 4616,
         "name": "Detailed Code-Create",
-        "url": "url",
+        "url": "url1",
         "parentModule": "",
         "displayName": "Create Detailed Code",
         "orderNumber": 1,
@@ -9491,7 +9491,7 @@
     {
         "id": 4620,
         "name": "Scheme-Create",
-        "url": "url",
+        "url": "url1",
         "parentModule": "",
         "displayName": "Create Scheme",
         "orderNumber": 3,
@@ -9505,7 +9505,7 @@
     {
         "id": 4621,
         "name": "View Schemes-Search",
-        "url": "url",
+        "url": "url1",
         "parentModule": "",
         "displayName": "View Scheme",
         "orderNumber": 2,
@@ -9519,7 +9519,7 @@
     {
         "id": 4622,
         "name": "Modify Schemes-Search",
-        "url": "url",
+        "url": "url1",
         "parentModule": "",
         "displayName": "Modify Scheme",
         "orderNumber": 3,
@@ -9533,7 +9533,7 @@
     {
         "id": 4623,
         "name": "Recovery-Create",
-        "url": "url",
+        "url": "url1",
         "parentModule": "",
         "displayName": "Create Deductions",
         "orderNumber": 1,
@@ -9547,7 +9547,7 @@
     {
         "id": 4624,
         "name": "View Recoveries-Search",
-        "url": "url",
+        "url": "url1",
         "parentModule": "",
         "displayName": "View Deductions",
         "orderNumber": 2,
@@ -9561,7 +9561,7 @@
     {
         "id": 4625,
         "name": "Modify Recoveries-Search",
-        "url": "url",
+        "url": "url1",
         "parentModule": "",
         "displayName": "Modify Deductions",
         "orderNumber": 3,
@@ -9575,7 +9575,7 @@
     {
         "id": 4626,
         "name": "View Sub-schemes - Search",
-        "url": "url",
+        "url": "url1",
         "parentModule": "",
         "displayName": "View Sub Scheme",
         "orderNumber": 5,
@@ -9589,7 +9589,7 @@
     {
         "id": 4627,
         "name": "Modify Sub-scheme",
-        "url": "url",
+        "url": "url1",
         "parentModule": "",
         "displayName": "Modify Sub Scheme",
         "orderNumber": 6,
@@ -9715,7 +9715,7 @@
     {
         "id": 4636,
         "name": "Fund-Create",
-        "url": "url",
+        "url": "url1",
         "parentModule": "",
         "displayName": "Create Fund",
         "orderNumber": 2,
@@ -9729,7 +9729,7 @@
     {
         "id": 4637,
         "name": "Fund-View",
-        "url": "url",
+        "url": "url1",
         "parentModule": "",
         "displayName": "View Fund",
         "orderNumber": 2,
@@ -9743,7 +9743,7 @@
     {
         "id": 4638,
         "name": "Fund-Modify",
-        "url": "url",
+        "url": "url1",
         "parentModule": "",
         "displayName": "Modify Fund",
         "orderNumber": 3,
@@ -9757,7 +9757,7 @@
     {
         "id": 4639,
         "name": "User Defined Codes-Create",
-        "url": "url",
+        "url": "url1",
         "parentModule": "",
         "displayName": "Create Subledger Masters",
         "orderNumber": 4,
@@ -9771,7 +9771,7 @@
     {
         "id": 4640,
         "name": "User Defined Codes-View",
-        "url": "url",
+        "url": "url1",
         "parentModule": "",
         "displayName": "View Subledger Masters",
         "orderNumber": 5,
@@ -9785,7 +9785,7 @@
     {
         "id": 4641,
         "name": "User Defined Codes-Modify",
-        "url": "url",
+        "url": "url1",
         "parentModule": "",
         "displayName": "Modify Subledger Masters",
         "orderNumber": 6,
@@ -9799,7 +9799,7 @@
     {
         "id": 4642,
         "name": "Function-Create",
-        "url": "url",
+        "url": "url1",
         "parentModule": "",
         "displayName": "Create Function",
         "orderNumber": 3,
@@ -9813,7 +9813,7 @@
     {
         "id": 4643,
         "name": "Function-View",
-        "url": "url",
+        "url": "url1",
         "parentModule": "",
         "displayName": "View Function",
         "orderNumber": 2,
@@ -9827,7 +9827,7 @@
     {
         "id": 4644,
         "name": "Function-Modify",
-        "url": "url",
+        "url": "url1",
         "parentModule": "",
         "displayName": "Modify Function",
         "orderNumber": 3,
@@ -9855,7 +9855,7 @@
     {
         "id": 4646,
         "name": "Create Sub Scheme",
-        "url": "url",
+        "url": "url1",
         "parentModule": "",
         "displayName": "Create Sub Scheme",
         "orderNumber": 4,
@@ -9897,7 +9897,7 @@
     {
         "id": 4649,
         "name": "BankMasterModify",
-        "url": "url",
+        "url": "url1",
         "parentModule": "",
         "displayName": "Modify Bank",
         "orderNumber": 3,
@@ -9911,7 +9911,7 @@
     {
         "id": 4650,
         "name": "BankMaster",
-        "url": "url",
+        "url": "url1",
         "parentModule": "",
         "displayName": "Create Bank",
         "orderNumber": 1,
@@ -10037,7 +10037,7 @@
     {
         "id": 4659,
         "name": "Create Contractor",
-        "url": "url",
+        "url": "url1",
         "parentModule": "",
         "displayName": "Create Contractor",
         "orderNumber": 1,
@@ -10051,7 +10051,7 @@
     {
         "id": 4660,
         "name": "View Contractor",
-        "url": "url",
+        "url": "url1",
         "parentModule": "",
         "displayName": "View Contractor",
         "orderNumber": 2,
@@ -10065,7 +10065,7 @@
     {
         "id": 4661,
         "name": "Modify Contractor",
-        "url": "url",
+        "url": "url1",
         "parentModule": "",
         "displayName": "Modify Contractor",
         "orderNumber": 3,
@@ -10079,7 +10079,7 @@
     {
         "id": 4662,
         "name": "Create Supplier",
-        "url": "url",
+        "url": "url1",
         "parentModule": "",
         "displayName": "Create Supplier",
         "orderNumber": 1,
@@ -10093,7 +10093,7 @@
     {
         "id": 4663,
         "name": "View Supplier",
-        "url": "url",
+        "url": "url1",
         "parentModule": "",
         "displayName": "View Supplier",
         "orderNumber": 2,
@@ -10107,7 +10107,7 @@
     {
         "id": 4664,
         "name": "Modify Supplier",
-        "url": "url",
+        "url": "url1",
         "parentModule": "",
         "displayName": "Modify Supplier",
         "orderNumber": 3,
@@ -10121,7 +10121,7 @@
     {
         "id": 4665,
         "name": "Detailed Code-View",
-        "url": "url",
+        "url": "url1",
         "parentModule": "",
         "displayName": "View Detailed Code",
         "orderNumber": 2,
@@ -10135,7 +10135,7 @@
     {
         "id": 4666,
         "name": "Detailed Code-Modify",
-        "url": "url",
+        "url": "url1",
         "parentModule": "",
         "displayName": "Modify Detailed Code",
         "orderNumber": 3,
@@ -10149,7 +10149,7 @@
     {
         "id": 4667,
         "name": "BankMaster-View",
-        "url": "url",
+        "url": "url1",
         "parentModule": "",
         "displayName": "View Bank",
         "orderNumber": 2,
@@ -10163,7 +10163,7 @@
     {
         "id": 4668,
         "name": "BankMaster-Create",
-        "url": "url",
+        "url": "url1",
         "parentModule": "",
         "displayName": "Create Bank Account",
         "orderNumber": 7,
@@ -10177,7 +10177,7 @@
     {
         "id": 4669,
         "name": "BankMaster-view",
-        "url": "url",
+        "url": "url1",
         "parentModule": "",
         "displayName": "View Bank Account",
         "orderNumber": 8,
@@ -10191,7 +10191,7 @@
     {
         "id": 4670,
         "name": "BankMaster-Modify",
-        "url": "url",
+        "url": "url1",
         "parentModule": "",
         "displayName": "Modify Bank Account",
         "orderNumber": 9,
@@ -10205,7 +10205,7 @@
     {
         "id": 4671,
         "name": "BankBranch-Create",
-        "url": "url",
+        "url": "url1",
         "parentModule": "",
         "displayName": "Create Bank Branch",
         "orderNumber": 4,
@@ -10219,7 +10219,7 @@
     {
         "id": 4672,
         "name": "BankBranch-view",
-        "url": "url",
+        "url": "url1",
         "parentModule": "",
         "displayName": "View Bank Branch",
         "orderNumber": 5,
@@ -10233,7 +10233,7 @@
     {
         "id": 4673,
         "name": "BankMaster-Modify",
-        "url": "url",
+        "url": "url1",
         "parentModule": "",
         "displayName": "Modify Bank Branch",
         "orderNumber": 6,
@@ -10247,7 +10247,7 @@
     {
         "id": 4674,
         "name": "openingbalance create",
-        "url": "url",
+        "url": "url1",
         "parentModule": "",
         "displayName": "Opening Balance Entry",
         "orderNumber": 10,
@@ -10313,7 +10313,7 @@
     {
         "id": 4679,
         "name": "createAccountEntiy",
-        "url": "url",
+        "url": "url1",
         "displayName": "Create Subledger Category",
         "orderNumber": 1,
         "parentModule": "",
@@ -10327,7 +10327,7 @@
     {
         "id": 4680,
         "name": "updateAccountEntiy",
-        "url": "url",
+        "url": "url1",
         "displayName": "Modify Subledger Category",
         "orderNumber": 3,
         "parentModule": "",
@@ -10454,7 +10454,7 @@
     {
         "id": 4690,
         "name": "TradeLicenseSearch",
-        "url": "url",
+        "url": "url1",
         "displayName": "Search",
         "orderNumber": 13,
         "parentModule": "",
@@ -10468,7 +10468,7 @@
     {
         "id": 4691,
         "name": "Misc.Receipts",
-        "url": "url",
+        "url": "url1",
         "displayName": "Miscellaneous Receipts",
         "orderNumber": 1,
         "parentModule": "",
@@ -10494,7 +10494,7 @@
     {
         "id": 4693,
         "name": "Receipts Search",
-        "url": "url",
+        "url": "url1",
         "displayName": "Search Receipts",
         "orderNumber": 2,
         "parentModule": "",
@@ -10556,7 +10556,7 @@
     {
         "id": 4698,
         "name": "Cash Remittance",
-        "url": "url",
+        "url": "url1",
         "displayName": "Cash Remittance",
         "orderNumber": 3,
         "parentModule": "",
@@ -10593,7 +10593,7 @@
     {
         "id": 4703,
         "name": "Cheque Remittance",
-        "url": "url",
+        "url": "url1",
         "displayName": "Cheque Remittance",
         "orderNumber": 4,
         "parentModule": "",
@@ -10607,7 +10607,7 @@
     {
         "id": 4704,
         "name": "Service Bankaccount",
-        "url": "url",
+        "url": "url1",
         "displayName": "Create Bankaccount Mapping",
         "orderNumber": 5,
         "parentModule": "",
@@ -10621,7 +10621,7 @@
     {
         "id": 4705,
         "name": "Service Bankaccount",
-        "url": "url",
+        "url": "url1",
         "displayName": "View Bankaccount Mapping",
         "orderNumber": 6,
         "parentModule": "",
@@ -10657,7 +10657,7 @@
     {
         "id": 4708,
         "name": "ReceiptRegisterMisc",
-        "url": "url",
+        "url": "url1",
         "displayName": "Receipt Register",
         "orderNumber": 7,
         "enabled": true,
@@ -10692,7 +10692,7 @@
     {
         "id": 4711,
         "name": "ConsumersDashboard",
-        "url": "url",
+        "url": "url1",
         "displayName": "Consumers Dashboard",
         "orderNumber": 1,
         "parentModule": "W&S",
@@ -10707,7 +10707,7 @@
     {
         "id": 4712,
         "name": "CollectionsTrend",
-        "url": "url",
+        "url": "url1",
         "displayName": "Collections Trend",
         "orderNumber": 2,
         "parentModule": "W&S",
@@ -10722,7 +10722,7 @@
     {
         "id": 4713,
         "name": "Collections",
-        "url": "url",
+        "url": "url1",
         "displayName": "Collections",
         "orderNumber": 3,
         "parentModule": "W&S",
@@ -10737,7 +10737,7 @@
     {
         "id": 4714,
         "name": "FinancialIndicators",
-        "url": "url",
+        "url": "url1",
         "displayName": "Financial Indicators",
         "orderNumber": 4,
         "parentModule": "W&S",
@@ -10752,7 +10752,7 @@
     {
         "id": 4716,
         "name": "TradeWiseCollectionReport",
-        "url": "url",
+        "url": "url1",
         "displayName": "Trade Wise Collection Report",
         "orderNumber": 2,
         "parentModule": "rainmaker-tl",
@@ -10767,7 +10767,7 @@
     {
         "id": 4718,
         "name": "StateLevelStatus",
-        "url": "url",
+        "url": "url1",
         "displayName": "State Level Status",
         "orderNumber": 6,
         "parentModule": "rainmaker-tl",
@@ -10782,7 +10782,7 @@
     {
         "id": 4719,
         "name": "StateLevelTradeWiseCollection",
-        "url": "url",
+        "url": "url1",
         "displayName": "State Level Trade Wise Collection",
         "orderNumber": 5,
         "parentModule": "rainmaker-tl",
@@ -10797,7 +10797,7 @@
     {
         "id": 4720,
         "name": "StateLevelTradeLicenseRegistryReport",
-        "url": "url",
+        "url": "url1",
         "displayName": "State Level Trade License Registry Report",
         "orderNumber": 4,
         "parentModule": "rainmaker-tl",
@@ -10812,7 +10812,7 @@
     {
         "id": 4721,
         "name": "remittancepayment",
-        "url": "url",
+        "url": "url1",
         "displayName": "Deduction Payments",
         "orderNumber": 4,
         "parentModule": "",
@@ -10826,7 +10826,7 @@
     {
         "id": 4722,
         "name": "BankRemittance",
-        "url": "url",
+        "url": "url1",
         "displayName": "Bank Remittance",
         "orderNumber": 8,
         "enabled": true,
@@ -10839,7 +10839,7 @@
     {
         "id": 4723,
         "name": "remittancechequeassignment",
-        "url": "url",
+        "url": "url1",
         "displayName": "Deductions Cheque Assignment",
         "orderNumber": 5,
         "parentModule": "",
@@ -10864,7 +10864,7 @@
     {
         "id": 4725,
         "name": "purchaseordercreate",
-        "url": "url",
+        "url": "url1",
         "displayName": "Create Purchase Order",
         "orderNumber": 12,
         "parentModule": "",
@@ -10878,7 +10878,7 @@
     {
         "id": 4726,
         "name": "purchaseorderview",
-        "url": "url",
+        "url": "url1",
         "displayName": "View Purchase Order",
         "orderNumber": 12,
         "parentModule": "",
@@ -10892,7 +10892,7 @@
     {
         "id": 4727,
         "name": "purchaseordermodify",
-        "url": "url",
+        "url": "url1",
         "displayName": "Modify Purchase Order",
         "orderNumber": 13,
         "parentModule": "",
@@ -10946,7 +10946,7 @@
     {
         "id": 4731,
         "name": "workordercreate",
-        "url": "url",
+        "url": "url1",
         "displayName": "Create Work Order",
         "orderNumber": 13,
         "parentModule": "",
@@ -10960,7 +10960,7 @@
     {
         "id": 4732,
         "name": "workorderview",
-        "url": "url",
+        "url": "url1",
         "displayName": "View Work Order",
         "orderNumber": 14,
         "parentModule": "",
@@ -10974,7 +10974,7 @@
     {
         "id": 4733,
         "name": "workordermodify",
-        "url": "url",
+        "url": "url1",
         "displayName": "Modify Work Order",
         "orderNumber": 15,
         "parentModule": "",
@@ -11000,7 +11000,7 @@
     {
         "id": 4735,
         "name": "PendingDeductions",
-        "url": "url",
+        "url": "url1",
         "displayName": "Remittance Pending",
         "orderNumber": 6,
         "enabled": true,
@@ -11013,7 +11013,7 @@
     {
         "id": 4736,
         "name": "DeductionSummary",
-        "url": "url",
+        "url": "url1",
         "displayName": "Deductions Summary",
         "orderNumber": 7,
         "enabled": true,
@@ -11026,7 +11026,7 @@
     {
         "id": 4737,
         "name": "UploaderHome",
-        "url": "url",
+        "url": "url1",
         "displayName": "Home",
         "orderNumber": 13,
         "parentModule": "",
@@ -11116,7 +11116,7 @@
         "id": 4744,
         "name": "Financial Contractor bill create",
         "navigationURL": "services/EGF/contractorbill/newform",
-        "url": "url",
+        "url": "url1",
         "parentModule": "EGF",
         "displayName": "Contractor Bill",
         "orderNumber": 2,
@@ -11130,7 +11130,7 @@
         "id": 4745,
         "name": "Financial Supplier bill create",
         "navigationURL": "services/EGF/supplierbill/newform",
-        "url": "url",
+        "url": "url1",
         "parentModule": "EGF",
         "displayName": "Supplier Bill",
         "orderNumber": 3,
@@ -11156,7 +11156,7 @@
         "id": 4747,
         "name": "Financial Bank to Bank Transfer",
         "navigationURL": "services/EGF/contra/contraBTB-newform.action",
-        "url": "url",
+        "url": "url1",
         "parentModule": "EGF",
         "displayName": "Bank to Bank Transfer",
         "orderNumber": 1,
@@ -11169,7 +11169,7 @@
     {
         "id": 4748,
         "name": "EmployeeDirectory",
-        "url": "url",
+        "url": "url1",
         "displayName": "Employee Directory",
         "orderNumber": 1,
         "parentModule": "rainmaker-pgr",
@@ -11184,7 +11184,7 @@
     {
         "id": 4749,
         "name": "ContactUs",
-        "url": "url",
+        "url": "url1",
         "displayName": "Contact Us",
         "orderNumber": 1,
         "parentModule": "rainmaker-pgr",
@@ -11236,7 +11236,7 @@
         "id": 4753,
         "name": "Income - Expenditures Statement",
         "navigationURL": "services/EGF/report/incomeExpenditureReport-generateIncomeExpenditureReport.action",
-        "url": "url",
+        "url": "url1",
         "parentModule": "EGF",
         "displayName": "Income - Expenditures Statement",
         "orderNumber": 1,
@@ -11250,7 +11250,7 @@
         "id": 4754,
         "name": "Balance Sheet",
         "navigationURL": "services/EGF/report/balanceSheetReport-generateBalanceSheetReport.action",
-        "url": "url",
+        "url": "url1",
         "parentModule": "EGF",
         "displayName": "Balance Sheet",
         "orderNumber": 2,
@@ -11264,7 +11264,7 @@
         "id": 4755,
         "name": "createBudgetGroup_Master",
         "navigationURL": "services/EGF/budgetgroup/new",
-        "url": "url",
+        "url": "url1",
         "parentModule": "EGF",
         "displayName": "Create Budget Group",
         "orderNumber": 1,
@@ -11278,7 +11278,7 @@
         "id": 4756,
         "name": "viewBudgetGroup_Master",
         "navigationURL": "services/EGF/budgetgroup/search/view",
-        "url": "url",
+        "url": "url1",
         "parentModule": "EGF",
         "displayName": "View Budget Group",
         "orderNumber": 2,
@@ -11292,7 +11292,7 @@
         "id": 4757,
         "name": "updateBudgetGroup_Master",
         "navigationURL": "services/EGF/budgetgroup/search/edit",
-        "url": "url",
+        "url": "url1",
         "parentModule": "EGF",
         "displayName": "Modify Budget Group",
         "orderNumber": 3,
@@ -11306,7 +11306,7 @@
         "id": 4758,
         "name": "createBudgetDefinition_Master",
         "navigationURL": "services/EGF/budgetdefinition/new",
-        "url": "url",
+        "url": "url1",
         "parentModule": "EGF",
         "displayName": "Create Budget Definition",
         "orderNumber": 1,
@@ -11320,7 +11320,7 @@
         "id": 4759,
         "name": "viewBudgetDefinition_Master",
         "navigationURL": "services/EGF/budgetdefinition/search/view",
-        "url": "url",
+        "url": "url1",
         "parentModule": "EGF",
         "displayName": "View Budget Definition",
         "orderNumber": 2,
@@ -11334,7 +11334,7 @@
         "id": 4760,
         "name": "updateBudgetDefinition_Master",
         "navigationURL": "services/EGF/budgetdefinition/search/edit",
-        "url": "url",
+        "url": "url1",
         "parentModule": "EGF",
         "displayName": "Modify Budget Definition",
         "orderNumber": 3,
@@ -11348,7 +11348,7 @@
         "id": 4761,
         "name": "Budget Additional Appropriation",
         "navigationURL": "services/EGF/budget/budgetReAppropriation.action",
-        "url": "url",
+        "url": "url1",
         "parentModule": "EGF",
         "displayName": "Budget Additional Appropriation",
         "orderNumber": 3,
@@ -11362,7 +11362,7 @@
         "id": 4762,
         "name": "uploadBudget_Master",
         "navigationURL": "services/EGF/budget/budgetLoad-beforeUpload.action",
-        "url": "url",
+        "url": "url1",
         "parentModule": "EGF",
         "displayName": "Upload Budget",
         "orderNumber": 5,
@@ -11376,7 +11376,7 @@
         "id": 4763,
         "name": "searchBudget_Master",
         "navigationURL": "services/EGF/approvebudget/search",
-        "url": "url",
+        "url": "url1",
         "parentModule": "EGF",
         "displayName": "Approve Uploaded Budget",
         "orderNumber": 6,
@@ -11390,7 +11390,7 @@
         "id": 4764,
         "name": "searchBudget_Master",
         "navigationURL": "services/EGF/budget/budgetSearch.action",
-        "url": "url",
+        "url": "url1",
         "parentModule": "EGF",
         "displayName": "Search Budget",
         "orderNumber": 7,
@@ -11404,7 +11404,7 @@
         "id": 4765,
         "name": "budgetControlTypeSetUp",
         "navigationURL": "services/EGF/budgetcheckconfig/new",
-        "url": "url",
+        "url": "url1",
         "parentModule": "EGF",
         "displayName": "Create/Update-Budget Control Type",
         "orderNumber": 7,
@@ -11433,7 +11433,7 @@
     {
         "id": 4767,
         "name": "departmentwiseBudgetReports_master",
-        "url": "url",
+        "url": "url1",
         "parentModule": "EGF",
         "displayName": "Departmentwise Budget",
         "orderNumber": 1,
@@ -11447,7 +11447,7 @@
     {
         "id": 4768,
         "name": "functioniseBudgetReports_master",
-        "url": "url",
+        "url": "url1",
         "parentModule": "EGF",
         "displayName": "Functionwise Budget",
         "orderNumber": 2,
@@ -11461,7 +11461,7 @@
     {
         "id": 4769,
         "name": "budgetWatchRegister_master",
-        "url": "url",
+        "url": "url1",
         "parentModule": "EGF",
         "displayName": "Budget Watch Register",
         "orderNumber": 3,
@@ -11475,7 +11475,7 @@
     {
         "id": 4770,
         "name": "budgetVarianceReport_master",
-        "url": "url",
+        "url": "url1",
         "parentModule": "EGF",
         "displayName": "Budget Variance Report",
         "orderNumber": 4,
@@ -11489,7 +11489,7 @@
     {
         "id": 4771,
         "name": "budgetUploadReport_master",
-        "url": "url",
+        "url": "url1",
         "parentModule": "EGF",
         "displayName": "Budget Upload Report",
         "orderNumber": 5,
@@ -11515,7 +11515,7 @@
     {
         "id": 4773,
         "name": "HRMS",
-        "url": "url",
+        "url": "url1",
         "displayName": "Search Employee",
         "orderNumber": 2,
         "parentModule": "",
@@ -11717,7 +11717,7 @@
     {
         "id": 4792,
         "name": "Financial Year-SetUp",
-        "url": "url",
+        "url": "url1",
         "parentModule": "",
         "displayName": "View Financial Year",
         "orderNumber": 1,
@@ -11731,7 +11731,7 @@
     {
         "id": 4793,
         "name": "Financial Year-SetUp",
-        "url": "url",
+        "url": "url1",
         "parentModule": "",
         "displayName": "Edit Financial Year",
         "orderNumber": 2,
@@ -11745,7 +11745,7 @@
     {
         "id": 4794,
         "name": "Financial Year-SetUp",
-        "url": "url",
+        "url": "url1",
         "parentModule": "",
         "displayName": "Transfer Closing Balance",
         "orderNumber": 2,
@@ -11759,7 +11759,7 @@
     {
         "id": 4795,
         "name": "Financial Year-SetUp",
-        "url": "url",
+        "url": "url1",
         "parentModule": "",
         "displayName": "Close Period",
         "orderNumber": 3,
@@ -11773,7 +11773,7 @@
     {
         "id": 4796,
         "name": "Financial Year-SetUp",
-        "url": "url",
+        "url": "url1",
         "parentModule": "",
         "displayName": "Create Financial Year",
         "orderNumber": 2,
@@ -11823,7 +11823,7 @@
     {
         "id": 4800,
         "name": "FIRE-NOC",
-        "url": "url",
+        "url": "url1",
         "displayName": "Search",
         "orderNumber": 2,
         "parentModule": "",
@@ -11853,7 +11853,7 @@
     {
         "id": 4802,
         "name": "Universal Collection",
-        "url": "url",
+        "url": "url1",
         "displayName": "Universal Collection",
         "orderNumber": 4,
         "parentModule": "",
@@ -11867,7 +11867,7 @@
     {
         "id": 4803,
         "name": "Receipts",
-        "url": "url",
+        "url": "url1",
         "displayName": "Receipts",
         "orderNumber": 4,
         "parentModule": "",
@@ -11893,7 +11893,7 @@
     {
         "id": 4805,
         "name": "Complaints",
-        "url": "url",
+        "url": "url1",
         "displayName": "Complaints",
         "orderNumber": 1,
         "parentModule": "rainmaker-pgr",
@@ -11908,7 +11908,7 @@
     {
         "id": 4806,
         "name": "PropertyTax",
-        "url": "url",
+        "url": "url1",
         "displayName": "Property Tax",
         "orderNumber": 1,
         "queryParams": "",
@@ -11923,7 +11923,7 @@
     {
         "id": 4807,
         "name": "TradeLicense",
-        "url": "url",
+        "url": "url1",
         "displayName": "Trade License",
         "orderNumber": 13,
         "parentModule": "",
@@ -11938,7 +11938,7 @@
     {
         "id": 4808,
         "name": "CollectionRegister",
-        "url": "url",
+        "url": "url1",
         "displayName": "Collection Register",
         "orderNumber": 1,
         "enabled": true,
@@ -11951,7 +11951,7 @@
     {
         "id": 4809,
         "name": "CollectionReport",
-        "url": "url",
+        "url": "url1",
         "displayName": "Collection Report",
         "orderNumber": 3,
         "parentModule": "",
@@ -11966,7 +11966,7 @@
     {
         "id": 4810,
         "name": "ApplicationStatusReport",
-        "url": "url",
+        "url": "url1",
         "displayName": "Application Status Report",
         "orderNumber": 4,
         "parentModule": "",
@@ -11981,7 +11981,7 @@
     {
         "id": 4811,
         "name": "ChannelsReport",
-        "url": "url",
+        "url": "url1",
         "displayName": "Channels Report",
         "orderNumber": 5,
         "parentModule": "",
@@ -12242,7 +12242,7 @@
     {
         "id": 4833,
         "name": "ULBInformation",
-        "url": "url",
+        "url": "url1",
         "displayName": "ULB Information",
         "orderNumber": 1,
         "parentModule": "",
@@ -12279,7 +12279,7 @@
     {
         "id": 4836,
         "name": "remittancertgsassignment",
-        "url": "url",
+        "url": "url1",
         "displayName": "Deductions RTGS Assignment",
         "orderNumber": 5,
         "parentModule": "",
@@ -12294,7 +12294,7 @@
         "id": 4837,
         "name": "Financial Bank Reconcilation",
         "navigationURL": "services/EGF/brs/manualReconciliation-newForm.action",
-        "url": "url",
+        "url": "url1",
         "parentModule": "EGF",
         "displayName": "Reconcile with Bank-Manual",
         "orderNumber": 1,
@@ -12308,7 +12308,7 @@
         "id": 4838,
         "name": "Bank Statement Entries - Not In Bank Book",
         "navigationURL": "services/EGF/payment/bankEntriesNotInBankBook-newform.action",
-        "url": "url",
+        "url": "url1",
         "parentModule": "EGF",
         "displayName": "Bank Statement Entries - Not In Bank Book",
         "orderNumber": 1,
@@ -12322,7 +12322,7 @@
         "id": 4839,
         "name": "Reconciliation Summary Report",
         "navigationURL": "services/EGF/brs/bankReconciliation-newForm.action",
-        "url": "url",
+        "url": "url1",
         "parentModule": "EGF",
         "displayName": "Reconciliation Summary Report",
         "orderNumber": 1,
@@ -12336,7 +12336,7 @@
         "id": 4840,
         "name": "COA Report",
         "navigationURL": "services/EGF/masters/coareport/search",
-        "url": "url",
+        "url": "url1",
         "parentModule": "EGF",
         "displayName": "COA Report",
         "orderNumber": 3,
@@ -12349,7 +12349,7 @@
     {
         "id": 4841,
         "name": "TradeLicenseApplication",
-        "url": "url",
+        "url": "url1",
         "displayName": "Apply",
         "orderNumber": 13,
         "parentModule": "",
@@ -12648,7 +12648,7 @@
         "id": 4867,
         "name": "Auto reconcile- Statement Upload",
         "navigationURL": "services/EGF/brs/autoReconciliation-beforeUpload.action",
-        "url": "url",
+        "url": "url1",
         "parentModule": "EGF",
         "displayName": "Auto reconcile- Statement Upload",
         "orderNumber": 4,
@@ -12662,7 +12662,7 @@
         "id": 4868,
         "name": "Reconcile Uploaded Statement",
         "navigationURL": "services/EGF/brs/autoReconciliation-newForm.action",
-        "url": "url",
+        "url": "url1",
         "parentModule": "EGF",
         "displayName": "Reconcile Uploaded Statement",
         "orderNumber": 5,
@@ -12700,7 +12700,7 @@
         "id": 4871,
         "name": "View Bank Statement Uploaded Files",
         "navigationURL": "services/EGF/bankstatement/search",
-        "url": "url",
+        "url": "url1",
         "parentModule": "EGF",
         "displayName": "View Bank Statement Uploaded Files",
         "orderNumber": 6,
@@ -12724,7 +12724,7 @@
     {
         "id": 4873,
         "name": "Financial Year-SetUp",
-        "url": "url",
+        "url": "url1",
         "parentModule": "",
         "displayName": "Close Financial Year",
         "orderNumber": 4,
@@ -12798,7 +12798,7 @@
     {
         "id": 4879,
         "name": "BPAStakeHolderSearch",
-        "url": "url",
+        "url": "url1",
         "displayName": "BPA Stake Holder Search",
         "orderNumber": 1,
         "parentModule": "rainmaker-bpa",
@@ -12813,7 +12813,7 @@
     {
         "id": 4880,
         "name": "BPAStakeHolderHome",
-        "url": "url",
+        "url": "url1",
         "displayName": "BPA Stake Holder Home",
         "orderNumber": 2,
         "parentModule": "rainmaker-bpa",
@@ -12828,7 +12828,7 @@
     {
         "id": 4922,
         "name": "eDCRScrutinyHome",
-        "url": "url",
+        "url": "url1",
         "displayName": "eDCR Scrutiny Home",
         "orderNumber": 1,
         "parentModule": "rainmaker-edcr",
@@ -12876,7 +12876,7 @@
     {
         "id": 4884,
         "name": "rainmaker-citizen-wns",
-        "url": "url",
+        "url": "url1",
         "displayName": "Water & Sewerage",
         "orderNumber": 13,
         "parentModule": "",
@@ -12891,7 +12891,7 @@
     {
         "id": 4885,
         "name": "Water & Sewerage",
-        "url": "url",
+        "url": "url1",
         "displayName": "Water & Sewerage",
         "orderNumber": 13,
         "parentModule": "",
@@ -12906,7 +12906,7 @@
     {
         "id": 4886,
         "name": "Dashboard Home",
-        "url": "url",
+        "url": "url1",
         "displayName": "SURE Dashboard",
         "orderNumber": 2,
         "parentModule": "dss-dashboard",
@@ -12921,7 +12921,7 @@
     {
         "id": 4887,
         "name": "Dashboard Property Tax",
-        "url": "url",
+        "url": "url1",
         "displayName": "Property Tax",
         "orderNumber": 4,
         "parentModule": "dss-dashboard",
@@ -12936,7 +12936,7 @@
     {
         "id": 4888,
         "name": "Dashboard Home",
-        "url": "url",
+        "url": "url1",
         "displayName": "Tradelicense",
         "orderNumber": 5,
         "parentModule": "dss-dashboard",
@@ -12975,7 +12975,7 @@
     {
         "id": 4891,
         "name": "Close period",
-        "url": "url",
+        "url": "url1",
         "parentModule": "",
         "displayName": "Close Period",
         "orderNumber": 3,
@@ -13037,7 +13037,7 @@
     {
         "id": 5011,
         "name": "Dashboard Water Sewerage",
-        "url": "url",
+        "url": "url1",
         "displayName": "Water Sewerage",
         "orderNumber": 11,
         "parentModule": "dss-dashboard",
@@ -13528,7 +13528,7 @@
     {
         "id": 4923,
         "name": "Dashboard PGR",
-        "url": "url",
+        "url": "url1",
         "displayName": "PGR",
         "orderNumber": 6,
         "parentModule": "dss-dashboard",
@@ -13653,7 +13653,7 @@
     {
         "id": 4949,
         "name": "Dashboard Overview",
-        "url": "url",
+        "url": "url1",
         "displayName": "Overview",
         "orderNumber": 3,
         "parentModule": "dss-dashboard",
@@ -13753,7 +13753,7 @@
     {
         "id": 4959,
         "name": "Surrendered Cheque",
-        "url": "url",
+        "url": "url1",
         "parentModule": "",
         "displayName": "Surrendered Cheque",
         "orderNumber": 6,
@@ -13893,7 +13893,7 @@
     {
         "id": 4971,
         "name": "Reopening Closed Period",
-        "url": "url",
+        "url": "url1",
         "parentModule": "",
         "displayName": "Reopening Closed Period",
         "orderNumber": 4,
@@ -13963,7 +13963,7 @@
     {
         "id": 4979,
         "name": "Remittance Collection Report",
-        "url": "url",
+        "url": "url1",
         "parentModule": "",
         "displayName": "Remittance Collection Report",
         "orderNumber": 6,
@@ -13977,7 +13977,7 @@
     {
         "id": 4980,
         "name": "rainmaker-localization-screen",
-        "url": "url",
+        "url": "url1",
         "displayName": "Localization",
         "orderNumber": 5,
         "parentModule": "",
@@ -13993,7 +13993,7 @@
     {
         "id": 4981,
         "name": "Dishonor Cheque/DD",
-        "url": "url",
+        "url": "url1",
         "parentModule": "",
         "displayName": "Dishonor Cheque/DD",
         "orderNumber": 1,
@@ -14007,7 +14007,7 @@
     {
         "id": 4982,
         "name": "Dishonored Cheque Report ",
-        "url": "url",
+        "url": "url1",
         "parentModule": "",
         "displayName": "Dishonored Cheque Report ",
         "orderNumber": 7,
@@ -14021,7 +14021,7 @@
     {
         "id": 4983,
         "name": "Remittance Pending Report",
-        "url": "url",
+        "url": "url1",
         "parentModule": "",
         "displayName": "Remittance Pending Report",
         "orderNumber": 6,
@@ -14314,7 +14314,7 @@
     {
         "id": 5026,
         "name": "ULBReport",
-        "url": "url",
+        "url": "url1",
         "displayName": "ULB Report",
         "orderNumber": 6,
         "parentModule": "pgr",
@@ -14329,7 +14329,7 @@
     {
         "id": 5025,
         "name": "DescriptionReport",
-        "url": "url",
+        "url": "url1",
         "displayName": "Description Report",
         "orderNumber": 6,
         "parentModule": "pgr",
@@ -14344,7 +14344,7 @@
     {
         "id": 5012,
         "name": "LMEPerformanceReport",
-        "url": "url",
+        "url": "url1",
         "displayName": "LME Performance Report",
         "orderNumber": 6,
         "parentModule": "pgr",
@@ -14359,7 +14359,7 @@
     {
         "id": 5013,
         "name": "GROPerformanceReport",
-        "url": "url",
+        "url": "url1",
         "displayName": "GRO Performance Report",
         "orderNumber": 6,
         "parentModule": "pgr",
@@ -14488,7 +14488,7 @@
     {
         "id": 5024,
         "name": "BillAmendment",
-        "url": "url",
+        "url": "url1",
         "displayName": "BillAmendment",
         "orderNumber": 23,
         "parentModule": "",
@@ -14538,7 +14538,7 @@
     {
         "id": 5030,
         "name": "ReceiptCancellation",
-        "url": "url",
+        "url": "url1",
         "displayName": "ReceiptCancellation",
         "orderNumber": 24,
         "parentModule": "",
@@ -14724,7 +14724,7 @@
     {
         "id": 4555,
         "name": "AllComplaints",
-        "url": "url",
+        "url": "url1",
         "displayName": "All Complaints",
         "orderNumber": 1,
         "parentModule": "rainmaker-pgr",
@@ -14847,7 +14847,7 @@
     {
         "id": 5056,
         "name": "EmployeeReport",
-        "url": "url",
+        "url": "url1",
         "displayName": "Employee Report",
         "orderNumber": 1,
         "parentModule": "",
@@ -15090,7 +15090,7 @@
         "displayName": "CreateNewApplication",
         "orderNumber": 0,
         "leftIcon": "",
-        "url": "url",
+        "url": "url1",
         "name": "FSM EMPLOYEE CREATE NEW APPLICATION",
         "enabled": true,
         "navigationURL": "digit-ui/employee/fsm/new-application",
@@ -15104,7 +15104,7 @@
         "displayName": "EmployeeInbox",
         "orderNumber": 0,
         "leftIcon": "",
-        "url": "url",
+        "url": "url1",
         "name": "FSM EMPLOYEE INBOX",
         "enabled": true,
         "navigationURL": "digit-ui/employee/fsm/Inbox",
@@ -15118,7 +15118,7 @@
         "displayName": "EditApplication",
         "orderNumber": 0,
         "leftIcon": "",
-        "url": "url",
+        "url": "url1",
         "name": "FSM EMPLOYEE EDIT APPLICATION",
         "enabled": true,
         "navigationURL": "/digit-ui/employee/fsm/modify-application/:id",
@@ -15132,7 +15132,7 @@
         "displayName": "CollectPayment",
         "orderNumber": 0,
         "leftIcon": "",
-        "url": "url",
+        "url": "url1",
         "name": "FSM EMPLOYEE COLLECT PAYMENT",
         "enabled": true,
         "navigationURL": "/digit-ui/employee/fsm/collect-payment",
@@ -15146,7 +15146,7 @@
         "displayName": "FstpInbox",
         "orderNumber": 0,
         "leftIcon": "",
-        "url": "url",
+        "url": "url1",
         "name": "FSM FSTP INBOX",
         "enabled": true,
         "navigationURL": "/digit-ui/employee/fsm/fstp-inbox",
@@ -15160,7 +15160,7 @@
         "displayName": "FstpDetails",
         "orderNumber": 0,
         "leftIcon": "",
-        "url": "url",
+        "url": "url1",
         "name": "FSM FSTP DETAILS",
         "enabled": true,
         "navigationURL": "/digit-ui/employee/fsm/fstp-operator-details/:id",
@@ -15174,7 +15174,7 @@
         "displayName": "SearchApplication",
         "orderNumber": 0,
         "leftIcon": "",
-        "url": "url",
+        "url": "url1",
         "name": "FSM EMPLOYEE SEARCH APPLICATION",
         "enabled": true,
         "navigationURL": "/digit-ui/employee/fsm/search",
@@ -15188,7 +15188,7 @@
         "displayName": "DsoDashboard",
         "orderNumber": 0,
         "leftIcon": "",
-        "url": "url",
+        "url": "url1",
         "name": "FSM DSO DASHBOARD",
         "enabled": true,
         "navigationURL": "/digit-ui/citizen/dso-dashboard",
@@ -15291,7 +15291,7 @@
     {
         "id": 5092,
         "name": "MiscReceiptRegister",
-        "url": "url",
+        "url": "url1",
         "displayName": "Miscellaneous Receipt Register ULB",
         "orderNumber": 1,
         "enabled": true,
@@ -15340,7 +15340,7 @@
     {
         "id": 5096,
         "name": "MiscBusinessServiceCollectionTenant",
-        "url": "url",
+        "url": "url1",
         "displayName": "Misc Business Service Collections",
         "orderNumber": 1,
         "enabled": true,
@@ -15353,7 +15353,7 @@
     {
         "id": 5097,
         "name": "MiscReceiptCB",
-        "url": "url",
+        "url": "url1",
         "displayName": "Miscellaneous Consumer Receipts",
         "orderNumber": 1,
         "enabled": true,
@@ -15502,7 +15502,7 @@
     {
         "id": 5110,
         "name": "Challan Register",
-        "url": "url",
+        "url": "url1",
         "displayName": "Challan Register",
         "orderNumber": 9,
         "parentModule": "rainmaker-uc",
@@ -15581,7 +15581,7 @@
     {
         "id": 5116,
         "name": "Receipts",
-        "url": "url",
+        "url": "url1",
         "displayName": "Receipts",
         "orderNumber": 14,
         "parentModule": "",
@@ -15606,7 +15606,7 @@
     {
         "id": 5118,
         "name": "Universal Collection",
-        "url": "url",
+        "url": "url1",
         "displayName": "Universal Collection(MCollect)",
         "orderNumber": 3,
         "parentModule": "",
@@ -15862,7 +15862,7 @@
     {
         "id": 5140,
         "name": "FSMDailyCollectionReport",
-        "url": "url",
+        "url": "url1",
         "displayName": "FSM Daily Collection Report",
         "orderNumber": 2,
         "parentModule": "",
@@ -15877,7 +15877,7 @@
     {
         "id": 5141,
         "name": "FSMRequestReport",
-        "url": "url",
+        "url": "url1",
         "displayName": "FSM Desludging Request Report",
         "orderNumber": 3,
         "parentModule": "",
@@ -15947,7 +15947,7 @@
     {
         "id": 5147,
         "name": "FSMVehicleLogReport",
-        "url": "url",
+        "url": "url1",
         "displayName": "FSM Vechile Log Report",
         "orderNumber": 1,
         "parentModule": "",
@@ -16018,7 +16018,7 @@
     {
         "id": 5153,
         "name": "PTReceiptCancellation",
-        "url": "url",
+        "url": "url1",
         "displayName": "PTReceiptCancellation",
         "orderNumber": 24,
         "parentModule": "",
@@ -16071,7 +16071,7 @@
     {
         "id": 5157,
         "name": "MCollectChallanRegister",
-        "url": "url",
+        "url": "url1",
         "displayName": "Challan Register Report",
         "orderNumber": 1,
         "parentModule": "",
@@ -16108,7 +16108,7 @@
     {
         "id": 5160,
         "name": "DefaulterReport",
-        "url": "url",
+        "url": "url1",
         "displayName": "Defaulter Report",
         "orderNumber": 1,
         "parentModule": "",
@@ -16145,7 +16145,7 @@
     {
         "id": 5163,
         "name": "ReceiptRegisterReport",
-        "url": "url",
+        "url": "url1",
         "displayName": "Recepit Report",
         "orderNumber": 1,
         "parentModule": "",
@@ -16182,7 +16182,7 @@
     {
         "id": 5166,
         "name": "PTCollectionReport",
-        "url": "url",
+        "url": "url1",
         "displayName": "PTCollection Report",
         "orderNumber": 1,
         "parentModule": "",
@@ -16219,7 +16219,7 @@
     {
         "id": 5169,
         "name": "MCollectCollectionReport",
-        "url": "url",
+        "url": "url1",
         "displayName": "Collection Report",
         "orderNumber": 1,
         "parentModule": "",
@@ -16278,7 +16278,7 @@
     {
         "id": 5174,
         "name": "MCollectReceiptRegister",
-        "url": "url",
+        "url": "url1",
         "displayName": "Recepit Register",
         "orderNumber": 1,
         "parentModule": "",
@@ -16327,7 +16327,7 @@
     {
         "id": 5178,
         "name": "BillGenieSearch",
-        "url": "url",
+        "url": "url1",
         "displayName": "BillGenie",
         "orderNumber": 5,
         "parentModule": "",
@@ -16341,7 +16341,7 @@
     {
         "id": 5179,
         "name": "CurrentBillCancellationSearch",
-        "url": "url",
+        "url": "url1",
         "displayName": "CurrentBillCancellation",
         "orderNumber": 6,
         "parentModule": "",
@@ -16367,7 +16367,7 @@
     {
         "id": 5181,
         "name": "Dashboard FSM",
-        "url": "url",
+        "url": "url1",
         "displayName": "FSM",
         "orderNumber": 14,
         "parentModule": "dss-dashboard",
@@ -18011,7 +18011,7 @@
     {
         "id": 5318,
         "name": "DownloadBillsSearch",
-        "url": "url",
+        "url": "url1",
         "displayName": "DownloadBills",
         "orderNumber": 6,
         "parentModule": "",
@@ -18107,7 +18107,7 @@
     {
         "id": 5326,
         "name": "National Dashboard Property Tax",
-        "url": "url",
+        "url": "url1",
         "displayName": "National Property Tax",
         "orderNumber": 4,
         "parentModule": "ndss-dashboard",
@@ -18134,7 +18134,7 @@
     {
         "id": 5328,
         "name": "National Urban Realtime Dashboard",
-        "url": "url",
+        "url": "url1",
         "displayName": "National Urban Realtime Dashboard",
         "orderNumber": 3,
         "parentModule": "ndss-dashboard",
@@ -18161,7 +18161,7 @@
     {
         "id": 5330,
         "name": "National Dashboard Fire Noc",
-        "url": "url",
+        "url": "url1",
         "displayName": "National Fire Noc",
         "orderNumber": 4,
         "parentModule": "ndss-dashboard",
@@ -18188,7 +18188,7 @@
     {
         "id": 5332,
         "name": "National Dashboard Water & Sewerage",
-        "url": "url",
+        "url": "url1",
         "displayName": "National Water & Sewerage",
         "orderNumber": 4,
         "parentModule": "ndss-dashboard",
@@ -18203,7 +18203,7 @@
     {
         "id": 5333,
         "name": "National Dashboard mCollect",
-        "url": "url",
+        "url": "url1",
         "displayName": "National mCollect",
         "orderNumber": 4,
         "parentModule": "ndss-dashboard",
@@ -18230,7 +18230,7 @@
     {
         "id": 5335,
         "name": "National Dashboard Trade license",
-        "url": "url",
+        "url": "url1",
         "displayName": "National tradelicense",
         "orderNumber": 4,
         "parentModule": "ndss-dashboard",
@@ -18257,7 +18257,7 @@
     {
         "id": 5337,
         "name": "Dashboard OBPS",
-        "url": "url",
+        "url": "url1",
         "displayName": "OBPS",
         "orderNumber": 4,
         "parentModule": "dss-dashboard",
@@ -18272,7 +18272,7 @@
     {
         "id": 5338,
         "name": "National Dashboard OBPS",
-        "url": "url",
+        "url": "url1",
         "displayName": "National Dashboard OBPS",
         "orderNumber": 4,
         "parentModule": "ndss-dashboard",
@@ -18302,7 +18302,7 @@
     {
         "id": 5340,
         "name": "Dashboard Firenoc",
-        "url": "url",
+        "url": "url1",
         "displayName": "Firenoc",
         "orderNumber": 4,
         "parentModule": "dss-dashboard",
@@ -18317,7 +18317,7 @@
     {
         "id": 5341,
         "name": "Dashboard Mcollect",
-        "url": "url",
+        "url": "url1",
         "displayName": "Mcollect",
         "orderNumber": 4,
         "parentModule": "dss-dashboard",
@@ -18344,7 +18344,7 @@
     {
         "id": 5343,
         "name": "National Dashboard Overview",
-        "url": "url",
+        "url": "url1",
         "displayName": "National Overview",
         "orderNumber": 2,
         "parentModule": "ndss-dashboard",
@@ -18421,7 +18421,7 @@
     {
         "id": 5349,
         "name": "BirthRecordsCountReport",
-        "url": "url",
+        "url": "url1",
         "displayName": "Birth Records Count",
         "orderNumber": 9,
         "parentModule": "rainmaker-bnd",
@@ -18460,7 +18460,7 @@
     {
         "id": 5352,
         "name": "DeathRecordsCountReport",
-        "url": "url",
+        "url": "url1",
         "displayName": "Death Records Count",
         "orderNumber": 9,
         "parentModule": "rainmaker-bnd",
@@ -18487,7 +18487,7 @@
     {
         "id": 5360,
         "name": "BirthAndDeathCertificatePayment",
-        "url": "url",
+        "url": "url1",
         "displayName": "BnD Paid and Downloaded Records",
         "orderNumber": 9,
         "parentModule": "rainmaker-bnd",
@@ -18574,7 +18574,7 @@
     {
         "id": 5367,
         "name": "Dashboard Birth and Death",
-        "url": "url",
+        "url": "url1",
         "displayName": "Birth and Death",
         "orderNumber": 4,
         "parentModule": "dss-dashboard",
@@ -18674,7 +18674,7 @@
     {
         "id": 5375,
         "name": "Birth New Registration",
-        "url": "url",
+        "url": "url1",
         "displayName": "Birth New Registration",
         "orderNumber": 4,
         "parentModule": "rainmaker-bnd",
@@ -18689,7 +18689,7 @@
     {
         "id": 5376,
         "name": "Death New Registration",
-        "url": "url",
+        "url": "url1",
         "displayName": "Death New Registration",
         "orderNumber": 4,
         "parentModule": "rainmaker-bnd",
@@ -18704,7 +18704,7 @@
     {
         "id": 5377,
         "name": "Birth Search Certificate",
-        "url": "url",
+        "url": "url1",
         "displayName": "Birth Search Certificate",
         "orderNumber": 4,
         "parentModule": "rainmaker-bnd",
@@ -18719,7 +18719,7 @@
     {
         "id": 5378,
         "name": "Death Search Certificate",
-        "url": "url",
+        "url": "url1",
         "displayName": "Death Search Certificate",
         "orderNumber": 4,
         "parentModule": "rainmaker-bnd",
@@ -19035,7 +19035,7 @@
     {
         "id": 5403,
         "name": "Birth Search Certificate",
-        "url": "url",
+        "url": "url1",
         "displayName": "Birth Search Certificate",
         "orderNumber": 6,
         "parentModule": "",
@@ -19050,7 +19050,7 @@
     {
         "id": 5404,
         "name": "Death Search Certificate",
-        "url": "url",
+        "url": "url1",
         "displayName": "Death Search Certificate",
         "orderNumber": 7,
         "parentModule": "",
@@ -19089,7 +19089,7 @@
     {
         "id": 5407,
         "name": "National Dashboard BND",
-        "url": "url",
+        "url": "url1",
         "displayName": "Birth and Death",
         "orderNumber": 4,
         "parentModule": "ndss-dashboard",
@@ -19186,7 +19186,7 @@
     {
         "id": 5416,
         "name": "TradeLicenseDailyCollectionReport",
-        "url": "url",
+        "url": "url1",
         "displayName": "Trade License Daily Collection Report",
         "orderNumber": 2,
         "parentModule": "rainmaker-tl",
@@ -19225,7 +19225,7 @@
     {
         "id": 5419,
         "name": "TLApplicationStatusReport",
-        "url": "url",
+        "url": "url1",
         "displayName": "Trade License Application Status Report",
         "orderNumber": 2,
         "parentModule": "rainmaker-tl",
@@ -19372,7 +19372,7 @@
     {
         "id": 5428,
         "name": "WnsReceiptRegisterReport",
-        "url": "url",
+        "url": "url1",
         "displayName": "WnS Receipt Register Report",
         "orderNumber": 2,
         "parentModule": "rainmaker-wns",
@@ -19411,7 +19411,7 @@
     {
         "id": 5431,
         "name": "WnsCollectionRegisterReport",
-        "url": "url",
+        "url": "url1",
         "displayName": "WnS Collection Register Report",
         "orderNumber": 2,
         "parentModule": "rainmaker-wns",
@@ -19450,7 +19450,7 @@
     {
         "id": 5434,
         "name": "WnsDefaulterReport",
-        "url": "url",
+        "url": "url1",
         "displayName": "WnS Defaulter Report",
         "orderNumber": 2,
         "parentModule": "rainmaker-wns",
@@ -19507,7 +19507,7 @@
     {
         "id": 5438,
         "name": "ABOUT DASHBOARD",
-        "url": "url",
+        "url": "url1",
         "displayName": "About Dashboard",
         "orderNumber": 11,
         "parentModule": "ndss-dashboard",
@@ -19522,7 +19522,7 @@
     {
         "id": 5439,
         "name": "FAQS",
-        "url": "url",
+        "url": "url1",
         "displayName": "FAQs",
         "orderNumber": 12,
         "parentModule": "ndss-dashboard",
@@ -19915,7 +19915,7 @@
     {
         "id": 5461,
         "name": "National Urban Realtime Dashboard",
-        "url": "url",
+        "url": "url1",
         "displayName": "National Urban Realtime Landing page",
         "orderNumber": 1,
         "parentModule": "ndss-dashboard",
@@ -20169,7 +20169,7 @@
     {
         "id": 5475,
         "name": "ObpsDailyCollectionReport",
-        "url": "url",
+        "url": "url1",
         "displayName": "OBPS Daily Collection Report",
         "orderNumber": 2,
         "parentModule": "rainmaker-obps",
@@ -20208,7 +20208,7 @@
     {
         "id": 5478,
         "name": "ObpsApplicationStatusReport",
-        "url": "url",
+        "url": "url1",
         "displayName": "OBPS Application Status Report",
         "orderNumber": 2,
         "parentModule": "rainmaker-obps",
@@ -20259,7 +20259,7 @@
     {
         "id": 5482,
         "name": "TLRegistryReport",
-        "url": "url",
+        "url": "url1",
         "displayName": "Trade License Registry Report",
         "orderNumber": 2,
         "parentModule": "rainmaker-tl",
@@ -20298,7 +20298,7 @@
     {
         "id": 5485,
         "name": "TLRenewalPendingReport",
-        "url": "url",
+        "url": "url1",
         "displayName": "Trade License Renewal Pending Report",
         "orderNumber": 2,
         "parentModule": "rainmaker-tl",
@@ -20414,7 +20414,7 @@
     {
         "id": 5495,
         "name": "FIRE-NOC",
-        "url": "url",
+        "url": "url1",
         "displayName": "Fire Noc Inbox",
         "orderNumber": 1,
         "parentModule": "",
@@ -20500,7 +20500,7 @@
     {
         "id": 5502,
         "name": "Dashboard Finance",
-        "url": "url",
+        "url": "url1",
         "displayName": "Finance",
         "orderNumber": 15,
         "parentModule": "dss-dashboard",
@@ -20643,7 +20643,7 @@
     {
         "id": 5526,
         "name": "MDMS",
-        "url": "url",
+        "url": "url1",
         "displayName": "Tenant",
         "orderNumber": 1,
         "parentModule": "",
@@ -20681,7 +20681,7 @@
     {
         "id": 5529,
         "name": "MDMS",
-        "url": "url",
+        "url": "url1",
         "displayName": "Actions test",
         "orderNumber": 1,
         "parentModule": "",
@@ -20719,7 +20719,7 @@
     {
         "id": 5532,
         "name": "MDMS",
-        "url": "url",
+        "url": "url1",
         "displayName": "Roles",
         "orderNumber": 1,
         "parentModule": "",
@@ -20757,7 +20757,7 @@
     {
         "id": 5535,
         "name": "MDMS",
-        "url": "url",
+        "url": "url1",
         "displayName": "Roleactions",
         "orderNumber": 1,
         "parentModule": "",
@@ -20795,7 +20795,7 @@
     {
         "id": 5538,
         "name": "MDMS",
-        "url": "url",
+        "url": "url1",
         "displayName": "Roleactions Roles",
         "orderNumber": 1,
         "parentModule": "",
@@ -20833,7 +20833,7 @@
     {
         "id": 5541,
         "name": "MDMS",
-        "url": "url",
+        "url": "url1",
         "displayName": "health field appconfiguration",
         "orderNumber": 1,
         "parentModule": "",
@@ -20883,7 +20883,7 @@
     {
         "id": 5545,
         "name": "MDMS",
-        "url": "url",
+        "url": "url1",
         "displayName": "Default health field appconfiguration",
         "orderNumber": 1,
         "parentModule": "",
