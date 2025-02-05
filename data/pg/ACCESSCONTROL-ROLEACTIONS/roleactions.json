@@ -32580,6 +32580,18 @@
       "actionid": 65,
       "actioncode": "",
       "tenantId": "pg"
+    },
+  {
+      "rolecode": "EMPLOYEE",
+      "actionid": 32,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+  {
+      "rolecode": "UC_EMP",
+      "actionid": 32,
+      "actioncode": "",
+      "tenantId": "pg"
     }
   ]
 }
