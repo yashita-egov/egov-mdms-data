@@ -2704,7 +2704,7 @@
       "code": "null",
       "navigationURL": "/workbench-ui/employee/workbench/mdms-search-v2?moduleName=PQM&masterName=PlantType",
       "path": "9MDMS.PQM.PlantType",
-      "leftIcon": "dynamic:ContractIcon"
+      "leftIcon": ""
     },
     {
       "id": 220,
@@ -15871,7 +15871,7 @@
         "code": "null",
         "path": "FSM.Reports.FSMDailyCollectionReport",
         "navigationURL": "report/fsm/FSMDailyCollectionReport",
-        "leftIcon": "action:description",
+        "leftIcon": "",
         "rightIcon": ""
     },
     {
@@ -15886,7 +15886,7 @@
         "code": "null",
         "path": "FSM.Reports.FSMRequestReport",
         "navigationURL": "report/fsm/FSMRequestReport",
-        "leftIcon": "action:description",
+        "leftIcon": "",
         "rightIcon": ""
     },
     {
@@ -15956,7 +15956,7 @@
         "code": "null",
         "path": "FSM.Reports.FSMVechileLogReport",
         "navigationURL": "report/fsm/FSMVehicleLogReport",
-        "leftIcon": "action:description",
+        "leftIcon": "",
         "rightIcon": ""
     },
     {
@@ -16376,7 +16376,7 @@
         "code": "null",
         "path": "Dashboard.FSM",
         "navigationURL": "/digit-ui/employee/dss/dashboard/fsm",
-        "leftIcon": "places:business-center",
+        "leftIcon": "",
         "rightIcon": ""
     },
     {
