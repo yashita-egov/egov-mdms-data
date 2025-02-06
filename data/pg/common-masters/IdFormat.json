@@ -842,6 +842,10 @@
 	{
             "format": "SY-[cy:yyyy-MM-dd]-[SEQ_EG_DOC_ID]",
             "idname": "ss.surveyid"
-        }
+        },
+	   {
+      "format": "IND-[cy:yyyy-MM-dd]-[SEQ_ADDRESS_IND]",
+      "idname": "individual.id"
+    }
   ]
 }
