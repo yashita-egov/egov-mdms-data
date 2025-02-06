@@ -2695,7 +2695,7 @@
     {
       "id": 219,
       "name": "MDMS",
-      "url": "url1",
+      "url": "url",
       "displayName": "Manage PQM PlantType",
       "orderNumber": 1,
       "parentModule": "",
@@ -2771,7 +2771,7 @@
     {
       "id": 225,
       "name": "MDMS",
-      "url": "url1",
+      "url": "url",
       "displayName": "Manage PQM TestStandard",
       "orderNumber": 1,
       "parentModule": "",
@@ -3131,7 +3131,7 @@
       "displayName": "CreateNewApplication",
       "orderNumber": 0,
       "leftIcon": "",
-      "url": "url1",
+      "url": "url",
       "name": "FSM EMPLOYEE CREATE NEW APPLICATION",
       "enabled": true,
       "navigationURL": "digit-ui/employee/fsm/new-application",
@@ -3347,7 +3347,7 @@
     {
       "id": 270,
       "name": "FSMDailyCollectionReport",
-      "url": "url1",
+      "url": "url",
       "displayName": "FSM Daily Collection Report",
       "orderNumber": 2,
       "parentModule": "",
@@ -3432,7 +3432,7 @@
     {
       "id": 277,
       "name": "FSMVehicleLogReport",
-      "url": "url1",
+      "url": "url",
       "displayName": "FSM Vechile Log Report",
       "orderNumber": 1,
       "parentModule": "",
@@ -3515,7 +3515,7 @@
     {
       "id": 284,
       "name": "FSMDailyDesludingReport",
-      "url": "url1",
+      "url": "url",
       "displayName": "FSM Daily Desluding Report",
       "orderNumber": 2,
       "parentModule": "",
@@ -3552,7 +3552,7 @@
     {
       "id": 287,
       "name": "FSMAreaWiseDailyCollectionReport",
-      "url": "url1",
+      "url": "url",
       "displayName": "FSM Area Wise Collection Report",
       "orderNumber": 2,
       "parentModule": "",
@@ -3589,7 +3589,7 @@
     {
       "id": 290,
       "name": "FSMFSTPPlantWithVehicleLogReport",
-      "url": "url1",
+      "url": "url",
       "displayName": "FSM Fstp Plant With Vehicle Log Report",
       "orderNumber": 2,
       "parentModule": "",
