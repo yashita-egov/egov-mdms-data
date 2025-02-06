@@ -2695,7 +2695,7 @@
     {
       "id": 219,
       "name": "MDMS",
-      "url": "url",
+      "url": "url1",
       "displayName": "Manage PQM PlantType",
       "orderNumber": 1,
       "parentModule": "",
@@ -2771,7 +2771,7 @@
     {
       "id": 225,
       "name": "MDMS",
-      "url": "url",
+      "url": "url1",
       "displayName": "Manage PQM TestStandard",
       "orderNumber": 1,
       "parentModule": "",
@@ -3241,7 +3241,7 @@
     {
       "id": 261,
       "name": "Dashboard FSM",
-      "url": "url",
+      "url": "url1",
       "displayName": "FSM",
       "orderNumber": 8,
       "parentModule": "dss-dashboard",
@@ -3347,7 +3347,7 @@
     {
       "id": 270,
       "name": "FSMDailyCollectionReport",
-      "url": "url",
+      "url": "url1",
       "displayName": "FSM Daily Collection Report",
       "orderNumber": 2,
       "parentModule": "",
@@ -3362,7 +3362,7 @@
     {
       "id": 271,
       "name": "FSMRequestReport",
-      "url": "url",
+      "url": "url1",
       "displayName": "FSM Desludging Request Report",
       "orderNumber": 3,
       "parentModule": "",
@@ -3432,7 +3432,7 @@
     {
       "id": 277,
       "name": "FSMVehicleLogReport",
-      "url": "url",
+      "url": "url1",
       "displayName": "FSM Vechile Log Report",
       "orderNumber": 1,
       "parentModule": "",
@@ -3515,7 +3515,7 @@
     {
       "id": 284,
       "name": "FSMDailyDesludingReport",
-      "url": "url",
+      "url": "url1",
       "displayName": "FSM Daily Desluding Report",
       "orderNumber": 2,
       "parentModule": "",
@@ -3552,7 +3552,7 @@
     {
       "id": 287,
       "name": "FSMAreaWiseDailyCollectionReport",
-      "url": "url",
+      "url": "url1",
       "displayName": "FSM Area Wise Collection Report",
       "orderNumber": 2,
       "parentModule": "",
@@ -3589,7 +3589,7 @@
     {
       "id": 290,
       "name": "FSMFSTPPlantWithVehicleLogReport",
-      "url": "url",
+      "url": "url1",
       "displayName": "FSM Fstp Plant With Vehicle Log Report",
       "orderNumber": 2,
       "parentModule": "",
@@ -15862,7 +15862,7 @@
     {
         "id": 5140,
         "name": "FSMDailyCollectionReport",
-        "url": "url",
+        "url": "url1",
         "displayName": "FSM Daily Collection Report",
         "orderNumber": 2,
         "parentModule": "",
@@ -15947,7 +15947,7 @@
     {
         "id": 5147,
         "name": "FSMVehicleLogReport",
-        "url": "url",
+        "url": "url1",
         "displayName": "FSM Vechile Log Report",
         "orderNumber": 1,
         "parentModule": "",
@@ -16367,7 +16367,7 @@
     {
         "id": 5181,
         "name": "Dashboard FSM",
-        "url": "url",
+        "url": "url1",
         "displayName": "FSM",
         "orderNumber": 14,
         "parentModule": "dss-dashboard",
