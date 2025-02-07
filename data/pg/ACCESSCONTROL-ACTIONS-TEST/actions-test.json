@@ -11026,7 +11026,7 @@
     {
         "id": 4737,
         "name": "UploaderHome",
-        "url": "url",
+        "url": "url1",
         "displayName": "Home",
         "orderNumber": 13,
         "parentModule": "",
@@ -11169,7 +11169,7 @@
     {
         "id": 4748,
         "name": "EmployeeDirectory",
-        "url": "url",
+        "url": "url1",
         "displayName": "Employee Directory",
         "orderNumber": 1,
         "parentModule": "rainmaker-pgr",
@@ -11184,7 +11184,7 @@
     {
         "id": 4749,
         "name": "ContactUs",
-        "url": "url",
+        "url": "url1",
         "displayName": "Contact Us",
         "orderNumber": 1,
         "parentModule": "rainmaker-pgr",
@@ -15160,7 +15160,7 @@
         "displayName": "FstpDetails",
         "orderNumber": 0,
         "leftIcon": "",
-        "url": "url",
+        "url": "url1",
         "name": "FSM FSTP DETAILS",
         "enabled": true,
         "navigationURL": "/digit-ui/employee/fsm/fstp-operator-details/:id",
