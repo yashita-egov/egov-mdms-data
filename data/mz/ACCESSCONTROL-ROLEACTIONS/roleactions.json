@@ -20719,6 +20719,114 @@
       "actionid": 2028,
       "actioncode": "",
       "tenantId": "mz"
-   }
+   },
+    {
+      "rolecode": "NATIONAL_SUPERVISOR",
+      "actionid": 2029,
+      "actioncode": "",
+      "tenantid": "mz"
+    },
+    {
+      "rolecode": "PROVINCIAL_SUPERVISOR",
+      "actionid": 2029,
+      "actioncode": "",
+      "tenantid": "mz"
+    },
+    {
+      "rolecode": "DISTRICT_SUPERVISOR",
+      "actionid": 2029,
+      "actioncode": "",
+      "tenantid": "mz"
+    },
+    {
+      "rolecode": "NATIONAL_SUPERVISOR",
+      "actionid": 2030,
+      "actioncode": "",
+      "tenantid": "mz"
+    },
+    {
+      "rolecode": "PROVINCIAL_SUPERVISOR",
+      "actionid": 2030,
+      "actioncode": "",
+      "tenantid": "mz"
+    },
+    {
+      "rolecode": "DISTRICT_SUPERVISOR",
+      "actionid": 2030,
+      "actioncode": "",
+      "tenantid": "mz"
+    },
+    {
+      "rolecode": "NATIONAL_SUPERVISOR",
+      "actionid": 2031,
+      "actioncode": "",
+      "tenantid": "mz"
+    },
+    {
+      "rolecode": "PROVINCIAL_SUPERVISOR",
+      "actionid": 2031,
+      "actioncode": "",
+      "tenantid": "mz"
+    },
+    {
+      "rolecode": "DISTRICT_SUPERVISOR",
+      "actionid": 2031,
+      "actioncode": "",
+      "tenantid": "mz"
+    },
+    {
+      "rolecode": "NATIONAL_SUPERVISOR",
+      "actionid": 2032,
+      "actioncode": "",
+      "tenantid": "mz"
+    },
+    {
+      "rolecode": "PROVINCIAL_SUPERVISOR",
+      "actionid": 2032,
+      "actioncode": "",
+      "tenantid": "mz"
+    },
+    {
+      "rolecode": "DISTRICT_SUPERVISOR",
+      "actionid": 2032,
+      "actioncode": "",
+      "tenantid": "mz"
+    },
+    {
+      "rolecode": "NATIONAL_SUPERVISOR",
+      "actionid": 2033,
+      "actioncode": "",
+      "tenantid": "mz"
+    },
+    {
+      "rolecode": "PROVINCIAL_SUPERVISOR",
+      "actionid": 2033,
+      "actioncode": "",
+      "tenantid": "mz"
+    },
+    {
+      "rolecode": "DISTRICT_SUPERVISOR",
+      "actionid": 2033,
+      "actioncode": "",
+      "tenantid": "mz"
+    },
+    {
+      "rolecode": "NATIONAL_SUPERVISOR",
+      "actionid": 2034,
+      "actioncode": "",
+      "tenantid": "mz"
+    },
+    {
+      "rolecode": "PROVINCIAL_SUPERVISOR",
+      "actionid": 2034,
+      "actioncode": "",
+      "tenantid": "mz"
+    },
+    {
+      "rolecode": "DISTRICT_SUPERVISOR",
+      "actionid": 2034,
+      "actioncode": "",
+      "tenantid": "mz"
+    }
   ]
 }

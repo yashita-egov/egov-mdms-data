@@ -15270,6 +15270,78 @@
       "orderNumber": 0,
       "serviceCode": "health-mdms-update",
       "parentModule": "health-mdms-update"
+    },
+    {
+      "id": 2029,
+      "name": "DSS Dashboard Config National Health Dashboard",
+      "url": "/dashboard-analytics/dashboard/getDashboardConfig/national-health-dashboard-smc",
+      "parentModule": "",
+      "displayName": "DSS",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "DSS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2030,
+      "name": "DSS Dashboard Config National Health Dashboard",
+      "url": "/dashboard-analytics/dashboard/getDashboardConfig/national-health-dashboard-llin",
+      "parentModule": "",
+      "displayName": "DSS",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "DSS",
+      "code": "null",
+      "path": ""
+    },
+     {
+      "id": 2031,
+      "name": "DSS Dashboard Config Provincial LLIN Health Dashboard",
+      "url": "/dashboard-analytics/dashboard/getDashboardConfig/provincial-health-dashboard-llin",
+      "parentModule": "",
+      "displayName": "DSS",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "DSS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2032,
+      "name": "DSS Dashboard Config District LLIN Health Dashboard",
+      "url": "/dashboard-analytics/dashboard/getDashboardConfig/district-health-dashboard-llin",
+      "parentModule": "",
+      "displayName": "DSS",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "DSS",
+      "code": "null",
+      "path": ""
+    },
+     {
+      "id": 2033,
+      "name": "DSS Dashboard Config Provincial SMC Health Dashboard",
+      "url": "/dashboard-analytics/dashboard/getDashboardConfig/provincial-health-dashboard-smc",
+      "parentModule": "",
+      "displayName": "DSS",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "DSS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2034,
+      "name": "DSS Dashboard Config District SMC Health Dashboard",
+      "url": "/dashboard-analytics/dashboard/getDashboardConfig/district-health-dashboard-smc",
+      "parentModule": "",
+      "displayName": "DSS",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "DSS",
+      "code": "null",
+      "path": ""
     }
   ]
 }
