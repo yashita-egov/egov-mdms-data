@@ -315,6 +315,13 @@
           },
           {
             "type": "LOCALIZATION_MODULE",
+            "name": "hcm-transit-post",
+            "config": {
+              "localStoreTTL": 172800
+            }
+          },
+          {
+            "type": "LOCALIZATION_MODULE",
             "name": "hcm-closedhousehold",
             "config": {
               "localStoreTTL": 172800
