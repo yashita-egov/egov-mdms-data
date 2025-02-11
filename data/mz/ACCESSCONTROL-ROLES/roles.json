@@ -186,6 +186,11 @@
       "code": "COMMUNITY_CREATOR",
       "name": "Community Creator",
       "description": "Community household type Creator"
+    },
+    {
+      "code": "TRANSIT_POST_VACCINATOR",
+      "name": "Transit Post Vaccinator",
+      "description": "Transit post vaccination provider"
     }
   ]
 }
